@@ -1,0 +1,912 @@
+2025-03-17 15:20:47,755 - INFO - Loaded 22 questions successfully
+2025-03-17 15:21:48,206 - WARNING - Not Found: /
+2025-03-17 15:21:49,122 - WARNING - Not Found: /favicon.ico
+2025-03-17 15:22:33,259 - INFO - Question: 1. DELETE operatorini vazifasi?
+2025-03-17 15:22:33,260 - INFO - Normalized: 1 delete operatorini vazifasi
+2025-03-17 15:22:33,260 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,260 - INFO - Question: 2. Qaysi SQL operatorlari ma’lumotlar ustidan murakkab amallarni bajaradi?
+2025-03-17 15:22:33,260 - INFO - Normalized: 2 qaysi sql operatorlari malumotlar ustidan murakkab amallarni bajaradi
+2025-03-17 15:22:33,260 - INFO - Answer: SELECT, UPDATE, INSERT, DELETE
+2025-03-17 15:22:33,260 - INFO - Question: 3. MBBTning vazifasiga nimalar kirmaydi?
+2025-03-17 15:22:33,260 - INFO - Normalized: 3 mbbtning vazifasiga nimalar kirmaydi
+2025-03-17 15:22:33,261 - INFO - Answer: Ma’lumotlar ortiqcha xajmini qisqartirish
+2025-03-17 15:22:33,261 - INFO - Question: 4. Talaba va auditoriya ob’ektlari orasidagi munosabat turini aniqlang
+2025-03-17 15:22:33,261 - INFO - Normalized: 4 talaba va auditoriya obektlari orasidagi munosabat turini aniqlang
+2025-03-17 15:22:33,261 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,261 - INFO - Question: 5. Shahar va viloyat ob’ektlari orasidagi aloqa modelini aniqlang
+2025-03-17 15:22:33,261 - INFO - Normalized: 5 shahar va viloyat obektlari orasidagi aloqa modelini aniqlang
+2025-03-17 15:22:33,261 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,262 - INFO - Question: 6. MINUS operatori nimaga mo‘ljallangan
+2025-03-17 15:22:33,262 - INFO - Normalized: 6 minus operatori nimaga moljallangan
+2025-03-17 15:22:33,262 - INFO - Answer: Birinchi tanlovda mavjud, lekin ikkinchisida yo‘q bo‘lgan natijalarni chiqarish uchun
+2025-03-17 15:22:33,262 - INFO - Question: 7. Tranzaksiya nechta xususiyatga ega
+2025-03-17 15:22:33,262 - INFO - Normalized: 7 tranzaksiya nechta xususiyatga ega
+2025-03-17 15:22:33,262 - INFO - Answer: 4
+2025-03-17 15:22:33,262 - INFO - Question: 8. CREATE operatori vazifasi?
+2025-03-17 15:22:33,262 - INFO - Normalized: 8 create operatori vazifasi
+2025-03-17 15:22:33,262 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,263 - INFO - Question: 9. Nuqtalar o‘rniga to‘g‘ri keladigan so‘zni ko‘rsating ……….ustunlar to‘plami berilgan qatorlar guruhini ko‘rsating:
+2025-03-17 15:22:33,263 - INFO - Normalized: 9 nuqtalar orniga togri keladigan sozni korsating ustunlar toplami berilgan qatorlar guruhini korsating
+2025-03-17 15:22:33,263 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,263 - INFO - Question: 10. Bitta tranzaksiya nechta operatsiyadan iborat bo‘lishi mumkin
+2025-03-17 15:22:33,263 - INFO - Normalized: 10 bitta tranzaksiya nechta operatsiyadan iborat bolishi mumkin
+2025-03-17 15:22:33,263 - INFO - Answer: bir nechta
+2025-03-17 15:22:33,263 - INFO - Question: 11. Qaysi operator yordamida «Birlashma» amali bajariladi
+2025-03-17 15:22:33,263 - INFO - Normalized: 11 qaysi operator yordamida birlashma amali bajariladi
+2025-03-17 15:22:33,263 - INFO - Answer: UNION
+2025-03-17 15:22:33,263 - INFO - Question: 12. To‘gri yozilgan SELECT operatorini ko‘rsating.
+2025-03-17 15:22:33,263 - INFO - Normalized: 12 togri yozilgan select operatorini korsating
+2025-03-17 15:22:33,264 - INFO - Answer: SELECT * FROM Table
+2025-03-17 15:22:33,264 - INFO - Question: 13. Unikal identifikator nima?
+2025-03-17 15:22:33,264 - INFO - Normalized: 13 unikal identifikator nima
+2025-03-17 15:22:33,264 - INFO - Answer: Bir qatorni boshqa qatordan ajratib turadigan qiymatga ega ustun
+2025-03-17 15:22:33,264 - INFO - Question: 14. Qaysi operator yordamida «Proyeksiya» amali bajariladi
+2025-03-17 15:22:33,264 - INFO - Normalized: 14 qaysi operator yordamida proyeksiya amali bajariladi
+2025-03-17 15:22:33,264 - INFO - Answer: SELECT
+2025-03-17 15:22:33,264 - INFO - Question: 15. SELECT operatorini vazifasi?
+2025-03-17 15:22:33,264 - INFO - Normalized: 15 select operatorini vazifasi
+2025-03-17 15:22:33,264 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,264 - INFO - Question: 16. SQL kengaytmasi nimani anglatadi?
+2025-03-17 15:22:33,264 - INFO - Normalized: 16 sql kengaytmasi nimani anglatadi
+2025-03-17 15:22:33,264 - INFO - Answer: Tizimlashtirilgan so‘rov tili
+2025-03-17 15:22:33,264 - INFO - Question: 17. SELECT operatoridan FROM so‘zidan keying yozuv nimani bildiradi?
+2025-03-17 15:22:33,264 - INFO - Normalized: 17 select operatoridan from sozidan keying yozuv nimani bildiradi
+2025-03-17 15:22:33,264 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,264 - INFO - Question: 18. Quyidagi so‘rovda s belgisi nimani anglatadi: SELECT   FROM STUDENT s;
+2025-03-17 15:22:33,264 - INFO - Normalized: 18 quyidagi sorovda s belgisi nimani anglatadi select from student s
+2025-03-17 15:22:33,264 - INFO - Answer: Psevdonim
+2025-03-17 15:22:33,265 - INFO - Question: 19. Domen bu ....?
+2025-03-17 15:22:33,265 - INFO - Normalized: 19 domen bu 
+2025-03-17 15:22:33,265 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,265 - INFO - Question: 20. +, -, * , / operatorlari qanday nomlanadi?
+2025-03-17 15:22:33,265 - INFO - Normalized: 20      operatorlari qanday nomlanadi
+2025-03-17 15:22:33,265 - INFO - Answer: Arifmetik amallar
+2025-03-17 15:22:33,265 - INFO - Question: 21. Ma’lumotlarni taqdim etish modeli nima?
+2025-03-17 15:22:33,265 - INFO - Normalized: 21 malumotlarni taqdim etish modeli nima
+2025-03-17 15:22:33,265 - INFO - Answer: Ma’lumotlar bazasida saqlanuvchi ma’lumotlar mantiqiy strukturasi
+2025-03-17 15:22:33,265 - INFO - Question: 22. Binar aloqaning uch turi to‘g‘ri berilgan javobni ko‘rsating:
+2025-03-17 15:22:33,265 - INFO - Normalized: 22 binar aloqaning uch turi togri berilgan javobni korsating
+2025-03-17 15:22:33,265 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,265 - INFO - Question: 23. Nechta normal forma mavjud?
+2025-03-17 15:22:33,265 - INFO - Normalized: 23 nechta normal forma mavjud
+2025-03-17 15:22:33,265 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,265 - INFO - Question: 24. NOT, AND, OR operatorlari vazifasi nimadan iborat?
+2025-03-17 15:22:33,265 - INFO - Normalized: 24 not and or operatorlari vazifasi nimadan iborat
+2025-03-17 15:22:33,265 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,265 - INFO - Question: 25. Jadvallarni bog‘lashdagi to‘liq  bog‘lanish operatori – bu
+2025-03-17 15:22:33,265 - INFO - Normalized: 25 jadvallarni boglashdagi toliq boglanish operatori  bu
+2025-03-17 15:22:33,265 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,266 - INFO - Question: 26. Jadvallarni bog‘lashdagi chap bog‘lanish operatori  – bu
+2025-03-17 15:22:33,266 - INFO - Normalized: 26 jadvallarni boglashdagi chap boglanish operatori  bu
+2025-03-17 15:22:33,266 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,266 - INFO - Question: 27. TRUE va FALSE  Qiymatini qabul qiluvchi toifalar qanday nomlanadi?
+2025-03-17 15:22:33,266 - INFO - Normalized: 27 true va false qiymatini qabul qiluvchi toifalar qanday nomlanadi
+2025-03-17 15:22:33,266 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,266 - INFO - Question: 28. So‘rovlarda qanday elementlarga psevdonim belgilash mumkin
+2025-03-17 15:22:33,266 - INFO - Normalized: 28 sorovlarda qanday elementlarga psevdonim belgilash mumkin
+2025-03-17 15:22:33,266 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,266 - INFO - Question: 29. Qaysi operatorlardan biri faqatgina bitta qator ustida operatsiya bajarishi mumkin
+2025-03-17 15:22:33,266 - INFO - Normalized: 29 qaysi operatorlardan biri faqatgina bitta qator ustida operatsiya bajarishi mumkin
+2025-03-17 15:22:33,266 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,266 - INFO - Question: 30. Ustun bu?
+2025-03-17 15:22:33,266 - INFO - Normalized: 30 ustun bu
+2025-03-17 15:22:33,266 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,266 - INFO - Question: 31. Katakcha massiv shaklidagi qiymatni qabul qiladimi?
+2025-03-17 15:22:33,266 - INFO - Normalized: 31 katakcha massiv shaklidagi qiymatni qabul qiladimi
+2025-03-17 15:22:33,266 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,266 - INFO - Question: 32. CREATE TABLE jadval yaratish operatorida NOT NULL cheklagichi nimani anglatadi?
+2025-03-17 15:22:33,266 - INFO - Normalized: 32 create table jadval yaratish operatorida not null cheklagichi nimani anglatadi
+2025-03-17 15:22:33,266 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,266 - INFO - Question: 33. Munosobat nima?
+2025-03-17 15:22:33,267 - INFO - Normalized: 33 munosobat nima
+2025-03-17 15:22:33,267 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,267 - INFO - Question: 34. Uchinchi  normal formada quyidagicha talab qo‘yiladi:
+2025-03-17 15:22:33,267 - INFO - Normalized: 34 uchinchi normal formada quyidagicha talab qoyiladi
+2025-03-17 15:22:33,267 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,267 - INFO - Question: 35. SELECT COUNT(ID) FROM STUDENT so‘rovini nima qaytaradi
+2025-03-17 15:22:33,267 - INFO - Normalized: 35 select countid from student sorovini nima qaytaradi
+2025-03-17 15:22:33,267 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,267 - INFO - Question: 36. Jadval ma’lumot kaliti bu ....
+2025-03-17 15:22:33,267 - INFO - Normalized: 36 jadval malumot kaliti bu 
+2025-03-17 15:22:33,267 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,267 - INFO - Question: 37. Jadval ustunidagi yig‘indi qiymati qanday hisoblanadi
+2025-03-17 15:22:33,267 - INFO - Normalized: 37 jadval ustunidagi yigindi qiymati qanday hisoblanadi
+2025-03-17 15:22:33,267 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,267 - INFO - Question: 38. Jadvaldagi ustunga qo‘yilgan qanday cheklanish ustun qiymatlarining yagonaligini ta’minlaydi
+2025-03-17 15:22:33,267 - INFO - Normalized: 38 jadvaldagi ustunga qoyilgan qanday cheklanish ustun qiymatlarining yagonaligini taminlaydi
+2025-03-17 15:22:33,267 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,267 - INFO - Question: 39. Qaysi operator yordamida «Saralash» amali bajariladi
+2025-03-17 15:22:33,267 - INFO - Normalized: 39 qaysi operator yordamida saralash amali bajariladi
+2025-03-17 15:22:33,267 - INFO - Answer: Javob topilmadi
+2025-03-17 15:22:33,267 - INFO - Question: 40. Qaysi korxona relyatsion MBBT yaratish bozorida yetakchi xisoblanadi?
+2025-03-17 15:22:33,268 - INFO - Normalized: 40 qaysi korxona relyatsion mbbt yaratish bozorida yetakchi xisoblanadi
+2025-03-17 15:22:33,268 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:22,387 - INFO - /home/islombek/Desktop/loyihalar/tatu/tatu/tatu.py changed, reloading.
+2025-03-17 15:29:22,674 - INFO - Loaded 22 questions successfully
+2025-03-17 15:29:54,618 - INFO - Question: 1. DELETE operatorini vazifasi?
+2025-03-17 15:29:54,618 - INFO - Normalized: 1 delete operatorini vazifasi
+2025-03-17 15:29:54,618 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,618 - INFO - Question: 2. Qaysi SQL operatorlari ma’lumotlar ustidan murakkab amallarni bajaradi?
+2025-03-17 15:29:54,618 - INFO - Normalized: 2 qaysi sql operatorlari malumotlar ustidan murakkab amallarni bajaradi
+2025-03-17 15:29:54,618 - INFO - Answer: SELECT, UPDATE, INSERT, DELETE
+2025-03-17 15:29:54,618 - INFO - Question: 3. MBBTning vazifasiga nimalar kirmaydi?
+2025-03-17 15:29:54,618 - INFO - Normalized: 3 mbbtning vazifasiga nimalar kirmaydi
+2025-03-17 15:29:54,618 - INFO - Answer: Ma’lumotlar ortiqcha xajmini qisqartirish
+2025-03-17 15:29:54,618 - INFO - Question: 4. Talaba va auditoriya ob’ektlari orasidagi munosabat turini aniqlang
+2025-03-17 15:29:54,618 - INFO - Normalized: 4 talaba va auditoriya obektlari orasidagi munosabat turini aniqlang
+2025-03-17 15:29:54,618 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,618 - INFO - Question: 5. Shahar va viloyat ob’ektlari orasidagi aloqa modelini aniqlang
+2025-03-17 15:29:54,618 - INFO - Normalized: 5 shahar va viloyat obektlari orasidagi aloqa modelini aniqlang
+2025-03-17 15:29:54,618 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,618 - INFO - Question: 6. MINUS operatori nimaga mo‘ljallangan
+2025-03-17 15:29:54,618 - INFO - Normalized: 6 minus operatori nimaga moljallangan
+2025-03-17 15:29:54,619 - INFO - Answer: Birinchi tanlovda mavjud, lekin ikkinchisida yo‘q bo‘lgan natijalarni chiqarish uchun
+2025-03-17 15:29:54,619 - INFO - Question: 7. Tranzaksiya nechta xususiyatga ega
+2025-03-17 15:29:54,619 - INFO - Normalized: 7 tranzaksiya nechta xususiyatga ega
+2025-03-17 15:29:54,619 - INFO - Answer: 4
+2025-03-17 15:29:54,619 - INFO - Question: 8. CREATE operatori vazifasi?
+2025-03-17 15:29:54,619 - INFO - Normalized: 8 create operatori vazifasi
+2025-03-17 15:29:54,619 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,619 - INFO - Question: 9. Nuqtalar o‘rniga to‘g‘ri keladigan so‘zni ko‘rsating ……….ustunlar to‘plami berilgan qatorlar guruhini ko‘rsating:
+2025-03-17 15:29:54,619 - INFO - Normalized: 9 nuqtalar orniga togri keladigan sozni korsating ustunlar toplami berilgan qatorlar guruhini korsating
+2025-03-17 15:29:54,619 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,619 - INFO - Question: 10. Bitta tranzaksiya nechta operatsiyadan iborat bo‘lishi mumkin
+2025-03-17 15:29:54,619 - INFO - Normalized: 10 bitta tranzaksiya nechta operatsiyadan iborat bolishi mumkin
+2025-03-17 15:29:54,619 - INFO - Answer: bir nechta
+2025-03-17 15:29:54,619 - INFO - Question: 11. Qaysi operator yordamida «Birlashma» amali bajariladi
+2025-03-17 15:29:54,619 - INFO - Normalized: 11 qaysi operator yordamida birlashma amali bajariladi
+2025-03-17 15:29:54,619 - INFO - Answer: UNION
+2025-03-17 15:29:54,619 - INFO - Question: 12. To‘gri yozilgan SELECT operatorini ko‘rsating.
+2025-03-17 15:29:54,619 - INFO - Normalized: 12 togri yozilgan select operatorini korsating
+2025-03-17 15:29:54,619 - INFO - Answer: SELECT * FROM Table
+2025-03-17 15:29:54,619 - INFO - Question: 13. Unikal identifikator nima?
+2025-03-17 15:29:54,619 - INFO - Normalized: 13 unikal identifikator nima
+2025-03-17 15:29:54,619 - INFO - Answer: Bir qatorni boshqa qatordan ajratib turadigan qiymatga ega ustun
+2025-03-17 15:29:54,619 - INFO - Question: 14. Qaysi operator yordamida «Proyeksiya» amali bajariladi
+2025-03-17 15:29:54,619 - INFO - Normalized: 14 qaysi operator yordamida proyeksiya amali bajariladi
+2025-03-17 15:29:54,619 - INFO - Answer: SELECT
+2025-03-17 15:29:54,619 - INFO - Question: 15. SELECT operatorini vazifasi?
+2025-03-17 15:29:54,620 - INFO - Normalized: 15 select operatorini vazifasi
+2025-03-17 15:29:54,620 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,620 - INFO - Question: 16. SQL kengaytmasi nimani anglatadi?
+2025-03-17 15:29:54,620 - INFO - Normalized: 16 sql kengaytmasi nimani anglatadi
+2025-03-17 15:29:54,620 - INFO - Answer: Tizimlashtirilgan so‘rov tili
+2025-03-17 15:29:54,620 - INFO - Question: 17. SELECT operatoridan FROM so‘zidan keying yozuv nimani bildiradi?
+2025-03-17 15:29:54,620 - INFO - Normalized: 17 select operatoridan from sozidan keying yozuv nimani bildiradi
+2025-03-17 15:29:54,620 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,620 - INFO - Question: 18. Quyidagi so‘rovda s belgisi nimani anglatadi: SELECT   FROM STUDENT s;
+2025-03-17 15:29:54,620 - INFO - Normalized: 18 quyidagi sorovda s belgisi nimani anglatadi select from student s
+2025-03-17 15:29:54,620 - INFO - Answer: Psevdonim
+2025-03-17 15:29:54,620 - INFO - Question: 19. Domen bu ....?
+2025-03-17 15:29:54,620 - INFO - Normalized: 19 domen bu 
+2025-03-17 15:29:54,620 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,620 - INFO - Question: 20. +, -, * , / operatorlari qanday nomlanadi?
+2025-03-17 15:29:54,620 - INFO - Normalized: 20      operatorlari qanday nomlanadi
+2025-03-17 15:29:54,620 - INFO - Answer: Arifmetik amallar
+2025-03-17 15:29:54,620 - INFO - Question: 21. Ma’lumotlarni taqdim etish modeli nima?
+2025-03-17 15:29:54,620 - INFO - Normalized: 21 malumotlarni taqdim etish modeli nima
+2025-03-17 15:29:54,620 - INFO - Answer: Ma’lumotlar bazasida saqlanuvchi ma’lumotlar mantiqiy strukturasi
+2025-03-17 15:29:54,620 - INFO - Question: 22. Binar aloqaning uch turi to‘g‘ri berilgan javobni ko‘rsating:
+2025-03-17 15:29:54,620 - INFO - Normalized: 22 binar aloqaning uch turi togri berilgan javobni korsating
+2025-03-17 15:29:54,620 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,621 - INFO - Question: 23. Nechta normal forma mavjud?
+2025-03-17 15:29:54,621 - INFO - Normalized: 23 nechta normal forma mavjud
+2025-03-17 15:29:54,621 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,621 - INFO - Question: 24. NOT, AND, OR operatorlari vazifasi nimadan iborat?
+2025-03-17 15:29:54,621 - INFO - Normalized: 24 not and or operatorlari vazifasi nimadan iborat
+2025-03-17 15:29:54,621 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,621 - INFO - Question: 25. Jadvallarni bog‘lashdagi to‘liq  bog‘lanish operatori – bu
+2025-03-17 15:29:54,621 - INFO - Normalized: 25 jadvallarni boglashdagi toliq boglanish operatori  bu
+2025-03-17 15:29:54,621 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,621 - INFO - Question: 26. Jadvallarni bog‘lashdagi chap bog‘lanish operatori  – bu
+2025-03-17 15:29:54,621 - INFO - Normalized: 26 jadvallarni boglashdagi chap boglanish operatori  bu
+2025-03-17 15:29:54,621 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,621 - INFO - Question: 27. TRUE va FALSE  Qiymatini qabul qiluvchi toifalar qanday nomlanadi?
+2025-03-17 15:29:54,621 - INFO - Normalized: 27 true va false qiymatini qabul qiluvchi toifalar qanday nomlanadi
+2025-03-17 15:29:54,621 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,621 - INFO - Question: 28. So‘rovlarda qanday elementlarga psevdonim belgilash mumkin
+2025-03-17 15:29:54,621 - INFO - Normalized: 28 sorovlarda qanday elementlarga psevdonim belgilash mumkin
+2025-03-17 15:29:54,621 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,621 - INFO - Question: 29. Qaysi operatorlardan biri faqatgina bitta qator ustida operatsiya bajarishi mumkin
+2025-03-17 15:29:54,621 - INFO - Normalized: 29 qaysi operatorlardan biri faqatgina bitta qator ustida operatsiya bajarishi mumkin
+2025-03-17 15:29:54,621 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,621 - INFO - Question: 30. Ustun bu?
+2025-03-17 15:29:54,621 - INFO - Normalized: 30 ustun bu
+2025-03-17 15:29:54,621 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,621 - INFO - Question: 31. Katakcha massiv shaklidagi qiymatni qabul qiladimi?
+2025-03-17 15:29:54,621 - INFO - Normalized: 31 katakcha massiv shaklidagi qiymatni qabul qiladimi
+2025-03-17 15:29:54,621 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,622 - INFO - Question: 32. CREATE TABLE jadval yaratish operatorida NOT NULL cheklagichi nimani anglatadi?
+2025-03-17 15:29:54,622 - INFO - Normalized: 32 create table jadval yaratish operatorida not null cheklagichi nimani anglatadi
+2025-03-17 15:29:54,622 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,622 - INFO - Question: 33. Munosobat nima?
+2025-03-17 15:29:54,622 - INFO - Normalized: 33 munosobat nima
+2025-03-17 15:29:54,622 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,622 - INFO - Question: 34. Uchinchi  normal formada quyidagicha talab qo‘yiladi:
+2025-03-17 15:29:54,622 - INFO - Normalized: 34 uchinchi normal formada quyidagicha talab qoyiladi
+2025-03-17 15:29:54,622 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,622 - INFO - Question: 35. SELECT COUNT(ID) FROM STUDENT so‘rovini nima qaytaradi
+2025-03-17 15:29:54,622 - INFO - Normalized: 35 select countid from student sorovini nima qaytaradi
+2025-03-17 15:29:54,622 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,622 - INFO - Question: 36. Jadval ma’lumot kaliti bu ....
+2025-03-17 15:29:54,622 - INFO - Normalized: 36 jadval malumot kaliti bu 
+2025-03-17 15:29:54,622 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,622 - INFO - Question: 37. Jadval ustunidagi yig‘indi qiymati qanday hisoblanadi
+2025-03-17 15:29:54,622 - INFO - Normalized: 37 jadval ustunidagi yigindi qiymati qanday hisoblanadi
+2025-03-17 15:29:54,622 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,622 - INFO - Question: 38. Jadvaldagi ustunga qo‘yilgan qanday cheklanish ustun qiymatlarining yagonaligini ta’minlaydi
+2025-03-17 15:29:54,622 - INFO - Normalized: 38 jadvaldagi ustunga qoyilgan qanday cheklanish ustun qiymatlarining yagonaligini taminlaydi
+2025-03-17 15:29:54,622 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,622 - INFO - Question: 39. Qaysi operator yordamida «Saralash» amali bajariladi
+2025-03-17 15:29:54,622 - INFO - Normalized: 39 qaysi operator yordamida saralash amali bajariladi
+2025-03-17 15:29:54,622 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,622 - INFO - Question: 40. Qaysi korxona relyatsion MBBT yaratish bozorida yetakchi xisoblanadi?
+2025-03-17 15:29:54,622 - INFO - Normalized: 40 qaysi korxona relyatsion mbbt yaratish bozorida yetakchi xisoblanadi
+2025-03-17 15:29:54,622 - INFO - Answer: Javob topilmadi
+2025-03-17 15:29:54,646 - ERROR - Internal Server Error: /search/
+Traceback (most recent call last):
+  File "/home/islombek/Desktop/loyihalar/tatu/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/islombek/Desktop/loyihalar/tatu/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "/home/islombek/Desktop/loyihalar/tatu/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view tatu.tatu.search_answer didn't return an HttpResponse object. It returned None instead.
+2025-03-17 15:30:18,331 - INFO - Question: 1. DELETE operatorini vazifasi?
+2025-03-17 15:30:18,331 - INFO - Normalized: 1 delete operatorini vazifasi
+2025-03-17 15:30:18,331 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,332 - INFO - Question: 2. Qaysi SQL operatorlari ma’lumotlar ustidan murakkab amallarni bajaradi?
+2025-03-17 15:30:18,332 - INFO - Normalized: 2 qaysi sql operatorlari malumotlar ustidan murakkab amallarni bajaradi
+2025-03-17 15:30:18,332 - INFO - Answer: SELECT, UPDATE, INSERT, DELETE
+2025-03-17 15:30:18,332 - INFO - Question: 3. MBBTning vazifasiga nimalar kirmaydi?
+2025-03-17 15:30:18,332 - INFO - Normalized: 3 mbbtning vazifasiga nimalar kirmaydi
+2025-03-17 15:30:18,332 - INFO - Answer: Ma’lumotlar ortiqcha xajmini qisqartirish
+2025-03-17 15:30:18,332 - INFO - Question: 4. Talaba va auditoriya ob’ektlari orasidagi munosabat turini aniqlang
+2025-03-17 15:30:18,332 - INFO - Normalized: 4 talaba va auditoriya obektlari orasidagi munosabat turini aniqlang
+2025-03-17 15:30:18,332 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,333 - INFO - Question: 5. Shahar va viloyat ob’ektlari orasidagi aloqa modelini aniqlang
+2025-03-17 15:30:18,333 - INFO - Normalized: 5 shahar va viloyat obektlari orasidagi aloqa modelini aniqlang
+2025-03-17 15:30:18,333 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,333 - INFO - Question: 6. MINUS operatori nimaga mo‘ljallangan
+2025-03-17 15:30:18,333 - INFO - Normalized: 6 minus operatori nimaga moljallangan
+2025-03-17 15:30:18,333 - INFO - Answer: Birinchi tanlovda mavjud, lekin ikkinchisida yo‘q bo‘lgan natijalarni chiqarish uchun
+2025-03-17 15:30:18,333 - INFO - Question: 7. Tranzaksiya nechta xususiyatga ega
+2025-03-17 15:30:18,333 - INFO - Normalized: 7 tranzaksiya nechta xususiyatga ega
+2025-03-17 15:30:18,334 - INFO - Answer: 4
+2025-03-17 15:30:18,334 - INFO - Question: 8. CREATE operatori vazifasi?
+2025-03-17 15:30:18,334 - INFO - Normalized: 8 create operatori vazifasi
+2025-03-17 15:30:18,334 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,334 - INFO - Question: 9. Nuqtalar o‘rniga to‘g‘ri keladigan so‘zni ko‘rsating ……….ustunlar to‘plami berilgan qatorlar guruhini ko‘rsating:
+2025-03-17 15:30:18,334 - INFO - Normalized: 9 nuqtalar orniga togri keladigan sozni korsating ustunlar toplami berilgan qatorlar guruhini korsating
+2025-03-17 15:30:18,334 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,334 - INFO - Question: 10. Bitta tranzaksiya nechta operatsiyadan iborat bo‘lishi mumkin
+2025-03-17 15:30:18,334 - INFO - Normalized: 10 bitta tranzaksiya nechta operatsiyadan iborat bolishi mumkin
+2025-03-17 15:30:18,334 - INFO - Answer: bir nechta
+2025-03-17 15:30:18,335 - INFO - Question: 11. Qaysi operator yordamida «Birlashma» amali bajariladi
+2025-03-17 15:30:18,335 - INFO - Normalized: 11 qaysi operator yordamida birlashma amali bajariladi
+2025-03-17 15:30:18,335 - INFO - Answer: UNION
+2025-03-17 15:30:18,335 - INFO - Question: 12. To‘gri yozilgan SELECT operatorini ko‘rsating.
+2025-03-17 15:30:18,335 - INFO - Normalized: 12 togri yozilgan select operatorini korsating
+2025-03-17 15:30:18,335 - INFO - Answer: SELECT * FROM Table
+2025-03-17 15:30:18,335 - INFO - Question: 13. Unikal identifikator nima?
+2025-03-17 15:30:18,335 - INFO - Normalized: 13 unikal identifikator nima
+2025-03-17 15:30:18,335 - INFO - Answer: Bir qatorni boshqa qatordan ajratib turadigan qiymatga ega ustun
+2025-03-17 15:30:18,335 - INFO - Question: 14. Qaysi operator yordamida «Proyeksiya» amali bajariladi
+2025-03-17 15:30:18,335 - INFO - Normalized: 14 qaysi operator yordamida proyeksiya amali bajariladi
+2025-03-17 15:30:18,335 - INFO - Answer: SELECT
+2025-03-17 15:30:18,335 - INFO - Question: 15. SELECT operatorini vazifasi?
+2025-03-17 15:30:18,335 - INFO - Normalized: 15 select operatorini vazifasi
+2025-03-17 15:30:18,335 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,335 - INFO - Question: 16. SQL kengaytmasi nimani anglatadi?
+2025-03-17 15:30:18,335 - INFO - Normalized: 16 sql kengaytmasi nimani anglatadi
+2025-03-17 15:30:18,335 - INFO - Answer: Tizimlashtirilgan so‘rov tili
+2025-03-17 15:30:18,335 - INFO - Question: 17. SELECT operatoridan FROM so‘zidan keying yozuv nimani bildiradi?
+2025-03-17 15:30:18,335 - INFO - Normalized: 17 select operatoridan from sozidan keying yozuv nimani bildiradi
+2025-03-17 15:30:18,335 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,335 - INFO - Question: 18. Quyidagi so‘rovda s belgisi nimani anglatadi: SELECT   FROM STUDENT s;
+2025-03-17 15:30:18,336 - INFO - Normalized: 18 quyidagi sorovda s belgisi nimani anglatadi select from student s
+2025-03-17 15:30:18,336 - INFO - Answer: Psevdonim
+2025-03-17 15:30:18,336 - INFO - Question: 19. Domen bu ....?
+2025-03-17 15:30:18,336 - INFO - Normalized: 19 domen bu 
+2025-03-17 15:30:18,336 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,336 - INFO - Question: 20. +, -, * , / operatorlari qanday nomlanadi?
+2025-03-17 15:30:18,336 - INFO - Normalized: 20      operatorlari qanday nomlanadi
+2025-03-17 15:30:18,336 - INFO - Answer: Arifmetik amallar
+2025-03-17 15:30:18,336 - INFO - Question: 21. Ma’lumotlarni taqdim etish modeli nima?
+2025-03-17 15:30:18,336 - INFO - Normalized: 21 malumotlarni taqdim etish modeli nima
+2025-03-17 15:30:18,336 - INFO - Answer: Ma’lumotlar bazasida saqlanuvchi ma’lumotlar mantiqiy strukturasi
+2025-03-17 15:30:18,336 - INFO - Question: 22. Binar aloqaning uch turi to‘g‘ri berilgan javobni ko‘rsating:
+2025-03-17 15:30:18,336 - INFO - Normalized: 22 binar aloqaning uch turi togri berilgan javobni korsating
+2025-03-17 15:30:18,336 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,336 - INFO - Question: 23. Nechta normal forma mavjud?
+2025-03-17 15:30:18,336 - INFO - Normalized: 23 nechta normal forma mavjud
+2025-03-17 15:30:18,336 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,336 - INFO - Question: 24. NOT, AND, OR operatorlari vazifasi nimadan iborat?
+2025-03-17 15:30:18,336 - INFO - Normalized: 24 not and or operatorlari vazifasi nimadan iborat
+2025-03-17 15:30:18,336 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,336 - INFO - Question: 25. Jadvallarni bog‘lashdagi to‘liq  bog‘lanish operatori – bu
+2025-03-17 15:30:18,336 - INFO - Normalized: 25 jadvallarni boglashdagi toliq boglanish operatori  bu
+2025-03-17 15:30:18,336 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,336 - INFO - Question: 26. Jadvallarni bog‘lashdagi chap bog‘lanish operatori  – bu
+2025-03-17 15:30:18,336 - INFO - Normalized: 26 jadvallarni boglashdagi chap boglanish operatori  bu
+2025-03-17 15:30:18,336 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,336 - INFO - Question: 27. TRUE va FALSE  Qiymatini qabul qiluvchi toifalar qanday nomlanadi?
+2025-03-17 15:30:18,336 - INFO - Normalized: 27 true va false qiymatini qabul qiluvchi toifalar qanday nomlanadi
+2025-03-17 15:30:18,336 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,337 - INFO - Question: 28. So‘rovlarda qanday elementlarga psevdonim belgilash mumkin
+2025-03-17 15:30:18,337 - INFO - Normalized: 28 sorovlarda qanday elementlarga psevdonim belgilash mumkin
+2025-03-17 15:30:18,337 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,337 - INFO - Question: 29. Qaysi operatorlardan biri faqatgina bitta qator ustida operatsiya bajarishi mumkin
+2025-03-17 15:30:18,337 - INFO - Normalized: 29 qaysi operatorlardan biri faqatgina bitta qator ustida operatsiya bajarishi mumkin
+2025-03-17 15:30:18,337 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,337 - INFO - Question: 30. Ustun bu?
+2025-03-17 15:30:18,337 - INFO - Normalized: 30 ustun bu
+2025-03-17 15:30:18,337 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,337 - INFO - Question: 31. Katakcha massiv shaklidagi qiymatni qabul qiladimi?
+2025-03-17 15:30:18,337 - INFO - Normalized: 31 katakcha massiv shaklidagi qiymatni qabul qiladimi
+2025-03-17 15:30:18,337 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,337 - INFO - Question: 32. CREATE TABLE jadval yaratish operatorida NOT NULL cheklagichi nimani anglatadi?
+2025-03-17 15:30:18,337 - INFO - Normalized: 32 create table jadval yaratish operatorida not null cheklagichi nimani anglatadi
+2025-03-17 15:30:18,337 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,337 - INFO - Question: 33. Munosobat nima?
+2025-03-17 15:30:18,337 - INFO - Normalized: 33 munosobat nima
+2025-03-17 15:30:18,337 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,337 - INFO - Question: 34. Uchinchi  normal formada quyidagicha talab qo‘yiladi:
+2025-03-17 15:30:18,337 - INFO - Normalized: 34 uchinchi normal formada quyidagicha talab qoyiladi
+2025-03-17 15:30:18,337 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,337 - INFO - Question: 35. SELECT COUNT(ID) FROM STUDENT so‘rovini nima qaytaradi
+2025-03-17 15:30:18,338 - INFO - Normalized: 35 select countid from student sorovini nima qaytaradi
+2025-03-17 15:30:18,338 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,338 - INFO - Question: 36. Jadval ma’lumot kaliti bu ....
+2025-03-17 15:30:18,338 - INFO - Normalized: 36 jadval malumot kaliti bu 
+2025-03-17 15:30:18,338 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,338 - INFO - Question: 37. Jadval ustunidagi yig‘indi qiymati qanday hisoblanadi
+2025-03-17 15:30:18,338 - INFO - Normalized: 37 jadval ustunidagi yigindi qiymati qanday hisoblanadi
+2025-03-17 15:30:18,338 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,338 - INFO - Question: 38. Jadvaldagi ustunga qo‘yilgan qanday cheklanish ustun qiymatlarining yagonaligini ta’minlaydi
+2025-03-17 15:30:18,338 - INFO - Normalized: 38 jadvaldagi ustunga qoyilgan qanday cheklanish ustun qiymatlarining yagonaligini taminlaydi
+2025-03-17 15:30:18,338 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,338 - INFO - Question: 39. Qaysi operator yordamida «Saralash» amali bajariladi
+2025-03-17 15:30:18,338 - INFO - Normalized: 39 qaysi operator yordamida saralash amali bajariladi
+2025-03-17 15:30:18,338 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,338 - INFO - Question: 40. Qaysi korxona relyatsion MBBT yaratish bozorida yetakchi xisoblanadi?
+2025-03-17 15:30:18,338 - INFO - Normalized: 40 qaysi korxona relyatsion mbbt yaratish bozorida yetakchi xisoblanadi
+2025-03-17 15:30:18,338 - INFO - Answer: Javob topilmadi
+2025-03-17 15:30:18,349 - ERROR - Internal Server Error: /search/
+Traceback (most recent call last):
+  File "/home/islombek/Desktop/loyihalar/tatu/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/islombek/Desktop/loyihalar/tatu/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "/home/islombek/Desktop/loyihalar/tatu/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view tatu.tatu.search_answer didn't return an HttpResponse object. It returned None instead.
+2025-03-17 15:31:53,510 - INFO - /home/islombek/Desktop/loyihalar/tatu/tatu/tatu.py changed, reloading.
+2025-03-17 15:32:19,109 - INFO - /home/islombek/Desktop/loyihalar/tatu/tatu/tatu.py changed, reloading.
+2025-03-17 15:32:19,358 - INFO - Loaded 22 questions successfully
+2025-03-17 15:32:29,574 - INFO - /home/islombek/Desktop/loyihalar/tatu/tatu/tatu.py changed, reloading.
+2025-03-17 15:32:50,121 - INFO - /home/islombek/Desktop/loyihalar/tatu/tatu/tatu.py changed, reloading.
+2025-03-17 15:32:50,363 - INFO - Loaded 22 questions successfully
+2025-03-17 15:33:06,647 - INFO - /home/islombek/Desktop/loyihalar/tatu/tatu/tatu.py changed, reloading.
+2025-03-17 15:33:06,900 - INFO - Loaded 22 questions successfully
+2025-03-17 15:33:28,159 - INFO - Question: 1. DELETE operatorini vazifasi?
+2025-03-17 15:33:28,159 - INFO - Normalized: 1 delete operatorini vazifasi
+2025-03-17 15:33:28,159 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,160 - INFO - Question: 2. Qaysi SQL operatorlari ma’lumotlar ustidan murakkab amallarni bajaradi?
+2025-03-17 15:33:28,160 - INFO - Normalized: 2 qaysi sql operatorlari malumotlar ustidan murakkab amallarni bajaradi
+2025-03-17 15:33:28,160 - INFO - Answer: SELECT, UPDATE, INSERT, DELETE
+2025-03-17 15:33:28,160 - INFO - Question: 3. MBBTning vazifasiga nimalar kirmaydi?
+2025-03-17 15:33:28,160 - INFO - Normalized: 3 mbbtning vazifasiga nimalar kirmaydi
+2025-03-17 15:33:28,160 - INFO - Answer: Ma’lumotlar ortiqcha xajmini qisqartirish
+2025-03-17 15:33:28,160 - INFO - Question: 4. Talaba va auditoriya ob’ektlari orasidagi munosabat turini aniqlang
+2025-03-17 15:33:28,161 - INFO - Normalized: 4 talaba va auditoriya obektlari orasidagi munosabat turini aniqlang
+2025-03-17 15:33:28,161 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,161 - INFO - Question: 5. Shahar va viloyat ob’ektlari orasidagi aloqa modelini aniqlang
+2025-03-17 15:33:28,161 - INFO - Normalized: 5 shahar va viloyat obektlari orasidagi aloqa modelini aniqlang
+2025-03-17 15:33:28,161 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,161 - INFO - Question: 6. MINUS operatori nimaga mo‘ljallangan
+2025-03-17 15:33:28,161 - INFO - Normalized: 6 minus operatori nimaga moljallangan
+2025-03-17 15:33:28,161 - INFO - Answer: Birinchi tanlovda mavjud, lekin ikkinchisida yo‘q bo‘lgan natijalarni chiqarish uchun
+2025-03-17 15:33:28,162 - INFO - Question: 7. Tranzaksiya nechta xususiyatga ega
+2025-03-17 15:33:28,162 - INFO - Normalized: 7 tranzaksiya nechta xususiyatga ega
+2025-03-17 15:33:28,162 - INFO - Answer: 4
+2025-03-17 15:33:28,162 - INFO - Question: 8. CREATE operatori vazifasi?
+2025-03-17 15:33:28,162 - INFO - Normalized: 8 create operatori vazifasi
+2025-03-17 15:33:28,162 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,162 - INFO - Question: 9. Nuqtalar o‘rniga to‘g‘ri keladigan so‘zni ko‘rsating ……….ustunlar to‘plami berilgan qatorlar guruhini ko‘rsating:
+2025-03-17 15:33:28,163 - INFO - Normalized: 9 nuqtalar orniga togri keladigan sozni korsating ustunlar toplami berilgan qatorlar guruhini korsating
+2025-03-17 15:33:28,163 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,163 - INFO - Question: 10. Bitta tranzaksiya nechta operatsiyadan iborat bo‘lishi mumkin
+2025-03-17 15:33:28,163 - INFO - Normalized: 10 bitta tranzaksiya nechta operatsiyadan iborat bolishi mumkin
+2025-03-17 15:33:28,163 - INFO - Answer: bir nechta
+2025-03-17 15:33:28,163 - INFO - Question: 11. Qaysi operator yordamida «Birlashma» amali bajariladi
+2025-03-17 15:33:28,163 - INFO - Normalized: 11 qaysi operator yordamida birlashma amali bajariladi
+2025-03-17 15:33:28,163 - INFO - Answer: UNION
+2025-03-17 15:33:28,163 - INFO - Question: 12. To‘gri yozilgan SELECT operatorini ko‘rsating.
+2025-03-17 15:33:28,164 - INFO - Normalized: 12 togri yozilgan select operatorini korsating
+2025-03-17 15:33:28,164 - INFO - Answer: SELECT * FROM Table
+2025-03-17 15:33:28,164 - INFO - Question: 13. Unikal identifikator nima?
+2025-03-17 15:33:28,164 - INFO - Normalized: 13 unikal identifikator nima
+2025-03-17 15:33:28,164 - INFO - Answer: Bir qatorni boshqa qatordan ajratib turadigan qiymatga ega ustun
+2025-03-17 15:33:28,164 - INFO - Question: 14. Qaysi operator yordamida «Proyeksiya» amali bajariladi
+2025-03-17 15:33:28,164 - INFO - Normalized: 14 qaysi operator yordamida proyeksiya amali bajariladi
+2025-03-17 15:33:28,164 - INFO - Answer: SELECT
+2025-03-17 15:33:28,165 - INFO - Question: 15. SELECT operatorini vazifasi?
+2025-03-17 15:33:28,165 - INFO - Normalized: 15 select operatorini vazifasi
+2025-03-17 15:33:28,165 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,165 - INFO - Question: 16. SQL kengaytmasi nimani anglatadi?
+2025-03-17 15:33:28,165 - INFO - Normalized: 16 sql kengaytmasi nimani anglatadi
+2025-03-17 15:33:28,165 - INFO - Answer: Tizimlashtirilgan so‘rov tili
+2025-03-17 15:33:28,165 - INFO - Question: 17. SELECT operatoridan FROM so‘zidan keying yozuv nimani bildiradi?
+2025-03-17 15:33:28,166 - INFO - Normalized: 17 select operatoridan from sozidan keying yozuv nimani bildiradi
+2025-03-17 15:33:28,166 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,166 - INFO - Question: 18. Quyidagi so‘rovda s belgisi nimani anglatadi: SELECT   FROM STUDENT s;
+2025-03-17 15:33:28,166 - INFO - Normalized: 18 quyidagi sorovda s belgisi nimani anglatadi select from student s
+2025-03-17 15:33:28,166 - INFO - Answer: Psevdonim
+2025-03-17 15:33:28,166 - INFO - Question: 19. Domen bu ....?
+2025-03-17 15:33:28,166 - INFO - Normalized: 19 domen bu 
+2025-03-17 15:33:28,167 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,167 - INFO - Question: 20. +, -, * , / operatorlari qanday nomlanadi?
+2025-03-17 15:33:28,167 - INFO - Normalized: 20      operatorlari qanday nomlanadi
+2025-03-17 15:33:28,167 - INFO - Answer: Arifmetik amallar
+2025-03-17 15:33:28,167 - INFO - Question: 21. Ma’lumotlarni taqdim etish modeli nima?
+2025-03-17 15:33:28,167 - INFO - Normalized: 21 malumotlarni taqdim etish modeli nima
+2025-03-17 15:33:28,167 - INFO - Answer: Ma’lumotlar bazasida saqlanuvchi ma’lumotlar mantiqiy strukturasi
+2025-03-17 15:33:28,168 - INFO - Question: 22. Binar aloqaning uch turi to‘g‘ri berilgan javobni ko‘rsating:
+2025-03-17 15:33:28,168 - INFO - Normalized: 22 binar aloqaning uch turi togri berilgan javobni korsating
+2025-03-17 15:33:28,168 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,168 - INFO - Question: 23. Nechta normal forma mavjud?
+2025-03-17 15:33:28,168 - INFO - Normalized: 23 nechta normal forma mavjud
+2025-03-17 15:33:28,168 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,168 - INFO - Question: 24. NOT, AND, OR operatorlari vazifasi nimadan iborat?
+2025-03-17 15:33:28,168 - INFO - Normalized: 24 not and or operatorlari vazifasi nimadan iborat
+2025-03-17 15:33:28,168 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,168 - INFO - Question: 25. Jadvallarni bog‘lashdagi to‘liq  bog‘lanish operatori – bu
+2025-03-17 15:33:28,168 - INFO - Normalized: 25 jadvallarni boglashdagi toliq boglanish operatori  bu
+2025-03-17 15:33:28,168 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,168 - INFO - Question: 26. Jadvallarni bog‘lashdagi chap bog‘lanish operatori  – bu
+2025-03-17 15:33:28,168 - INFO - Normalized: 26 jadvallarni boglashdagi chap boglanish operatori  bu
+2025-03-17 15:33:28,168 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,168 - INFO - Question: 27. TRUE va FALSE  Qiymatini qabul qiluvchi toifalar qanday nomlanadi?
+2025-03-17 15:33:28,168 - INFO - Normalized: 27 true va false qiymatini qabul qiluvchi toifalar qanday nomlanadi
+2025-03-17 15:33:28,169 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,169 - INFO - Question: 28. So‘rovlarda qanday elementlarga psevdonim belgilash mumkin
+2025-03-17 15:33:28,169 - INFO - Normalized: 28 sorovlarda qanday elementlarga psevdonim belgilash mumkin
+2025-03-17 15:33:28,169 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,169 - INFO - Question: 29. Qaysi operatorlardan biri faqatgina bitta qator ustida operatsiya bajarishi mumkin
+2025-03-17 15:33:28,169 - INFO - Normalized: 29 qaysi operatorlardan biri faqatgina bitta qator ustida operatsiya bajarishi mumkin
+2025-03-17 15:33:28,169 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,169 - INFO - Question: 30. Ustun bu?
+2025-03-17 15:33:28,169 - INFO - Normalized: 30 ustun bu
+2025-03-17 15:33:28,169 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,169 - INFO - Question: 31. Katakcha massiv shaklidagi qiymatni qabul qiladimi?
+2025-03-17 15:33:28,169 - INFO - Normalized: 31 katakcha massiv shaklidagi qiymatni qabul qiladimi
+2025-03-17 15:33:28,169 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,169 - INFO - Question: 32. CREATE TABLE jadval yaratish operatorida NOT NULL cheklagichi nimani anglatadi?
+2025-03-17 15:33:28,169 - INFO - Normalized: 32 create table jadval yaratish operatorida not null cheklagichi nimani anglatadi
+2025-03-17 15:33:28,169 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,169 - INFO - Question: 33. Munosobat nima?
+2025-03-17 15:33:28,169 - INFO - Normalized: 33 munosobat nima
+2025-03-17 15:33:28,169 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,169 - INFO - Question: 34. Uchinchi  normal formada quyidagicha talab qo‘yiladi:
+2025-03-17 15:33:28,169 - INFO - Normalized: 34 uchinchi normal formada quyidagicha talab qoyiladi
+2025-03-17 15:33:28,169 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,169 - INFO - Question: 35. SELECT COUNT(ID) FROM STUDENT so‘rovini nima qaytaradi
+2025-03-17 15:33:28,169 - INFO - Normalized: 35 select countid from student sorovini nima qaytaradi
+2025-03-17 15:33:28,169 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,170 - INFO - Question: 36. Jadval ma’lumot kaliti bu ....
+2025-03-17 15:33:28,170 - INFO - Normalized: 36 jadval malumot kaliti bu 
+2025-03-17 15:33:28,170 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,170 - INFO - Question: 37. Jadval ustunidagi yig‘indi qiymati qanday hisoblanadi
+2025-03-17 15:33:28,170 - INFO - Normalized: 37 jadval ustunidagi yigindi qiymati qanday hisoblanadi
+2025-03-17 15:33:28,170 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,170 - INFO - Question: 38. Jadvaldagi ustunga qo‘yilgan qanday cheklanish ustun qiymatlarining yagonaligini ta’minlaydi
+2025-03-17 15:33:28,170 - INFO - Normalized: 38 jadvaldagi ustunga qoyilgan qanday cheklanish ustun qiymatlarining yagonaligini taminlaydi
+2025-03-17 15:33:28,170 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,170 - INFO - Question: 39. Qaysi operator yordamida «Saralash» amali bajariladi
+2025-03-17 15:33:28,170 - INFO - Normalized: 39 qaysi operator yordamida saralash amali bajariladi
+2025-03-17 15:33:28,170 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,170 - INFO - Question: 40. Qaysi korxona relyatsion MBBT yaratish bozorida yetakchi xisoblanadi?
+2025-03-17 15:33:28,170 - INFO - Normalized: 40 qaysi korxona relyatsion mbbt yaratish bozorida yetakchi xisoblanadi
+2025-03-17 15:33:28,170 - INFO - Answer: Javob topilmadi
+2025-03-17 15:33:28,185 - ERROR - Internal Server Error: /search/
+Traceback (most recent call last):
+  File "/home/islombek/Desktop/loyihalar/tatu/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/islombek/Desktop/loyihalar/tatu/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "/home/islombek/Desktop/loyihalar/tatu/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view tatu.tatu.search_answer didn't return an HttpResponse object. It returned None instead.
+2025-03-17 15:36:04,033 - INFO - /home/islombek/Desktop/loyihalar/tatu/tatu/tatu.py changed, reloading.
+2025-03-17 15:36:04,315 - INFO - Loaded 22 questions successfully
+2025-03-17 15:36:17,630 - INFO - Question: 1. DELETE operatorini vazifasi?
+2025-03-17 15:36:17,631 - INFO - Normalized: 1 delete operatorini vazifasi
+2025-03-17 15:36:17,631 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,631 - INFO - Question: 2. Qaysi SQL operatorlari ma’lumotlar ustidan murakkab amallarni bajaradi?
+2025-03-17 15:36:17,631 - INFO - Normalized: 2 qaysi sql operatorlari malumotlar ustidan murakkab amallarni bajaradi
+2025-03-17 15:36:17,631 - INFO - Answer: SELECT, UPDATE, INSERT, DELETE
+2025-03-17 15:36:17,631 - INFO - Question: 3. MBBTning vazifasiga nimalar kirmaydi?
+2025-03-17 15:36:17,631 - INFO - Normalized: 3 mbbtning vazifasiga nimalar kirmaydi
+2025-03-17 15:36:17,631 - INFO - Answer: Ma’lumotlar ortiqcha xajmini qisqartirish
+2025-03-17 15:36:17,631 - INFO - Question: 4. Talaba va auditoriya ob’ektlari orasidagi munosabat turini aniqlang
+2025-03-17 15:36:17,631 - INFO - Normalized: 4 talaba va auditoriya obektlari orasidagi munosabat turini aniqlang
+2025-03-17 15:36:17,631 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,631 - INFO - Question: 5. Shahar va viloyat ob’ektlari orasidagi aloqa modelini aniqlang
+2025-03-17 15:36:17,631 - INFO - Normalized: 5 shahar va viloyat obektlari orasidagi aloqa modelini aniqlang
+2025-03-17 15:36:17,631 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,631 - INFO - Question: 6. MINUS operatori nimaga mo‘ljallangan
+2025-03-17 15:36:17,631 - INFO - Normalized: 6 minus operatori nimaga moljallangan
+2025-03-17 15:36:17,631 - INFO - Answer: Birinchi tanlovda mavjud, lekin ikkinchisida yo‘q bo‘lgan natijalarni chiqarish uchun
+2025-03-17 15:36:17,631 - INFO - Question: 7. Tranzaksiya nechta xususiyatga ega
+2025-03-17 15:36:17,631 - INFO - Normalized: 7 tranzaksiya nechta xususiyatga ega
+2025-03-17 15:36:17,631 - INFO - Answer: 4
+2025-03-17 15:36:17,631 - INFO - Question: 8. CREATE operatori vazifasi?
+2025-03-17 15:36:17,631 - INFO - Normalized: 8 create operatori vazifasi
+2025-03-17 15:36:17,631 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,631 - INFO - Question: 9. Nuqtalar o‘rniga to‘g‘ri keladigan so‘zni ko‘rsating ……….ustunlar to‘plami berilgan qatorlar guruhini ko‘rsating:
+2025-03-17 15:36:17,631 - INFO - Normalized: 9 nuqtalar orniga togri keladigan sozni korsating ustunlar toplami berilgan qatorlar guruhini korsating
+2025-03-17 15:36:17,632 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,632 - INFO - Question: 10. Bitta tranzaksiya nechta operatsiyadan iborat bo‘lishi mumkin
+2025-03-17 15:36:17,632 - INFO - Normalized: 10 bitta tranzaksiya nechta operatsiyadan iborat bolishi mumkin
+2025-03-17 15:36:17,632 - INFO - Answer: bir nechta
+2025-03-17 15:36:17,632 - INFO - Question: 11. Qaysi operator yordamida «Birlashma» amali bajariladi
+2025-03-17 15:36:17,632 - INFO - Normalized: 11 qaysi operator yordamida birlashma amali bajariladi
+2025-03-17 15:36:17,632 - INFO - Answer: UNION
+2025-03-17 15:36:17,632 - INFO - Question: 12. To‘gri yozilgan SELECT operatorini ko‘rsating.
+2025-03-17 15:36:17,632 - INFO - Normalized: 12 togri yozilgan select operatorini korsating
+2025-03-17 15:36:17,632 - INFO - Answer: SELECT * FROM Table
+2025-03-17 15:36:17,632 - INFO - Question: 13. Unikal identifikator nima?
+2025-03-17 15:36:17,632 - INFO - Normalized: 13 unikal identifikator nima
+2025-03-17 15:36:17,632 - INFO - Answer: Bir qatorni boshqa qatordan ajratib turadigan qiymatga ega ustun
+2025-03-17 15:36:17,632 - INFO - Question: 14. Qaysi operator yordamida «Proyeksiya» amali bajariladi
+2025-03-17 15:36:17,632 - INFO - Normalized: 14 qaysi operator yordamida proyeksiya amali bajariladi
+2025-03-17 15:36:17,632 - INFO - Answer: SELECT
+2025-03-17 15:36:17,632 - INFO - Question: 15. SELECT operatorini vazifasi?
+2025-03-17 15:36:17,632 - INFO - Normalized: 15 select operatorini vazifasi
+2025-03-17 15:36:17,632 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,632 - INFO - Question: 16. SQL kengaytmasi nimani anglatadi?
+2025-03-17 15:36:17,632 - INFO - Normalized: 16 sql kengaytmasi nimani anglatadi
+2025-03-17 15:36:17,632 - INFO - Answer: Tizimlashtirilgan so‘rov tili
+2025-03-17 15:36:17,632 - INFO - Question: 17. SELECT operatoridan FROM so‘zidan keying yozuv nimani bildiradi?
+2025-03-17 15:36:17,632 - INFO - Normalized: 17 select operatoridan from sozidan keying yozuv nimani bildiradi
+2025-03-17 15:36:17,632 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,632 - INFO - Question: 18. Quyidagi so‘rovda s belgisi nimani anglatadi: SELECT   FROM STUDENT s;
+2025-03-17 15:36:17,632 - INFO - Normalized: 18 quyidagi sorovda s belgisi nimani anglatadi select from student s
+2025-03-17 15:36:17,633 - INFO - Answer: Psevdonim
+2025-03-17 15:36:17,633 - INFO - Question: 19. Domen bu ....?
+2025-03-17 15:36:17,633 - INFO - Normalized: 19 domen bu 
+2025-03-17 15:36:17,633 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,633 - INFO - Question: 20. +, -, * , / operatorlari qanday nomlanadi?
+2025-03-17 15:36:17,633 - INFO - Normalized: 20      operatorlari qanday nomlanadi
+2025-03-17 15:36:17,633 - INFO - Answer: Arifmetik amallar
+2025-03-17 15:36:17,633 - INFO - Question: 21. Ma’lumotlarni taqdim etish modeli nima?
+2025-03-17 15:36:17,633 - INFO - Normalized: 21 malumotlarni taqdim etish modeli nima
+2025-03-17 15:36:17,633 - INFO - Answer: Ma’lumotlar bazasida saqlanuvchi ma’lumotlar mantiqiy strukturasi
+2025-03-17 15:36:17,633 - INFO - Question: 22. Binar aloqaning uch turi to‘g‘ri berilgan javobni ko‘rsating:
+2025-03-17 15:36:17,633 - INFO - Normalized: 22 binar aloqaning uch turi togri berilgan javobni korsating
+2025-03-17 15:36:17,633 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,633 - INFO - Question: 23. Nechta normal forma mavjud?
+2025-03-17 15:36:17,633 - INFO - Normalized: 23 nechta normal forma mavjud
+2025-03-17 15:36:17,633 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,633 - INFO - Question: 24. NOT, AND, OR operatorlari vazifasi nimadan iborat?
+2025-03-17 15:36:17,633 - INFO - Normalized: 24 not and or operatorlari vazifasi nimadan iborat
+2025-03-17 15:36:17,633 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,634 - INFO - Question: 25. Jadvallarni bog‘lashdagi to‘liq  bog‘lanish operatori – bu
+2025-03-17 15:36:17,634 - INFO - Normalized: 25 jadvallarni boglashdagi toliq boglanish operatori  bu
+2025-03-17 15:36:17,634 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,634 - INFO - Question: 26. Jadvallarni bog‘lashdagi chap bog‘lanish operatori  – bu
+2025-03-17 15:36:17,634 - INFO - Normalized: 26 jadvallarni boglashdagi chap boglanish operatori  bu
+2025-03-17 15:36:17,634 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,634 - INFO - Question: 27. TRUE va FALSE  Qiymatini qabul qiluvchi toifalar qanday nomlanadi?
+2025-03-17 15:36:17,634 - INFO - Normalized: 27 true va false qiymatini qabul qiluvchi toifalar qanday nomlanadi
+2025-03-17 15:36:17,634 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,634 - INFO - Question: 28. So‘rovlarda qanday elementlarga psevdonim belgilash mumkin
+2025-03-17 15:36:17,634 - INFO - Normalized: 28 sorovlarda qanday elementlarga psevdonim belgilash mumkin
+2025-03-17 15:36:17,634 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,634 - INFO - Question: 29. Qaysi operatorlardan biri faqatgina bitta qator ustida operatsiya bajarishi mumkin
+2025-03-17 15:36:17,634 - INFO - Normalized: 29 qaysi operatorlardan biri faqatgina bitta qator ustida operatsiya bajarishi mumkin
+2025-03-17 15:36:17,634 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,634 - INFO - Question: 30. Ustun bu?
+2025-03-17 15:36:17,635 - INFO - Normalized: 30 ustun bu
+2025-03-17 15:36:17,635 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,635 - INFO - Question: 31. Katakcha massiv shaklidagi qiymatni qabul qiladimi?
+2025-03-17 15:36:17,635 - INFO - Normalized: 31 katakcha massiv shaklidagi qiymatni qabul qiladimi
+2025-03-17 15:36:17,635 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,635 - INFO - Question: 32. CREATE TABLE jadval yaratish operatorida NOT NULL cheklagichi nimani anglatadi?
+2025-03-17 15:36:17,635 - INFO - Normalized: 32 create table jadval yaratish operatorida not null cheklagichi nimani anglatadi
+2025-03-17 15:36:17,635 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,635 - INFO - Question: 33. Munosobat nima?
+2025-03-17 15:36:17,635 - INFO - Normalized: 33 munosobat nima
+2025-03-17 15:36:17,635 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,635 - INFO - Question: 34. Uchinchi  normal formada quyidagicha talab qo‘yiladi:
+2025-03-17 15:36:17,635 - INFO - Normalized: 34 uchinchi normal formada quyidagicha talab qoyiladi
+2025-03-17 15:36:17,635 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,635 - INFO - Question: 35. SELECT COUNT(ID) FROM STUDENT so‘rovini nima qaytaradi
+2025-03-17 15:36:17,635 - INFO - Normalized: 35 select countid from student sorovini nima qaytaradi
+2025-03-17 15:36:17,635 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,635 - INFO - Question: 36. Jadval ma’lumot kaliti bu ....
+2025-03-17 15:36:17,635 - INFO - Normalized: 36 jadval malumot kaliti bu 
+2025-03-17 15:36:17,636 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,636 - INFO - Question: 37. Jadval ustunidagi yig‘indi qiymati qanday hisoblanadi
+2025-03-17 15:36:17,636 - INFO - Normalized: 37 jadval ustunidagi yigindi qiymati qanday hisoblanadi
+2025-03-17 15:36:17,636 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,636 - INFO - Question: 38. Jadvaldagi ustunga qo‘yilgan qanday cheklanish ustun qiymatlarining yagonaligini ta’minlaydi
+2025-03-17 15:36:17,636 - INFO - Normalized: 38 jadvaldagi ustunga qoyilgan qanday cheklanish ustun qiymatlarining yagonaligini taminlaydi
+2025-03-17 15:36:17,636 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,636 - INFO - Question: 39. Qaysi operator yordamida «Saralash» amali bajariladi
+2025-03-17 15:36:17,636 - INFO - Normalized: 39 qaysi operator yordamida saralash amali bajariladi
+2025-03-17 15:36:17,636 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,636 - INFO - Question: 40. Qaysi korxona relyatsion MBBT yaratish bozorida yetakchi xisoblanadi?
+2025-03-17 15:36:17,636 - INFO - Normalized: 40 qaysi korxona relyatsion mbbt yaratish bozorida yetakchi xisoblanadi
+2025-03-17 15:36:17,636 - INFO - Answer: Javob topilmadi
+2025-03-17 15:36:17,650 - ERROR - Internal Server Error: /search/
+Traceback (most recent call last):
+  File "/home/islombek/Desktop/loyihalar/tatu/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/islombek/Desktop/loyihalar/tatu/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "/home/islombek/Desktop/loyihalar/tatu/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view tatu.tatu.search_answer didn't return an HttpResponse object. It returned None instead.
+2025-03-17 15:39:13,547 - INFO - /home/islombek/Desktop/loyihalar/tatu/tatu/tatu.py changed, reloading.
+2025-03-17 15:39:13,805 - INFO - Loaded 22 questions successfully
+2025-03-17 15:39:39,132 - INFO - /home/islombek/Desktop/loyihalar/tatu/tatu/tatu.py changed, reloading.
+2025-03-17 15:39:39,363 - INFO - Loaded 22 questions successfully
+2025-03-17 15:39:54,320 - INFO - Question: 1. DELETE operatorini vazifasi?
+2025-03-17 15:39:54,320 - INFO - Normalized: 1 delete operatorini vazifasi
+2025-03-17 15:39:54,320 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,321 - INFO - Question: 2. Qaysi SQL operatorlari ma’lumotlar ustidan murakkab amallarni bajaradi?
+2025-03-17 15:39:54,321 - INFO - Normalized: 2 qaysi sql operatorlari malumotlar ustidan murakkab amallarni bajaradi
+2025-03-17 15:39:54,321 - INFO - Answer: SELECT, UPDATE, INSERT, DELETE
+2025-03-17 15:39:54,321 - INFO - Question: 3. MBBTning vazifasiga nimalar kirmaydi?
+2025-03-17 15:39:54,321 - INFO - Normalized: 3 mbbtning vazifasiga nimalar kirmaydi
+2025-03-17 15:39:54,321 - INFO - Answer: Ma’lumotlar ortiqcha xajmini qisqartirish
+2025-03-17 15:39:54,322 - INFO - Question: 4. Talaba va auditoriya ob’ektlari orasidagi munosabat turini aniqlang
+2025-03-17 15:39:54,322 - INFO - Normalized: 4 talaba va auditoriya obektlari orasidagi munosabat turini aniqlang
+2025-03-17 15:39:54,322 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,322 - INFO - Question: 5. Shahar va viloyat ob’ektlari orasidagi aloqa modelini aniqlang
+2025-03-17 15:39:54,322 - INFO - Normalized: 5 shahar va viloyat obektlari orasidagi aloqa modelini aniqlang
+2025-03-17 15:39:54,322 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,322 - INFO - Question: 6. MINUS operatori nimaga mo‘ljallangan
+2025-03-17 15:39:54,323 - INFO - Normalized: 6 minus operatori nimaga moljallangan
+2025-03-17 15:39:54,323 - INFO - Answer: Birinchi tanlovda mavjud, lekin ikkinchisida yo‘q bo‘lgan natijalarni chiqarish uchun
+2025-03-17 15:39:54,323 - INFO - Question: 7. Tranzaksiya nechta xususiyatga ega
+2025-03-17 15:39:54,323 - INFO - Normalized: 7 tranzaksiya nechta xususiyatga ega
+2025-03-17 15:39:54,323 - INFO - Answer: 4
+2025-03-17 15:39:54,323 - INFO - Question: 8. CREATE operatori vazifasi?
+2025-03-17 15:39:54,323 - INFO - Normalized: 8 create operatori vazifasi
+2025-03-17 15:39:54,323 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,324 - INFO - Question: 9. Nuqtalar o‘rniga to‘g‘ri keladigan so‘zni ko‘rsating ……….ustunlar to‘plami berilgan qatorlar guruhini ko‘rsating:
+2025-03-17 15:39:54,324 - INFO - Normalized: 9 nuqtalar orniga togri keladigan sozni korsating ustunlar toplami berilgan qatorlar guruhini korsating
+2025-03-17 15:39:54,324 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,324 - INFO - Question: 10. Bitta tranzaksiya nechta operatsiyadan iborat bo‘lishi mumkin
+2025-03-17 15:39:54,324 - INFO - Normalized: 10 bitta tranzaksiya nechta operatsiyadan iborat bolishi mumkin
+2025-03-17 15:39:54,324 - INFO - Answer: bir nechta
+2025-03-17 15:39:54,324 - INFO - Question: 11. Qaysi operator yordamida «Birlashma» amali bajariladi
+2025-03-17 15:39:54,324 - INFO - Normalized: 11 qaysi operator yordamida birlashma amali bajariladi
+2025-03-17 15:39:54,325 - INFO - Answer: UNION
+2025-03-17 15:39:54,325 - INFO - Question: 12. To‘gri yozilgan SELECT operatorini ko‘rsating.
+2025-03-17 15:39:54,325 - INFO - Normalized: 12 togri yozilgan select operatorini korsating
+2025-03-17 15:39:54,325 - INFO - Answer: SELECT * FROM Table
+2025-03-17 15:39:54,325 - INFO - Question: 13. Unikal identifikator nima?
+2025-03-17 15:39:54,325 - INFO - Normalized: 13 unikal identifikator nima
+2025-03-17 15:39:54,325 - INFO - Answer: Bir qatorni boshqa qatordan ajratib turadigan qiymatga ega ustun
+2025-03-17 15:39:54,325 - INFO - Question: 14. Qaysi operator yordamida «Proyeksiya» amali bajariladi
+2025-03-17 15:39:54,325 - INFO - Normalized: 14 qaysi operator yordamida proyeksiya amali bajariladi
+2025-03-17 15:39:54,325 - INFO - Answer: SELECT
+2025-03-17 15:39:54,325 - INFO - Question: 15. SELECT operatorini vazifasi?
+2025-03-17 15:39:54,325 - INFO - Normalized: 15 select operatorini vazifasi
+2025-03-17 15:39:54,325 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,325 - INFO - Question: 16. SQL kengaytmasi nimani anglatadi?
+2025-03-17 15:39:54,325 - INFO - Normalized: 16 sql kengaytmasi nimani anglatadi
+2025-03-17 15:39:54,325 - INFO - Answer: Tizimlashtirilgan so‘rov tili
+2025-03-17 15:39:54,325 - INFO - Question: 17. SELECT operatoridan FROM so‘zidan keying yozuv nimani bildiradi?
+2025-03-17 15:39:54,325 - INFO - Normalized: 17 select operatoridan from sozidan keying yozuv nimani bildiradi
+2025-03-17 15:39:54,325 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,325 - INFO - Question: 18. Quyidagi so‘rovda s belgisi nimani anglatadi: SELECT   FROM STUDENT s;
+2025-03-17 15:39:54,325 - INFO - Normalized: 18 quyidagi sorovda s belgisi nimani anglatadi select from student s
+2025-03-17 15:39:54,325 - INFO - Answer: Psevdonim
+2025-03-17 15:39:54,325 - INFO - Question: 19. Domen bu ....?
+2025-03-17 15:39:54,326 - INFO - Normalized: 19 domen bu 
+2025-03-17 15:39:54,326 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,326 - INFO - Question: 20. +, -, * , / operatorlari qanday nomlanadi?
+2025-03-17 15:39:54,326 - INFO - Normalized: 20      operatorlari qanday nomlanadi
+2025-03-17 15:39:54,326 - INFO - Answer: Arifmetik amallar
+2025-03-17 15:39:54,326 - INFO - Question: 21. Ma’lumotlarni taqdim etish modeli nima?
+2025-03-17 15:39:54,326 - INFO - Normalized: 21 malumotlarni taqdim etish modeli nima
+2025-03-17 15:39:54,326 - INFO - Answer: Ma’lumotlar bazasida saqlanuvchi ma’lumotlar mantiqiy strukturasi
+2025-03-17 15:39:54,326 - INFO - Question: 22. Binar aloqaning uch turi to‘g‘ri berilgan javobni ko‘rsating:
+2025-03-17 15:39:54,326 - INFO - Normalized: 22 binar aloqaning uch turi togri berilgan javobni korsating
+2025-03-17 15:39:54,326 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,326 - INFO - Question: 23. Nechta normal forma mavjud?
+2025-03-17 15:39:54,326 - INFO - Normalized: 23 nechta normal forma mavjud
+2025-03-17 15:39:54,326 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,326 - INFO - Question: 24. NOT, AND, OR operatorlari vazifasi nimadan iborat?
+2025-03-17 15:39:54,326 - INFO - Normalized: 24 not and or operatorlari vazifasi nimadan iborat
+2025-03-17 15:39:54,326 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,326 - INFO - Question: 25. Jadvallarni bog‘lashdagi to‘liq  bog‘lanish operatori – bu
+2025-03-17 15:39:54,326 - INFO - Normalized: 25 jadvallarni boglashdagi toliq boglanish operatori  bu
+2025-03-17 15:39:54,326 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,326 - INFO - Question: 26. Jadvallarni bog‘lashdagi chap bog‘lanish operatori  – bu
+2025-03-17 15:39:54,326 - INFO - Normalized: 26 jadvallarni boglashdagi chap boglanish operatori  bu
+2025-03-17 15:39:54,326 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,326 - INFO - Question: 27. TRUE va FALSE  Qiymatini qabul qiluvchi toifalar qanday nomlanadi?
+2025-03-17 15:39:54,326 - INFO - Normalized: 27 true va false qiymatini qabul qiluvchi toifalar qanday nomlanadi
+2025-03-17 15:39:54,326 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,326 - INFO - Question: 28. So‘rovlarda qanday elementlarga psevdonim belgilash mumkin
+2025-03-17 15:39:54,327 - INFO - Normalized: 28 sorovlarda qanday elementlarga psevdonim belgilash mumkin
+2025-03-17 15:39:54,327 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,327 - INFO - Question: 29. Qaysi operatorlardan biri faqatgina bitta qator ustida operatsiya bajarishi mumkin
+2025-03-17 15:39:54,327 - INFO - Normalized: 29 qaysi operatorlardan biri faqatgina bitta qator ustida operatsiya bajarishi mumkin
+2025-03-17 15:39:54,327 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,327 - INFO - Question: 30. Ustun bu?
+2025-03-17 15:39:54,327 - INFO - Normalized: 30 ustun bu
+2025-03-17 15:39:54,327 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,327 - INFO - Question: 31. Katakcha massiv shaklidagi qiymatni qabul qiladimi?
+2025-03-17 15:39:54,327 - INFO - Normalized: 31 katakcha massiv shaklidagi qiymatni qabul qiladimi
+2025-03-17 15:39:54,327 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,327 - INFO - Question: 32. CREATE TABLE jadval yaratish operatorida NOT NULL cheklagichi nimani anglatadi?
+2025-03-17 15:39:54,327 - INFO - Normalized: 32 create table jadval yaratish operatorida not null cheklagichi nimani anglatadi
+2025-03-17 15:39:54,327 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,327 - INFO - Question: 33. Munosobat nima?
+2025-03-17 15:39:54,327 - INFO - Normalized: 33 munosobat nima
+2025-03-17 15:39:54,327 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,327 - INFO - Question: 34. Uchinchi  normal formada quyidagicha talab qo‘yiladi:
+2025-03-17 15:39:54,327 - INFO - Normalized: 34 uchinchi normal formada quyidagicha talab qoyiladi
+2025-03-17 15:39:54,327 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,327 - INFO - Question: 35. SELECT COUNT(ID) FROM STUDENT so‘rovini nima qaytaradi
+2025-03-17 15:39:54,327 - INFO - Normalized: 35 select countid from student sorovini nima qaytaradi
+2025-03-17 15:39:54,327 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,327 - INFO - Question: 36. Jadval ma’lumot kaliti bu ....
+2025-03-17 15:39:54,327 - INFO - Normalized: 36 jadval malumot kaliti bu 
+2025-03-17 15:39:54,327 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,327 - INFO - Question: 37. Jadval ustunidagi yig‘indi qiymati qanday hisoblanadi
+2025-03-17 15:39:54,327 - INFO - Normalized: 37 jadval ustunidagi yigindi qiymati qanday hisoblanadi
+2025-03-17 15:39:54,327 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,327 - INFO - Question: 38. Jadvaldagi ustunga qo‘yilgan qanday cheklanish ustun qiymatlarining yagonaligini ta’minlaydi
+2025-03-17 15:39:54,328 - INFO - Normalized: 38 jadvaldagi ustunga qoyilgan qanday cheklanish ustun qiymatlarining yagonaligini taminlaydi
+2025-03-17 15:39:54,328 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,328 - INFO - Question: 39. Qaysi operator yordamida «Saralash» amali bajariladi
+2025-03-17 15:39:54,328 - INFO - Normalized: 39 qaysi operator yordamida saralash amali bajariladi
+2025-03-17 15:39:54,328 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,328 - INFO - Question: 40. Qaysi korxona relyatsion MBBT yaratish bozorida yetakchi xisoblanadi?
+2025-03-17 15:39:54,328 - INFO - Normalized: 40 qaysi korxona relyatsion mbbt yaratish bozorida yetakchi xisoblanadi
+2025-03-17 15:39:54,328 - INFO - Answer: Javob topilmadi
+2025-03-17 15:39:54,342 - ERROR - Internal Server Error: /search/
+Traceback (most recent call last):
+  File "/home/islombek/Desktop/loyihalar/tatu/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/islombek/Desktop/loyihalar/tatu/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "/home/islombek/Desktop/loyihalar/tatu/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view tatu.tatu.search_answer didn't return an HttpResponse object. It returned None instead.
+2025-03-17 15:40:12,882 - INFO - /home/islombek/Desktop/loyihalar/tatu/tatu/tatu.py changed, reloading.
+2025-03-17 15:40:25,569 - INFO - /home/islombek/Desktop/loyihalar/tatu/tatu/tatu.py changed, reloading.
+2025-03-17 15:40:25,794 - INFO - Loaded 22 questions successfully
+2025-03-17 15:40:35,947 - INFO - Question: 1. DELETE operatorini vazifasi?
+2025-03-17 15:40:35,947 - INFO - Normalized: 1 delete operatorini vazifasi
+2025-03-17 15:40:35,947 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,947 - INFO - Question: 2. Qaysi SQL operatorlari ma’lumotlar ustidan murakkab amallarni bajaradi?
+2025-03-17 15:40:35,948 - INFO - Normalized: 2 qaysi sql operatorlari malumotlar ustidan murakkab amallarni bajaradi
+2025-03-17 15:40:35,948 - INFO - Answer: SELECT, UPDATE, INSERT, DELETE
+2025-03-17 15:40:35,948 - INFO - Question: 3. MBBTning vazifasiga nimalar kirmaydi?
+2025-03-17 15:40:35,948 - INFO - Normalized: 3 mbbtning vazifasiga nimalar kirmaydi
+2025-03-17 15:40:35,948 - INFO - Answer: Ma’lumotlar ortiqcha xajmini qisqartirish
+2025-03-17 15:40:35,948 - INFO - Question: 4. Talaba va auditoriya ob’ektlari orasidagi munosabat turini aniqlang
+2025-03-17 15:40:35,948 - INFO - Normalized: 4 talaba va auditoriya obektlari orasidagi munosabat turini aniqlang
+2025-03-17 15:40:35,948 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,948 - INFO - Question: 5. Shahar va viloyat ob’ektlari orasidagi aloqa modelini aniqlang
+2025-03-17 15:40:35,948 - INFO - Normalized: 5 shahar va viloyat obektlari orasidagi aloqa modelini aniqlang
+2025-03-17 15:40:35,948 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,948 - INFO - Question: 6. MINUS operatori nimaga mo‘ljallangan
+2025-03-17 15:40:35,948 - INFO - Normalized: 6 minus operatori nimaga moljallangan
+2025-03-17 15:40:35,948 - INFO - Answer: Birinchi tanlovda mavjud, lekin ikkinchisida yo‘q bo‘lgan natijalarni chiqarish uchun
+2025-03-17 15:40:35,948 - INFO - Question: 7. Tranzaksiya nechta xususiyatga ega
+2025-03-17 15:40:35,948 - INFO - Normalized: 7 tranzaksiya nechta xususiyatga ega
+2025-03-17 15:40:35,948 - INFO - Answer: 4
+2025-03-17 15:40:35,948 - INFO - Question: 8. CREATE operatori vazifasi?
+2025-03-17 15:40:35,948 - INFO - Normalized: 8 create operatori vazifasi
+2025-03-17 15:40:35,948 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,949 - INFO - Question: 9. Nuqtalar o‘rniga to‘g‘ri keladigan so‘zni ko‘rsating ……….ustunlar to‘plami berilgan qatorlar guruhini ko‘rsating:
+2025-03-17 15:40:35,949 - INFO - Normalized: 9 nuqtalar orniga togri keladigan sozni korsating ustunlar toplami berilgan qatorlar guruhini korsating
+2025-03-17 15:40:35,949 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,949 - INFO - Question: 10. Bitta tranzaksiya nechta operatsiyadan iborat bo‘lishi mumkin
+2025-03-17 15:40:35,949 - INFO - Normalized: 10 bitta tranzaksiya nechta operatsiyadan iborat bolishi mumkin
+2025-03-17 15:40:35,949 - INFO - Answer: bir nechta
+2025-03-17 15:40:35,949 - INFO - Question: 11. Qaysi operator yordamida «Birlashma» amali bajariladi
+2025-03-17 15:40:35,949 - INFO - Normalized: 11 qaysi operator yordamida birlashma amali bajariladi
+2025-03-17 15:40:35,949 - INFO - Answer: UNION
+2025-03-17 15:40:35,949 - INFO - Question: 12. To‘gri yozilgan SELECT operatorini ko‘rsating.
+2025-03-17 15:40:35,949 - INFO - Normalized: 12 togri yozilgan select operatorini korsating
+2025-03-17 15:40:35,949 - INFO - Answer: SELECT * FROM Table
+2025-03-17 15:40:35,949 - INFO - Question: 13. Unikal identifikator nima?
+2025-03-17 15:40:35,949 - INFO - Normalized: 13 unikal identifikator nima
+2025-03-17 15:40:35,949 - INFO - Answer: Bir qatorni boshqa qatordan ajratib turadigan qiymatga ega ustun
+2025-03-17 15:40:35,949 - INFO - Question: 14. Qaysi operator yordamida «Proyeksiya» amali bajariladi
+2025-03-17 15:40:35,949 - INFO - Normalized: 14 qaysi operator yordamida proyeksiya amali bajariladi
+2025-03-17 15:40:35,949 - INFO - Answer: SELECT
+2025-03-17 15:40:35,949 - INFO - Question: 15. SELECT operatorini vazifasi?
+2025-03-17 15:40:35,949 - INFO - Normalized: 15 select operatorini vazifasi
+2025-03-17 15:40:35,949 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,949 - INFO - Question: 16. SQL kengaytmasi nimani anglatadi?
+2025-03-17 15:40:35,949 - INFO - Normalized: 16 sql kengaytmasi nimani anglatadi
+2025-03-17 15:40:35,949 - INFO - Answer: Tizimlashtirilgan so‘rov tili
+2025-03-17 15:40:35,950 - INFO - Question: 17. SELECT operatoridan FROM so‘zidan keying yozuv nimani bildiradi?
+2025-03-17 15:40:35,950 - INFO - Normalized: 17 select operatoridan from sozidan keying yozuv nimani bildiradi
+2025-03-17 15:40:35,950 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,950 - INFO - Question: 18. Quyidagi so‘rovda s belgisi nimani anglatadi: SELECT   FROM STUDENT s;
+2025-03-17 15:40:35,950 - INFO - Normalized: 18 quyidagi sorovda s belgisi nimani anglatadi select from student s
+2025-03-17 15:40:35,950 - INFO - Answer: Psevdonim
+2025-03-17 15:40:35,950 - INFO - Question: 19. Domen bu ....?
+2025-03-17 15:40:35,950 - INFO - Normalized: 19 domen bu 
+2025-03-17 15:40:35,950 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,950 - INFO - Question: 20. +, -, * , / operatorlari qanday nomlanadi?
+2025-03-17 15:40:35,950 - INFO - Normalized: 20      operatorlari qanday nomlanadi
+2025-03-17 15:40:35,950 - INFO - Answer: Arifmetik amallar
+2025-03-17 15:40:35,950 - INFO - Question: 21. Ma’lumotlarni taqdim etish modeli nima?
+2025-03-17 15:40:35,950 - INFO - Normalized: 21 malumotlarni taqdim etish modeli nima
+2025-03-17 15:40:35,950 - INFO - Answer: Ma’lumotlar bazasida saqlanuvchi ma’lumotlar mantiqiy strukturasi
+2025-03-17 15:40:35,950 - INFO - Question: 22. Binar aloqaning uch turi to‘g‘ri berilgan javobni ko‘rsating:
+2025-03-17 15:40:35,950 - INFO - Normalized: 22 binar aloqaning uch turi togri berilgan javobni korsating
+2025-03-17 15:40:35,950 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,950 - INFO - Question: 23. Nechta normal forma mavjud?
+2025-03-17 15:40:35,950 - INFO - Normalized: 23 nechta normal forma mavjud
+2025-03-17 15:40:35,950 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,950 - INFO - Question: 24. NOT, AND, OR operatorlari vazifasi nimadan iborat?
+2025-03-17 15:40:35,950 - INFO - Normalized: 24 not and or operatorlari vazifasi nimadan iborat
+2025-03-17 15:40:35,950 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,950 - INFO - Question: 25. Jadvallarni bog‘lashdagi to‘liq  bog‘lanish operatori – bu
+2025-03-17 15:40:35,951 - INFO - Normalized: 25 jadvallarni boglashdagi toliq boglanish operatori  bu
+2025-03-17 15:40:35,951 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,951 - INFO - Question: 26. Jadvallarni bog‘lashdagi chap bog‘lanish operatori  – bu
+2025-03-17 15:40:35,951 - INFO - Normalized: 26 jadvallarni boglashdagi chap boglanish operatori  bu
+2025-03-17 15:40:35,951 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,951 - INFO - Question: 27. TRUE va FALSE  Qiymatini qabul qiluvchi toifalar qanday nomlanadi?
+2025-03-17 15:40:35,951 - INFO - Normalized: 27 true va false qiymatini qabul qiluvchi toifalar qanday nomlanadi
+2025-03-17 15:40:35,951 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,951 - INFO - Question: 28. So‘rovlarda qanday elementlarga psevdonim belgilash mumkin
+2025-03-17 15:40:35,951 - INFO - Normalized: 28 sorovlarda qanday elementlarga psevdonim belgilash mumkin
+2025-03-17 15:40:35,951 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,951 - INFO - Question: 29. Qaysi operatorlardan biri faqatgina bitta qator ustida operatsiya bajarishi mumkin
+2025-03-17 15:40:35,951 - INFO - Normalized: 29 qaysi operatorlardan biri faqatgina bitta qator ustida operatsiya bajarishi mumkin
+2025-03-17 15:40:35,951 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,951 - INFO - Question: 30. Ustun bu?
+2025-03-17 15:40:35,951 - INFO - Normalized: 30 ustun bu
+2025-03-17 15:40:35,951 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,951 - INFO - Question: 31. Katakcha massiv shaklidagi qiymatni qabul qiladimi?
+2025-03-17 15:40:35,951 - INFO - Normalized: 31 katakcha massiv shaklidagi qiymatni qabul qiladimi
+2025-03-17 15:40:35,951 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,951 - INFO - Question: 32. CREATE TABLE jadval yaratish operatorida NOT NULL cheklagichi nimani anglatadi?
+2025-03-17 15:40:35,951 - INFO - Normalized: 32 create table jadval yaratish operatorida not null cheklagichi nimani anglatadi
+2025-03-17 15:40:35,951 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,951 - INFO - Question: 33. Munosobat nima?
+2025-03-17 15:40:35,951 - INFO - Normalized: 33 munosobat nima
+2025-03-17 15:40:35,951 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,951 - INFO - Question: 34. Uchinchi  normal formada quyidagicha talab qo‘yiladi:
+2025-03-17 15:40:35,951 - INFO - Normalized: 34 uchinchi normal formada quyidagicha talab qoyiladi
+2025-03-17 15:40:35,951 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,951 - INFO - Question: 35. SELECT COUNT(ID) FROM STUDENT so‘rovini nima qaytaradi
+2025-03-17 15:40:35,951 - INFO - Normalized: 35 select countid from student sorovini nima qaytaradi
+2025-03-17 15:40:35,952 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,952 - INFO - Question: 36. Jadval ma’lumot kaliti bu ....
+2025-03-17 15:40:35,952 - INFO - Normalized: 36 jadval malumot kaliti bu 
+2025-03-17 15:40:35,952 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,952 - INFO - Question: 37. Jadval ustunidagi yig‘indi qiymati qanday hisoblanadi
+2025-03-17 15:40:35,952 - INFO - Normalized: 37 jadval ustunidagi yigindi qiymati qanday hisoblanadi
+2025-03-17 15:40:35,952 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,952 - INFO - Question: 38. Jadvaldagi ustunga qo‘yilgan qanday cheklanish ustun qiymatlarining yagonaligini ta’minlaydi
+2025-03-17 15:40:35,952 - INFO - Normalized: 38 jadvaldagi ustunga qoyilgan qanday cheklanish ustun qiymatlarining yagonaligini taminlaydi
+2025-03-17 15:40:35,952 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,952 - INFO - Question: 39. Qaysi operator yordamida «Saralash» amali bajariladi
+2025-03-17 15:40:35,952 - INFO - Normalized: 39 qaysi operator yordamida saralash amali bajariladi
+2025-03-17 15:40:35,952 - INFO - Answer: Javob topilmadi
+2025-03-17 15:40:35,952 - INFO - Question: 40. Qaysi korxona relyatsion MBBT yaratish bozorida yetakchi xisoblanadi?
+2025-03-17 15:40:35,952 - INFO - Normalized: 40 qaysi korxona relyatsion mbbt yaratish bozorida yetakchi xisoblanadi
+2025-03-17 15:40:35,952 - INFO - Answer: Javob topilmadi

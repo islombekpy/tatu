@@ -18,6 +18,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+
 class QuestionManager:
     def __init__(self):
         self.questions: Dict[str, str] = {}
@@ -29,7 +30,7 @@ class QuestionManager:
             with open(self.question_file_path, "r", encoding="utf-8") as file:
                 question_data = json.load(file)
                 self.questions = {
-                    self._normalize(q["question"]): q["answer"] 
+                    self._normalize(q["question"]): q["answer"]  
                     for q in question_data
                 }
             logger.info(f"Loaded {len(self.questions)} questions successfully")
@@ -92,6 +93,7 @@ class QuestionManager:
             })
             
         return responses
+
 question_manager = QuestionManager()
 
 @csrf_exempt
