@@ -1,10 +1,14 @@
 import json
 import os
+import re
 from typing import List, Dict, Any
 from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt
 from django.views.decorators.http import require_http_methods
 from django.conf import settings
+import logging
+
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 class QuestionManager:
     def __init__(self):
@@ -21,12 +25,17 @@ class QuestionManager:
                     for q in question_data
                 }
         except FileNotFoundError:
-            raise FileNotFoundError(f"json file topilmadi {json_path}")
+            logging.error(f"JSON file topilmadi: {json_path}")
+            raise FileNotFoundError(f"JSON file topilmadi {json_path}")
         except json.JSONDecodeError:
-            raise ValueError("file format xato")
+            logging.error("JSON fayl formati xato!")
+            raise ValueError("JSON file format xato")
 
-    def _normalize(self, text: str) :
-        return " ".join(text.strip().lower().split())
+    def _normalize(self, text: str) -> str:
+        text = text.lower().strip()
+        text = re.sub(r"\s+", " ", text)  
+        text = re.sub(r"[^\w\s]", "", text)  
+        return text
 
     def get_answer(self, question: str) -> str | None:
         question = self._normalize(question)
@@ -38,6 +47,14 @@ class QuestionManager:
             question = item.get("question", "")
             normalized_question = self._normalize(question)
             answer = self.get_answer(normalized_question) or "Javob topilmadi"
+
+            with open('salom.txt','a') as file:
+                file.write(normalized_question)
+
+            logging.info(f"Kelgan savol: {question}")
+            logging.info(f"Normalize qilingan savol: {normalized_question}")
+            logging.info(f"Bazada topilgan javob: {answer}")
+
             responses.append({
                 "index": item.get("index"),
                 "question": question,
@@ -60,8 +77,11 @@ def search_answer(request) -> JsonResponse:
         response["Access-Control-Allow-Origin"] = "https://student.fbtuit.uz"
         response["Access-Control-Allow-Methods"] = "POST, OPTIONS"
         response["Access-Control-Allow-Headers"] = "Content-Type, Accept"
+        
         return response
     except json.JSONDecodeError:
-        return JsonResponse({"error": "json format"}, status=400)
+        logging.error("JSON formatida xatolik!")
+        return JsonResponse({"error": "JSON format xato"}, status=400)
     except Exception as e:
-        return JsonResponse({"error": f"xatolik: {str(e)}"}, status=500)
+        logging.error(f"Xatolik: {str(e)}")
+        return JsonResponse({"error": f"Xatolik: {str(e)}"}, status=500)

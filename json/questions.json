@@ -1,42 +1,10 @@
 [
   {
-    "question": "Cisco Packet Tracer 6.2 dasturida SWITCH qurilmada global konfiguratsiya rejimiga o‘tkazish kodi",
-    "answer": "Switch#configure terminal"
+      "question": "IEEE 802.3 standarti asosida tashkil qilingan tarmoq abonentlarining maksimal soni",
+      "answer": "1024 tagacha"
   },
   {
-    "question": "Cisco Packet Tracer 6.2 dasturida qaysi rejim tarmoqning normal ishlashini modellashtiradi, bu vaqt xususiyatlari bo‘yicha haqiqiy uskunalarning ishlashiga o‘xshashdir.",
-    "answer": "Simulation"
-  },
-  {
-    "question": "Domen nomlari va IP manzillarni boshqaruvchi xalqaro korporatsiyasini aniqlang",
-    "answer": "ICANN"
-  },
-  {
-    "question": "Kadrlarni uzatish protokoli tarmoqning qaysi satxida bajariladi.",
-    "answer": "Kanal"
-  },
-  {
-    "question": "DDoS kengaytmasini aniqlang",
-    "answer": "Distributed Denial of Service"
-  },
-  {
-    "question": "\"line vty\" kodi qaysi protokolda ishlatiladi",
-    "answer": "TelNet"
-  },
-  {
-    "question": "802 qo‘mitasi qanday tarkibiy qismlarni o‘z ichiga oladi?",
-    "answer": "LLC, Simsiz tarmoqlar, Internetda ishlash"
-  },
-  {
-    "question": "IEEE 802.15 standarti",
-    "answer": "Bluetooth"
-  },
-  {
-    "question": "Cisco Packet Tracer 6.2 dasturida ROUTER qurilmasida RIP ga tarmoq qo‘shish kodi to‘g‘ri berilgan javobni toping",
-    "answer": "network 192.168.1.0"
-  },
-  {
-    "question": "GAF (Geographic Adaptive Fidelity), GEAR (Geographic and Energy Aware Routing) - ...",
-    "answer": "tugunning joylashuv o‘rni haqidagi ma’lumot asosidagi marshrutizatsiya protokollari"
+      "question": "Cisco Packet Tracer 6.2 dasturida RJavob topilmadiOUTER qurilmada VLAN larni ko‘rish kodi",
+      "answer": "show vlan"
   }
 ]
