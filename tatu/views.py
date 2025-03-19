@@ -18,10 +18,9 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-
 class QuestionManager:
     def __init__(self):
-        self.questions: Dict[str, str] = {}
+        self.questions: Dict[str, Dict[str, Any]] = {}
         self.question_file_path = os.path.join(settings.BASE_DIR, "json/questions.json")
         self._load_questions()
 
@@ -29,10 +28,12 @@ class QuestionManager:
         try:
             with open(self.question_file_path, "r", encoding="utf-8") as file:
                 question_data = json.load(file)
-                self.questions = {
-                    self._normalize(q["questions"]): q["answer"]  
-                    for q in question_data
-                }
+                for idx, q in enumerate(question_data):
+                    normalized_question = self._normalize(q["question"])
+                    self.questions[normalized_question] = {
+                        "answer": q["answer"],
+                        "index": idx + 1  # 1-based index
+                    }
             logger.info(f"Loaded {len(self.questions)} questions successfully")
         except FileNotFoundError:
             logger.error(f"JSON file not found: {self.question_file_path}")
@@ -50,23 +51,23 @@ class QuestionManager:
         text = re.sub(r"[^\w\s]", "", text)  
         return text
 
-    def get_answer(self, question: str) -> Optional[str]:
+    def get_answer(self, question: str) -> Optional[Dict[str, Any]]:
         if not question:
             return None
             
         question = self._normalize(question)
         return self.questions.get(question)
 
-    def find_closest_match(self, question: str) -> Optional[str]:
+    def find_closest_match(self, question: str) -> Optional[Dict[str, Any]]:
         normalized = self._normalize(question)
         if not normalized:
             return None
     
         if normalized in self.questions:
             return self.questions[normalized]
-        for key, answer in self.questions.items():
+        for key, answer_data in self.questions.items():
             if normalized in key or key in normalized:
-                return answer
+                return answer_data
                 
         return None
 
@@ -79,17 +80,17 @@ class QuestionManager:
                 continue
                 
             normalized_question = self._normalize(question_text)
-            answer = self.get_answer(normalized_question)
-            if not answer:
-                answer = self.find_closest_match(question_text)
+            answer_data = self.get_answer(normalized_question)
+            if not answer_data:
+                answer_data = self.find_closest_match(question_text)
                 
-            final_answer = answer or "Javob topilmadi"
-            logger.info(f"Question: {question_text}")
-            logger.info(f"Normalized: {normalized_question}")
-            logger.info(f"Answer: {final_answer}")
+            final_answer = answer_data.get("answer", "-") if answer_data else "-"
+            answer_index = answer_data.get("index") if answer_data else None
+            
             responses.append({
                 "question": question_text,
-                "answer": final_answer
+                "answer": final_answer,
+                "index": answer_index
             })
             
         return responses
@@ -98,7 +99,7 @@ question_manager = QuestionManager()
 
 @csrf_exempt
 @require_http_methods(["POST", "OPTIONS"])
-def search_answer(request) -> JsonResponse:
+def search_answers(request) -> JsonResponse:
     if request.method == "OPTIONS":
         response = JsonResponse({})
         response = _add_cors_headers(response)
@@ -123,7 +124,6 @@ def search_answer(request) -> JsonResponse:
         return JsonResponse({"error": f"Error: {str(e)}"}, status=500)
 
 def _add_cors_headers(response):
-    """Add CORS headers to response."""
     response["Access-Control-Allow-Origin"] = "https://student.fbtuit.uz"
     response["Access-Control-Allow-Methods"] = "POST, OPTIONS"
     response["Access-Control-Allow-Headers"] = "Content-Type, X-CSRFToken, Accept"

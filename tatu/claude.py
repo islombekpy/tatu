@@ -21,7 +21,7 @@ logger = logging.getLogger(__name__)
 
 class QuestionManager:
     def __init__(self):
-        self.questions: Dict[str, str] = {}
+        self.questions: Dict[str, Dict[str, Any]] = {}
         self.question_file_path = os.path.join(settings.BASE_DIR, "json/questions.json")
         self._load_questions()
 
@@ -30,7 +30,10 @@ class QuestionManager:
             with open(self.question_file_path, "r", encoding="utf-8") as file:
                 question_data = json.load(file)
                 self.questions = {
-                    self._normalize(q["question"]): q["answer"]  
+                    self._normalize(q["question"]): {
+                        "answer": q["answer"],
+                        "original_question": q["question"]
+                    }
                     for q in question_data
                 }
             logger.info(f"Loaded {len(self.questions)} questions successfully")
@@ -50,23 +53,23 @@ class QuestionManager:
         text = re.sub(r"[^\w\s]", "", text)  
         return text
 
-    def get_answer(self, question: str) -> Optional[str]:
+    def get_answer(self, question: str) -> Optional[Dict[str, Any]]:
         if not question:
             return None
             
         question = self._normalize(question)
         return self.questions.get(question)
 
-    def find_closest_match(self, question: str) -> Optional[str]:
+    def find_closest_match(self, question: str) -> Optional[Dict[str, Any]]:
         normalized = self._normalize(question)
         if not normalized:
             return None
     
         if normalized in self.questions:
             return self.questions[normalized]
-        for key, answer in self.questions.items():
+        for key, value in self.questions.items():
             if normalized in key or key in normalized:
-                return answer
+                return value
                 
         return None
 
@@ -75,22 +78,40 @@ class QuestionManager:
         
         for item in questions_data:
             question_text = item.get("question", "")
+            answers = item.get("answers", [])
+            
             if not question_text:
                 continue
                 
             normalized_question = self._normalize(question_text)
-            answer = self.get_answer(normalized_question)
-            if not answer:
-                answer = self.find_closest_match(question_text)
+            question_info = self.get_answer(normalized_question)
+            if not question_info:
+                question_info = self.find_closest_match(question_text)
+            
+            if question_info:
+                correct_answer = question_info["answer"]
+                position = None
+                for i, answer_obj in enumerate(answers):
+                    answer_text = answer_obj.get("text", "")
+                    if self._normalize(answer_text) == self._normalize(correct_answer):
+                        position = answer_obj.get("position", str(i + 1))
+                        break
                 
-            final_answer = answer or "-"
+                responses.append({
+                    "question": question_text,
+                    "answer": correct_answer,
+                    "position": position
+                })
+            else:
+                responses.append({
+                    "question": question_text,
+                    "answer": "-",
+                    "position": None
+                })
+            
             logger.info(f"Question: {question_text}")
-            logger.info(f"Normalized: {normalized_question}")
-            logger.info(f"Answer: {final_answer}")
-            responses.append({
-                "question": question_text,
-                "answer": final_answer
-            })
+            logger.info(f"Answer: {responses[-1]['answer']}")
+            logger.info(f"Position: {responses[-1]['position']}")
             
         return responses
 
@@ -98,7 +119,7 @@ question_manager = QuestionManager()
 
 @csrf_exempt
 @require_http_methods(["POST", "OPTIONS"])
-def search_answer(request) -> JsonResponse:
+def search_answerc(request) -> JsonResponse:
     if request.method == "OPTIONS":
         response = JsonResponse({})
         response = _add_cors_headers(response)
@@ -123,7 +144,6 @@ def search_answer(request) -> JsonResponse:
         return JsonResponse({"error": f"Error: {str(e)}"}, status=500)
 
 def _add_cors_headers(response):
-    """Add CORS headers to response."""
     response["Access-Control-Allow-Origin"] = "https://student.fbtuit.uz"
     response["Access-Control-Allow-Methods"] = "POST, OPTIONS"
     response["Access-Control-Allow-Headers"] = "Content-Type, X-CSRFToken, Accept"
