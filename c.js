@@ -2,7 +2,6 @@
 function getCookie(name) {
     return document.cookie.split(`; ${name}=`).pop().split(';').shift();
   }
-  
   const csrftoken = getCookie('csrftoken');
   const questionElements = Array.from(document.querySelectorAll('.box.box-default.question'));
   const questionsAndAnswers = questionElements.map((questionEl, index) => ({

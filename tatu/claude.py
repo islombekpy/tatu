@@ -144,7 +144,7 @@ def search_answerc(request) -> JsonResponse:
         return JsonResponse({"error": f"Error: {str(e)}"}, status=500)
 
 def _add_cors_headers(response):
-    response["Access-Control-Allow-Origin"] = "https://student.fbtuit.uz"
+    response["Access-Control-Allow-Origin"] = "https://student.fstu.uz"
     response["Access-Control-Allow-Methods"] = "POST, OPTIONS"
     response["Access-Control-Allow-Headers"] = "Content-Type, X-CSRFToken, Accept"
     return response
