@@ -13,7 +13,7 @@ function getCookie(name) {
     }))
   }));
   
-  fetch("https://f759-213-230-114-162.ngrok-free.app/search/", {
+  fetch("https://unco.pythonanywhere.com/search/", {
     method: "POST",
     body: JSON.stringify(questionsAndAnswers),
     headers: {

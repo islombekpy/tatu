@@ -910,3 +910,31 @@ ValueError: The view tatu.tatu.search_answer didn't return an HttpResponse objec
 2025-03-17 15:40:35,952 - INFO - Question: 40. Qaysi korxona relyatsion MBBT yaratish bozorida yetakchi xisoblanadi?
 2025-03-17 15:40:35,952 - INFO - Normalized: 40 qaysi korxona relyatsion mbbt yaratish bozorida yetakchi xisoblanadi
 2025-03-17 15:40:35,952 - INFO - Answer: Javob topilmadi
+2025-05-26 10:53:38,094 - INFO - Loaded 2 questions successfully
+2025-05-26 10:53:38,098 - INFO - Loaded 2 questions successfully
+2025-05-26 10:53:38,101 - INFO - Loaded 2 questions successfully
+2025-05-26 10:53:44,821 - WARNING - Not Found: /
+2025-05-26 10:53:44,904 - WARNING - Not Found: /favicon.ico
+2025-05-26 10:53:55,198 - WARNING - Method Not Allowed (GET): /search/
+2025-05-26 10:54:15,815 - INFO - /home/islombek/Desktop/loyihalar/tatu/tatu/views.py changed, reloading.
+2025-05-26 10:54:16,202 - INFO - Loaded 2 questions successfully
+2025-05-26 10:54:16,203 - INFO - Loaded 2 questions successfully
+2025-05-26 10:54:19,443 - INFO - /home/islombek/Desktop/loyihalar/tatu/tatu/views.py changed, reloading.
+2025-05-26 10:54:19,803 - INFO - Loaded 2 questions successfully
+2025-05-26 10:54:19,805 - INFO - Loaded 2 questions successfully
+2025-05-26 10:54:19,807 - INFO - Loaded 2 questions successfully
+2025-05-26 10:54:25,989 - INFO - /home/islombek/Desktop/loyihalar/tatu/tatu/tatu.py changed, reloading.
+2025-05-26 10:54:26,404 - INFO - Loaded 2 questions successfully
+2025-05-26 10:54:42,663 - INFO - /home/islombek/Desktop/loyihalar/tatu/tatu/tatu.py changed, reloading.
+2025-05-26 10:54:43,030 - INFO - Loaded 2 questions successfully
+2025-05-26 10:54:43,035 - INFO - Loaded 2 questions successfully
+2025-05-26 10:56:28,658 - INFO - /home/islombek/Desktop/loyihalar/tatu/tatu/tatu.py changed, reloading.
+2025-05-26 10:56:29,023 - INFO - Loaded 2 questions successfully
+2025-05-26 10:56:39,220 - INFO - /home/islombek/Desktop/loyihalar/tatu/tatu/tatu.py changed, reloading.
+2025-05-26 10:56:39,559 - INFO - Loaded 2 questions successfully
+2025-05-26 10:56:39,565 - INFO - Loaded 2 questions successfully
+2025-05-26 10:56:40,731 - INFO - /home/islombek/Desktop/loyihalar/tatu/tatu/tatu.py changed, reloading.
+2025-05-26 10:56:41,057 - INFO - Loaded 2 questions successfully
+2025-05-26 10:56:46,190 - INFO - /home/islombek/Desktop/loyihalar/tatu/tatu/tatu.py changed, reloading.
+2025-05-26 10:56:46,521 - INFO - Loaded 2 questions successfully
+2025-05-26 10:56:46,524 - INFO - Loaded 2 questions successfully

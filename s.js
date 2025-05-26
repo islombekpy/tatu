@@ -9,7 +9,7 @@ const questionsAndAnswers = questionElements.map((questionEl, index) => ({
   index: index + 1,
   answers: Array.from(questionEl.querySelectorAll('.box-body p .qv')).map(answerEl => answerEl.textContent.trim())
 }));
-fetch("https://f759-213-230-114-162.ngrok-free.app/search/", {
+fetch("https://unco.pythonanywhere.com/search/", {
   method: "POST",
   body: JSON.stringify(questionsAndAnswers),
   headers: {

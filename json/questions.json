@@ -1,90 +1,10 @@
 [
-  {
-      "question": "DELETE operatorining vazifasi nima?",
-      "answer": "Qatorni o‘chirish"
-  },
-  {
-      "question": "Qaysi SQL operatorlari ma’lumotlar ustidan murakkab amallarni bajaradi?",
-      "answer": "SELECT, UPDATE, INSERT, DELETE"
-  },
-  {
-      "question": "MBBTning vazifasiga nimalar kirmaydi?",
-      "answer": "Ma’lumotlar ortiqcha xajmini qisqartirish"
-  },
-  {
-      "question": "Talaba va auditoriya ob’ektlari orasidagi munosabat turi qanday?",
-      "answer": "n:m"
-  },
-  {
-      "question": "Shahar va viloyat ob’ektlari orasidagi aloqa modeli qanday?",
-      "answer": "1:m"
-  },
-  {
-      "question": "MINUS operatori nimaga mo‘ljallangan?",
-      "answer": "Birinchi tanlovda mavjud, lekin ikkinchisida yo‘q bo‘lgan natijalarni chiqarish uchun"
-  },
-  {
-      "question": "Tranzaksiya nechta xususiyatga ega?",
-      "answer": "4"
-  },
-  {
-      "question": "CREATE operatorining vazifasi nima?",
-      "answer": "Ma’lumotlar bazasidan obekt yaratish"
-  },
-  {
-      "question": "Nuqtalar o‘rniga to‘g‘ri keladigan so‘zni ko‘rsating: ………. ustunlar to‘plami berilgan qatorlar guruhini ko‘rsating.",
-      "answer": "Jadval"
-  },
-  {
-      "question": "Bitta tranzaksiya nechta operatsiyadan iborat bo‘lishi mumkin?",
-      "answer": "bir nechta"
-  },
-  {
-      "question": "Qaysi operator yordamida «Birlashma» amali bajariladi?",
-      "answer": "UNION"
-  },
-  {
-      "question": "To‘g‘ri yozilgan SELECT operatorini ko‘rsating.",
-      "answer": "SELECT * FROM Table"
-  },
-  {
-      "question": "Unikal identifikator nima?",
-      "answer": "Bir qatorni boshqa qatordan ajratib turadigan qiymatga ega ustun"
-  },
-  {
-      "question": "Qaysi operator yordamida «Proyeksiya» amali bajariladi?",
-      "answer": "SELECT"
-  },
-  {
-      "question": "SELECT operatorining vazifasi nima?",
-      "answer": "Jadvaldan ma’lumotlarni tanlash"
-  },
-  {
-      "question": "SQL kengaytmasi nimani anglatadi?",
-      "answer": "Tizimlashtirilgan so‘rov tili"
-  },
-  {
-      "question": "SELECT operatoridan FROM so‘zidan keyin yozilgan yozuv nimani bildiradi?",
-      "answer": "jadvalning nomini"
-  },
-  {
-      "question": "Quyidagi so‘rovda 's' belgisi nimani anglatadi: SELECT FROM STUDENT s;",
-      "answer": "Psevdonim"
-  },
-  {
-      "question": "Domen nima?",
-      "answer": "Ustun"
-  },
-  {
-      "question": "+, -, *, / operatorlari qanday nomlanadi?",
-      "answer": "Arifmetik amallar"
-  },
-  {
-      "question": "Ma’lumotlarni taqdim etish modeli nima?",
-      "answer": "Ma’lumotlar bazasida saqlanuvchi ma’lumotlar mantiqiy strukturasi"
-  },
-  {
-      "question": "Binar aloqaning uch turi qanday?",
-      "answer": "Birga-ko‘p, birga-bir, ko‘pga-ko‘p"
-  }
+    {
+        "question": "Sample question 1",
+        "answer": "Sample answer 1"
+    },
+    {
+        "question": "Sample question 2",
+        "answer": "Sample answer 2"
+    }
 ]
