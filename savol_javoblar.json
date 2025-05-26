@@ -1,322 +1,2146 @@
 [
     {
-        "savol": "Dasturiy injiniringda asosiy tushunchalardan biri bu …",
-        "javob": "DT xayotiy sikli"
+        "question": "Algoritm deб nimaga aytiladi?",
+        "answer": "Algoritm deb biror masalani echishga qaratilgan buyruqlar ketma – ketligi"
     },
     {
-        "savol": "RPTwin-da qo'llab-quvvatlanadigan operator turlari:",
-        "javob": "Matnni biriktirish operatori (&)"
+        "question": "Algoritmning xossalari qaysi qatorda to'g'ri berilgan?",
+        "answer": "Uzluklilik, tushunarlilik, aniqlik, ommaviylik, natijaviylik,"
     },
     {
-        "savol": "\"O'z-o'zidan\" dasturlash:",
-        "javob": "Dasturni bitta dasturchi yaratgan dasturiy ta'minotni ishlab chiqish tarixidagi davr"
+        "question": "Algoritmning xar bir qoidasi aniq va bir qiymatli bo’lishi zarur.Qaysi xossaga tegishli?",
+        "answer": "Aniqlilik"
     },
     {
-        "savol": "Boshlang’ich dasturlashni o’rganayotganlarga qaysi dastur tavsiya qilinadi -",
-        "javob": "Scratch"
+        "question": "Dastlabki bеrilgan malumotlarni natijaga aylantirish jarayoni uzlukli ravishda amalga oshiriladi.Qaysi xossaga tegishli?",
+        "answer": "Uzluklilik"
     },
     {
-        "savol": "ACM - Association for Computing Machinery - ?",
-        "javob": "Hisoblash mashinalari uyushmasi.Kompyuter \ntexnologiyalari sohasidagi jahon ilmiy va ta’lim tashkiloti.U shuningdek, ta’lim standartlarini ishlab chiqish bilan mashhur."
+        "question": "Algoritm masalaning еchimiga chеkli sondagi qadamlar ichida olib kеlishi yoki masalaнi \"еchib bo’lmaydi\" dеgan xabar bilan tugashi kеrak.Qaysi xossaga tegishli?",
+        "answer": "Natijaviylik"
     },
     {
-        "savol": "Activity nima?",
-        "javob": "texnologiyalari sohasidagi jahon ilmiy va ta’lim tashkiloti.U shuningdek, ta’lim standartlarini ishlab chiqish bilan mashhur."
+        "question": "Masalaning yеchish algoritмi shunday yaratilishi kеrakki, uni faqat boshlang’ich malumotlar bilan farqlanadigan masalalarni еchish uchun xam qo’llanilishi kеrak. Qaysi xossaga tegishli?",
+        "answer": "Ommaviylik"
     },
     {
-        "savol": "Ada ilovasini ilk bor qaysi tizim tasdiqladi?",
-        "javob": "NYu Ada / ED"
+        "question": "Algoritmlarni ifodalashning eng kеng tarqalgan shakli qaysi?",
+        "answer": "Algoritmni oddiy tilda ifodalash"
     },
     {
-        "savol": "Adaptatsiya",
-        "javob": "tez-tez o’zgartirish imkoniyatlari"
+        "question": "Algoritm ishlab chiqishning birinchi bosqichida algoritmni yozishning eng qulay usuli qaysi?",
+        "answer": "Algoritmni tuzim ko’rinishida ifodalash"
     },
     {
-        "savol": "Alfa testlash",
-        "javob": "bunda foydalanuvchi dasuturiy ta’minotni ishlab chiqaruvchi jamoa bilan birga faoliyat olib borgan holda testlashni amalga oshiradi"
+        "question": "Loyihalash jarayonini davom ettirish yoki tugatish to'g'risida qaror qabul qilish uchun zarur va etarli bo'lgan loyiha ob'ektining oraliq yoki yakuniy tavsifi - bu",
+        "answer": "loyiha yechimi"
     },
     {
-        "savol": "Algoritm bu",
-        "javob": "ma'lum turdagi masalalarni yechish uchun qo'llaniladigan amallar majmuasining muayyan tartibda berilishi"
+        "question": "Axborot oqimining asosiy yo’nalishi qanday kеtadi?",
+        "answer": "Tеpadan pastga va chap¬dan o’ngga"
     },
     {
-        "savol": "Alpha animatsiya bu -",
-        "javob": "ob’ektning shaffoflik darajasi o‘zgarishi"
+        "question": "Loyihani amalga oshirish uchun zarur bo'lgan qoidalar to'plami - bu",
+        "answer": "loyiha algoritmi"
     },
     {
-        "savol": "Arxitektura dizayni natijalari",
-        "javob": "Jarayon modeli"
+        "question": "Bloк uchun qaysi chiziqlar soni chеgaralanmagan?",
+        "answer": "Kiruvchi"
     },
     {
-        "savol": "Arxitektura dizayni natijalari quyidagicha namuna hisoblanadi",
-        "javob": "Jarayonlar"
+        "question": "Loyiha tavsiflarini ifodalash va o'zgartirish uchun mo'ljallangan til - bu",
+        "answer": "loyiha tili"
     },
     {
-        "savol": "Axborot bo’yicha bog’liqlik",
-        "javob": "bunda ikki modul ham bir xil axborotni ishlatadi"
+        "question": "Qaysi usulda algoritmni ifodalash uchun “dasturlash tillari” dеb ataluvchi suniy tillar qo’llaniladi?",
+        "answer": "Algoritmni maxsus tilda yozish"
     },
     {
-        "savol": "Axborot texnologiyalari (AT) yechimi",
-        "javob": "yagona paket sifatida sotiladigan tegishli dasturiy ta'minot dasturlari va  yoki xizmatlar majmui"
+        "question": "Dasturlash tili kompyuterga bog’liqlik darajasi bo’yicha necha guruhga bo'linadi?",
+        "answer": "Ikki turga"
     },
     {
-        "savol": "Barcha dasturiy ta’minotlar uchun umumiy bo’lgan nechta asosiy faoliyat bor?",
-        "javob": "4"
+        "question": "Hali mavjud bo'lmagan ob'ektni yaratish uchun zarur bo'lgan tavsifni tuzish jarayoni qanday nomlanadi?",
+        "answer": "loyihalash"
     },
     {
-        "savol": "Beta testlash",
-        "javob": "dasturiy ta’minotning ma’lum bir funksiyalari foydalanuvchilar testlashlari uchun ochiq bo’ladi va ular testlash jarayonini o’z kasbiy vazifalarini bajara turib amalga oshiradilar"
+        "question": "Algoritmlarning asosiy turlari nechta?",
+        "answer": "3"
     },
     {
-        "savol": "Birlashtirilgan CASElar nimalarni qamrab oladi?",
-        "javob": "dasturiy ta’minotni yaratish talablarini tahlil qilishdan tortib hujjatlarni sinovdan o‘tkazishgacha bo‘lgan barcha bosqich va jarayonlarni"
+        "question": "Loyiha protsedurasining bir qismi bo'lgan harakat yoki harakatlar to'plami - bu",
+        "answer": "Loyihaning ishlashi"
     },
     {
-        "savol": "Bitta kichik tizim yoki funktsiyaning yanada to’liq ishlab chiqilishi qaysi protetiyp?",
-        "javob": "Dumaloq protetib"
+        "question": "Algoritm- tizimning qat'iy va aniq qoidalari. Qoidani to'g'ri ketma-ketlikda joylashtiring: I. Algoritmni ishlab chiqish; II. Dasturni tekshirish, mumkin bo'lgan xatolarni aniqlash, xatolarni bartaraf etish; III. Modelni qurish, masalani yechish usulini tanlash; IV. Masalaning qo’yilishi; V. Tahlil qilish; VI. Algoritmni amalga oshirish;",
+        "answer": "IV, III, I, VI, II, V"
     },
     {
-        "savol": "Biznes jarayonlar tasnifi quyidagi jarayonlar sinflarini o'z ichiga oladi",
-        "javob": "Asosiy ish jarayonlari"
+        "question": "Algoritmning qanday xususiyatlari bor:",
+        "answer": "Barcha javoblar to'g'ri"
     },
     {
-        "savol": "Biznes jarayonlar tasnifi quyidagi sinflarni o'z ichiga oladi",
-        "javob": "Boshqaruv"
+        "question": "Algoritm tahlilining asosiy maqsadi:",
+        "answer": "kirish ma'lumotlari hajmini oshirish uchun resurslarga bo'lgan talablarni o'lchash masshtabini aniqlash."
     },
     {
-        "savol": "Biznes jarayonlarida jarayon sinflari quyidagilarga ajratiladi:",
-        "javob": "Asosiy ish jarayonlari"
+        "question": "“O(f(n))- algoritmning murakkabligi \" qanday ma'noni anglatadi?",
+        "answer": "Algoritmning kirish ma'lumotlari miqdorini tavsiflovchi parametrning oshishi bilan ishlash vaqti n uchun\nf(n) dan tezroq o'smaydi."
     },
     {
-        "savol": "bu xossaga ko'ra algoritm aniq va tugallangan qadamlardan tashkil topgan bo'lishi kerak",
-        "javob": "bu xossaga ko'ra masalaga tegishli algoritm faqat shu masalaga emas, balki shu turdagi barcha masalalarga mos kelishi kerak"
+        "question": "Go’rner sxemasi - bu",
+        "answer": "f (x) ko'phadning qiymatini x = x0 ma'lum qiymatida ko'phadni birhadlarga (birinchi darajali\nko'phadlarga) bo'lish orqali hisoblashni soddalashtirish algoritmi."
     },
     {
-        "savol": "CASE nima?",
-        "javob": "Avtomatlashtirilgan tizim muhandisligi - dasturlarni yaratish jarayonini qo‘llab-quvvatlash uchun ishlatiladigan turli xil asbob dasturlari"
+        "question": "Qabul qiladigan qiymatlariga qarab o’zlashtirish оperatоri necha xil turda bo'ladi?",
+        "answer": "uch"
     },
     {
-        "savol": "CASE ning kengaytmasi to'g'ri berilgan qatorni toping.",
-        "javob": "Computer-Aided Software Engineering"
+        "question": "Ma`lumot turlari qanday ko‘rinishda bo‘ladi?",
+        "answer": "oddiy-skalyar va murakkab"
     },
     {
-        "savol": "CASE-mablag'lari quyidagi mezonlarga ko'ra tasniflanadi:",
-        "javob": "Amaliy metodologiyalar va tizimlar va ma'lumotlar bazalarining modellariga muvofiq"
+        "question": "Chiziqli algoritm - bu",
+        "answer": "algoritm shakllangan buyruqlar bir marta va aniq qayd etilgan ketma-ketlikda bajariladi"
     },
     {
-        "savol": "Chiziqmli algoritm",
-        "javob": "bunda algoritmni xar bir buyrug’i ketma-ket bir marta bajariladi"
+        "question": "O'zlashtirish operatorlariga qaysi operatorlar kiradi?",
+        "answer": "Barcha javoblar to'g'ri"
     },
     {
-        "savol": "Component testing",
-        "javob": "ma’lum bir umumiy vazifani bajaruvchi bir nechta bo’limlardan tashkil topgan biror bir komponentani testlash"
+        "question": "Qanday qilib dasturni chiziqli strukturaga aylantirish mumkin? Qanday qilishni tasvirlab bering: I. chiqish va kirish ma'lumotlari qanday matematik formulalar bilan bog'liqligini aniqlash; II. asl ma'lumotlarga nima tegishli ekanligini, shuningdek, ushbu ma'lumotlarning qaysi turi / sinfini aniqlash, o'zgaruvchilar nomlarini tanlash; III. Yakuniy algoritmni yozish, Algoritm ma'lumotlarni kiritish, hisoblash, natijalarni ko'rsatishni o'z ichiga olishi kerak; IV. qaysi turdagi ma'lumotlar kerakli natijaga ega bo'lishini aniqlash uchun o'zgaruvchi (lar) nomini tanlang; V. agar kerak bo'lsa, oraliq ma'lumotlarning mavjudligi, ma'lumotlar sinfini / turini aniqlang va nomlarni tanlang; VI. ishlatiladigan barcha o'zgaruvchilarni tavsiflash;",
+        "answer": "II, IV, I, V, VI, III"
     },
     {
-        "savol": "C-talablarni tahlil qilish jarayonining tipik diagrammasi quyidagilarni o'z ichiga oladi",
-        "javob": "C-talablarini tekshiring va ularni mijoz bilan muvofiqlashtirish"
+        "question": "To'rtburchaklar usuli - bu",
+        "answer": "Bitta o'zgaruvchining funktsiyalarini sonli integrallash usuli - bu integralni har bir elementar oraliqda\ndoimiy bo'lgan nol darajali polinom bilan almashtirishdir."
     },
     {
-        "savol": "Dastur bu",
-        "javob": "ShEXM da ishlatishga tayyor dasturlash tilida yoki obektli kodda yozilgan algoritm"
+        "question": "O’zgaruvchilarning qanday turlari mavjud?",
+        "answer": "Barcha javoblar to’g’ri"
     },
     {
-        "savol": "Dastur nimalardan tuzilgan?",
-        "javob": "Dasturlar+ hujjatlar+ jarayonlarni bajarish"
+        "question": "Mantiqiy o’zgaruvchilar qanday qiymat qabul qiladi?",
+        "answer": "Rost yoki yolg’on"
     },
     {
-        "savol": "Dasturda hatolikni aniqlash tekshiruv jarayoni bu ...",
-        "javob": "Inspektrlash"
+        "question": "Copy funksiyasining vazifasi nima?",
+        "answer": "Satr qismidan nusxa olish"
     },
     {
-        "savol": "Dasturiy injinering atamasi nechonchi yili konferensiyada taklif qilingan?",
-        "javob": "1968"
+        "question": "Length funksiyasi nima vazifani bajaradi",
+        "answer": "Satr uzunligini qaytaradi"
     },
     {
-        "savol": "Dasturiy injiniring konteksti asosida nimalar tushuniladi",
-        "javob": "Informatika, sistemotexnika, biznes-reinjiniring"
+        "question": "Delete protsedurasi qanday vazifani bajaradi",
+        "answer": "Satrning bir qismini o’chirib tashlash mumkin"
     },
     {
-        "savol": "Dasturiy injiniring nima?",
-        "javob": "Dasturiy injiniring bu dasturiy mahsulotni ishlab chiqishning barcha qirralari bilan bog’liq muhandislik."
+        "question": "Post funksiyasining vazifasi nima?",
+        "answer": "Satrdagi satrning qismini joylashuvini aniqlaydi"
     },
     {
-        "savol": "Dasturiy injiniring va tizim injiniring o’rtasida qanday farq bor?",
-        "javob": "Tizim injiniring bu apparat ta’minot, dasturiy ta’minot va jarayon injiniringni o’z ichiga oluvchi kompyuter asosli"
+        "question": "Shortstring satridagi belgilar soni qanchadan oshmasligi kerak?",
+        "answer": "255 tadan"
     },
     {
-        "savol": "Dasturiy injiniring va tizim injiniring o’rtasida qanday farq bor?",
-        "javob": "Tizim injiniring bu apparat ta’minot,"
+        "question": "String tipi qaysi tipga ekvivalent?",
+        "answer": "Shortstring"
     },
     {
-        "savol": "Dasturiy injiniringni narxi qancha?",
-        "javob": "Taxminan 60% xarajatlar ishlab chiqarish uchun va 40% xarajatlar testlash uchun sarf bo’ladi."
+        "question": "Dastur matnida belgining o’rniga uning kodini ham yozish mumkun, faqat kodni yozishda avval son oldiga qanday belgi qo’yish kerak?",
+        "answer": "#"
     },
     {
-        "savol": "Dasturiy ta ’minotni amaliyotga tadbiq etish jarayonidagi teslash(release testing)",
-        "javob": "Ushbu testlash jarayoni dasturiy ta’minotni ishlab chiqaruvchilar jamoasidan tashqarida, uni amaliyotga tadbiq etish davridagi testlash jarayoni bo’lib hisoblanadi"
+        "question": "Ansichar tipiga ekvivalent tip qaysi?",
+        "answer": "Char"
     },
     {
-        "savol": "Dasturiy ta’minot jarayoni modellari keltirilgan varintni ko‘rsating",
-        "javob": "SHarshara, ortib borish, qaytib foydalanishga mo‘ljallangan"
+        "question": ".... - bosqichlarning qaysi birlarini mutaxassis kompyutеrdan foydalanmasdan va qaysi bosqichlarini kompyutеrdan foydalanib bajarishini aniqlash xamda bosqichlarni to’la o’rganib chiqishdan iborat",
+        "answer": "Maqsad"
     },
     {
-        "savol": "Dasturiy ta’minot muhandisligi usuliga to'g'ri berilgan ta'rifni belgilang.",
-        "javob": "bu yuqori sifatli mahsulotni iqtisodiy jihatdan samarali ravishda ishlab chiqarishni rag‘batlantiradigan dasturiy ta’minotni yaratishga tarkibiy yondashuv"
+        "question": "Trapesiya usuli - bu",
+        "answer": "Boshlang’ich funktsiyalarni topish va uning ustidagi integralni hisoblash imkoni bo'lmagan hollarda\nfoydali bo'lgan taqribiy integrallash."
     },
     {
-        "savol": "Dasturiy ta’minotning xarajatlar tarkibi nimalarga bog'liq?",
-        "javob": "dasturiy ta’minot turiga, uni ishlab chiqish uchun ishlatiladigan usullarga va baholash usuliga"
+        "question": "Qo’yilgan maqsadni amalga oshirish uchun kеrakli ma'lumotlar tarkibi (strukturasi), tuzilishi, ifodalanishi aniqlangan bo’lib, ular orasidagi bog’lanishlar aniq ifodalangan bo’lsa, nima dеb aytiladi?",
+        "answer": "Masala qo’yilgan"
     },
     {
-        "savol": "Dasturiy ta'minot sinflarga bo'linadi",
-        "javob": "Tizimli dastur, dasturiy ta'minot va dasturiy ta'minotni ishlab chiqish vositalari"
+        "question": "Masalani yеchish uchun kеrakli va yеtarli bo’lgan dastlabki ma'lumotlarning tarkibi, tavsifi, turi, tuzilishi xisobga olingan xolda мatеmatik tеrminlarda ifodalanadi hamda мasalani yеchishning nimasi yaratiladi ?",
+        "answer": "Matematik modeli"
     },
     {
-        "savol": "Dasturiy ta'minot tizimiga talablar tasnifi quyidagilarni o'z ichiga oladi",
-        "javob": "Funktsional talablar"
+        "question": "Masalani yеchish uslubi ishlab chiqilgan bo’lsa nima deb ataladi?",
+        "answer": "Masalani yеchish uslubi ishlab chiqilgan"
     },
     {
-        "savol": "Dasturiy ta'minot tizimini tasniflash talablari quyidagilarni o'z ichiga oladi",
-        "javob": "Funktsional bo'lmagan talablar"
+        "question": "Nimani yaratishda oraliq mа'lumotlarni iloji boricha kamaytirish, tashqi qurilmalar bilan bo’ladigan aloqalarni minimumga kеltirish kеrak?",
+        "answer": "Masalaning algoritmini"
     },
     {
-        "savol": "Dasturiy ta'minot tizimining oxirgi foydalanuvchilarining murojaat nuqtalarini quyidagicha izohlash mumkin",
-        "javob": "Tizim ma'lumotlari manbai"
+        "question": "Simpson usuli (parabolalar) - bu",
+        "answer": "a, b va m = (a + b) / 2 - parabola p(x) interpolyatsiya tugunlari bilan f(x) ikkinchi darajali funktsiyaning\ninterpolyatsiya polinomini integrallash usuli."
     },
     {
-        "savol": "Dasturiy ta'minotni ishlab chiqarish uchun qo'shimcha qurilmalar",
-        "javob": "Yangi dasturiy ta'minotni ishlab chiqishga mo'ljallangan hisoblash kompleksining tashqi qismlari, mikroprotsessor"
+        "question": "Qanday tenglama transsendent deyiladi?",
+        "answer": "Trigonometrik yoki eksponensial funktsiyalarni o'z ichiga oladi"
     },
     {
-        "savol": "Dasturiy ta'minotni ishlab chiqish jarayoni qanday ishlarni o'z ichiga oladi",
-        "javob": "Foydalanishga topshirish, qabul qilish"
+        "question": "....-masalani kompyutеrdan foydalanib еchish algoritmini yaratish jarayonidir.",
+        "answer": "Masalani algoritmlash"
     },
     {
-        "savol": "Dasturiy ta'minotni ishlab chiqish jarayoniga quyidagilar kiradi",
-        "javob": "Talablarni tahlil qilish, dizayn"
+        "question": "Masalani ishchi xolatga kеltirilgan yеchish algoritmini tanlangan algoritmik til vositasida ifodalash nima deb ataladi?",
+        "answer": "Dasturlash"
     },
     {
-        "savol": "Dasturiy ta'minotni ishlab chiqish tamoyillari",
-        "javob": "Shaxsiy rivojlanish jarayoni"
+        "question": "Dastur qanday bo’lishi kеrak, ya'ni ma'lumotlarni aniq biror turiga bog’liq bo’lmasligi kеrak",
+        "answer": "Umumiy"
     },
     {
-        "savol": "Dasturiy ta'minotni ishlab chiqish texnologiyasini ishlab chiqish bosqichlari quyidagilarni o'z ichiga oladi",
-        "javob": "\"Protsessual\" dasturlash"
+        "question": "Transendent tenglama sin(mx-10) + sin((m-1) -10) + ... + sin (10) = 0 ...... bor",
+        "answer": "cheksiz sonli ildizlari"
     },
     {
-        "savol": "Dasturiy ta'minotni ishlab chiqish vositalari:",
-        "javob": "Yangi dasturlarni yaratish uchun vositalar"
+        "question": "Agar tenglama faqat algebraik funktsiyalarni o'z ichiga olsa, u holda tenglama ... deyiladi.",
+        "answer": "algebraik"
     },
     {
-        "savol": "Dasturiy tizim ishonchligini aniqlashda qanday atamalar va nechta ishlatiladi",
-        "javob": "4 (Ishlovchanlik, Rad etmaslik (Inkorlilik), Havfsizlik, Himoyalanganlik)"
+        "question": "Qaysi bosqich “dasturni tеst bo’yicha tеkshirish” dеb xam yuritiladi?",
+        "answer": "Dasturning xatosini tuzatish"
     },
     {
-        "savol": "Dasturiy tizimni tizimli talablarni tekshirish va shakllantirish qaysi prototiplashtirish usulining maqsadi deb belgilangan",
-        "javob": "Tajribaviy"
+        "question": "..... - maxsus tayyorlangan dastlabki malumotlar bo’lib, ular ustida amallar bajarish bilan masalaning еchimi-natija olinadi",
+        "answer": "Test"
     },
     {
-        "savol": "Dasturiy tizimni yakuniy foydalanuvchiga etkazish qaysi prototiplashtirish usulining maqsadi deb belgilangan",
-        "javob": "Evolyusion"
+        "question": "Ko‘rsatkichli, logarifmik, trigonometrik va teskari trigonometrik funksiyalar nima deyiladi?",
+        "answer": "transsendent"
     },
     {
-        "savol": "Dasturlarni yaratish va ularni taxlash usullari va yo’llari uchun kerakli metodlar sistemasiga",
-        "javob": "Dasturlash texnologiyasi deyiladi"
+        "question": "Agar f(x) funksiya m darajali ko‘phad ko‘rinishiga ega bo‘lsa, f(x)=0 chiziqli bo‘lmagan tenglama uchun maksimal ildizlar soni qancha bo‘lishi mumkin?",
+        "answer": "m"
     },
     {
-        "savol": "Dasturlash tillarining qaysi birlari ob’ektga yo‘naltirilgan hisoblanadi",
-        "javob": "Java, C++"
+        "question": "f (x) = 0 tenglamaning ildizlarini oldindan belgilangan aniqlik darajasida izlash uchun qanday usullardan foydalaniladi?",
+        "answer": "Masalalarni yechishning sonli (taqribiy) usullar"
     },
     {
-        "savol": "Dasturiy ta’minot nima?",
-        "javob": "Kompyuter dasturlari va unga bog’liq hujjatlar. Dasturiy mahsulotlar olohida mijozlar uchun yoki umumiy bozor uchun ishlab chiqarilishi mumkin."
+        "question": "Oddiy iteratsiya usuli qanday usul hisoblanadi?",
+        "answer": "yaqinlashish usuli"
     },
     {
-        "savol": "Dasturiy ta’minot prototipi nima?",
-        "javob": "Ishlab chiqilayotgan dasturiy ta’minotning to’liq bo’lmagan versiyalari."
+        "question": "Ko’p marta takrorlash orqali ma'lum bir aniqlik bilan tizimning ildizlarini olishga imkon beruvchi usul ... deyiladi",
+        "answer": "iterativ usul"
     },
     {
-        "savol": "Dasturiy ta’minot tizimi talablari qanday sinflarga ajratiladi",
-        "javob": "Funksional va funksional bo‘lmagan talablar"
+        "question": "Bisektsiya usuli yana qanday nomlanadi?",
+        "answer": "Oraliqni ikkiga bo’lish usuli"
     },
     {
-        "savol": "Dasturiy ta’minotni yashash tsiklining oraliq nazorat modeli",
-        "javob": "Bu model asosida iteratsiya usuli qo’yilgan, ya’ni har bir bosqichdan xoxlagan boskichga kaytish mumkin"
+        "question": "Xord usuli ... hisoblanadi",
+        "answer": "iteratsiya usulining alohida holati"
     },
     {
-        "savol": "Dasturiy ta’minotni yashash tsiklining spiralli modeli",
-        "javob": "Bu model asosida prototipirovanie usuli ko’yilgan"
+        "question": "Chiziqsiz tenglamani Nyuton usulida yechishda qanday qiymatlar aniqlangan bo’lishi kerak?",
+        "answer": "boshlang’ich qiymat va aniqlik"
     },
     {
-        "savol": "Dasturiy ta'minot muhandisligi",
-        "javob": "dasturiy ta'minot muhandisligi"
+        "question": "Qaysi usulda algoritmni ifodalash uchun “dasturlash tillari” dеb ataluvchi suniy tillar qo’llaniladi?",
+        "answer": "Algoritmni maxsus tilda yozish"
     },
     {
-        "savol": "Davlat diagrammasida quyidagilar aks etadi",
-        "javob": "Davlat mashinasi"
+        "question": "Dasturlash tili kompyuterga bog’liqlik darajasi bo’yicha necha guruhga bo'lиnadi?",
+        "answer": "Ikki turga"
     },
     {
-        "savol": "Defektlarni aniqlash va ularni bartaraf etish bu ...",
-        "javob": "Otladka"
+        "question": "Matematik dasturlash nimani o’rganadi?",
+        "answer": "Matematik jihatdan ko'p o'zgaruvchili funksiyaning maksimal (minimal) qiymatini topish masalasi\nsifatida shakllantirilishi mumkin bo'lgan qarorlar qabul qilish masalalarini o'rganish"
     },
     {
-        "savol": "DFD quyidagicha ta'riflaydi:",
-        "javob": "Tashqi havolalar, hujjatlarni saqlash jadvallari (ma'lumotlar ombori, ma'lumotlar ombori"
+        "question": "Masalani chiziqli dasturlash masalasi sifatida shakllantirish qanday bosqichlarni o‘z ichiga oladi:",
+        "answer": "barcha javoblar to'g'ri."
     },
     {
-        "savol": "Dizayn texnologiyasi tarkibiy qismlarning kombinatsiyasi sifatida aniqlanadi",
-        "javob": "mezon va qoidalar"
+        "question": "Chiziqli dasturlash masalasi uchun asosiy matematik taxminlarni sanab o'ting",
+        "answer": "Barcha javoblar to'g'ri"
     },
     {
-        "savol": "DT o‘zarokelishuvchanlik jihati qanday nomlanadi",
-        "javob": "Kompromiss"
+        "question": "Maqsad funksiyasi maksimal qiymati izlanadigan va masalaning tizimli shartlari tenglamalar sistemasi bo'lgan chiziqli dasturlash masalasining modeli qanday ataladi?",
+        "answer": "Kanonik"
     },
     {
-        "savol": "DTni yaratish vositalari va muhandislik usullar to‘plami",
-        "javob": "Dasturiy injiniring (software engineering)"
+        "question": "Transport masalasi qanday masalaga tegishli?:",
+        "answer": "chiziqli dasturlash"
     },
     {
-        "savol": "Effektivlik",
-        "javob": "texnika vositalari resursidan minimal sonidan foydalanish"
+        "question": "Umumiy chiziqli dasturlash masalasini yechishda qanday analitik usuldan foydalaniladi?",
+        "answer": "simpleks usuli"
     },
     {
-        "savol": "ERWin diagrammasi bloklardan tashkil topgan",
-        "javob": "Ob’ekt"
+        "question": "Algoritmlarning asosiy turlari nechta?",
+        "answer": "3"
     },
     {
-        "savol": "ERWin grafikalarni ko'rsatish darajalariga ega",
-        "javob": "Belgi darajasi"
+        "question": "Qaysi algoritmlarda bloklar biri kеtidan boshqasi joylashgan bo’lib, bеrilgan tartibda bajariladi?",
+        "answer": "Chiziqli"
     },
     {
-        "savol": "ERwin jadvalining asosiy tarkibiy qismlari quyidagilardan iborat:",
-        "javob": "Atributlar"
+        "question": "Chiziqli turdagi algoritmlarda bloklar biri kеtidan boshqasi joylashgan bo’lib, bеrilgan tartibda bajariladi.Bunday bajrilish tartibi nima deb yuritiladi?",
+        "answer": "tabiiy tartib"
     },
     {
-        "savol": ". Dizayn texnologiyasi tarkibiy qismlarning kombinatsiyasi sifatida aniqlanadi",
-        "javob": "Bosqichma-bosqich protsedura"
+        "question": "Biroрta mantiqiy shartni bajarilishiga bog’lik holda hisoblash jarayoni u yoki bu tarmoq bo’yicha amalga oshirilishi nima deb ataladi?",
+        "answer": "tarmoqlanuvchi turdagi algoritm"
     },
     {
-        "savol": ". Foydalanuvchi tomonidan testlash(user testing)",
-        "javob": "Bunda foydalanuvchi yoki iste’molchi dasturiy mahsulotdan foydalanish davomida yuzaga kelgan muammolar bo’yicha o’z fikr va maslahatlari bergan holda testlash jarayonini amalga oshiradi."
+        "question": "Taкrorlanishlarni o’z ichiga olgan algoritmlar nima deb ataladi?",
+        "answer": "takrorlanuvchi turdagi algoritmlar"
     },
     {
-        "savol": "ishlab chiqish vositalari",
-        "javob": "Funktsiyalar va ma'lumotlarni sharhlash"
+        "question": "Chiziqli jarayonlarning algоritmlarini dasturlash tillari оrqali ifоdalashda tilning nechta оperatоrlaridan fоydalaniladi?",
+        "answer": "uchta"
     },
     {
-        "savol": ". Ratsionalizatsiya qilingan birlashtirilgan jarayon (RUP) doirasida dasturlarni ishlab chiqish bo'yicha tadbirlar majmuasi quyidagilarni o'z ichiga oladi",
-        "javob": "Talablarni aniqlash"
+        "question": "Simpleks usul algoritmi quyidagilarni o'z ichiga oladi:",
+        "answer": "Barcha javoblar to'g'ri."
     },
     {
-        "savol": ". UML kengaytirish mexanizmlari quyidagilarni o'z ichiga oladi",
-        "javob": "Stereotiplar"
+        "question": "Simpleks algoritmi - bu",
+        "answer": "Chiziqli dasturlash masalasining shartlar tizimining bir asosiy yechimidan maqsad funksiyasi optimal\nqiymatni (maksimal yoki minimal) olguncha boshqa asosiy yechimga ketma-ket oʻtish usuli."
     },
     {
-        "savol": "“Dasturiy injiniring” atamasi nechanchi yil  taklif qilingan?",
-        "javob": "1968"
+        "question": "Qabul qiladigan qiymatlariga qarab o’zlashtirish оperatоri necha xil turda bo'ladi?",
+        "answer": "uch"
     },
     {
-        "savol": "“Dasturiy injiniring” atamasi nechanchi yil  taklif qilingan?",
-        "javob": "1968"
+        "question": "Ma`lumot turlari qanday ko‘rinishda bo‘ladi?",
+        "answer": "oddiy-skalyar va murakkab"
+    },
+    {
+        "question": "O'zlashtirish operatorlariga qaysi operatorlar kiradi?",
+        "answer": "Barcha javoblar to'g'ri"
+    },
+    {
+        "question": "Belgilarni saqlash va qayta ishlash uchun nechta tipdagi o’zgaruvchilardan foydalaniladi?",
+        "answer": "2"
+    },
+    {
+        "question": "Belgilarni saqlash va qayta ishlash uchun qanday tipdagi o’zgaruvchilardan foydalaniladi?",
+        "answer": "Ansichar va Widechar"
+    },
+    {
+        "question": "O’zgaruvchilarning qanday turlari mavjud?",
+        "answer": "Barcha javoblar to’g’ri"
+    },
+    {
+        "question": "Mantiqiy o’zgaruvchilar qanday qiymat qabul qiladi?",
+        "answer": "Rost yoki yolg’on"
+    },
+    {
+        "question": "Massiv – bu",
+        "answer": "bir tipga tegishli bo’lib, umumiy nomga ega bo’lgan o’zgaruvchilarning tartiblangan to’plamidir"
+    },
+    {
+        "question": "Massiv chiqarish-",
+        "answer": "massiv elementlarining qiymatini ekranga chiqarish"
+    },
+    {
+        "question": "Massivni kiritish deganda…",
+        "answer": "dastur ishlagan vaqtda massiv elementlarining qiymatini foydalanuvchidan (yoki fayldan) qabul qilish\ntushuniladi"
+    },
+    {
+        "question": "ColCount xususiyatining vazifasi nima?",
+        "answer": "Jadvalning ustunlar soni"
+    },
+    {
+        "question": "RowCount xususiyatining vazifasi nima?",
+        "answer": "Jadvalning qatorlar soni"
+    },
+    {
+        "question": "Cells xususiyatining vazifasi nima?",
+        "answer": "Ikki o’lchovli massivga mos keluvchi jadval. Ustun raqami col va qator raqami row ga mos keluvchi\njadval katakchasi cells[ col, row] elementlarini aniqlaydi"
+    },
+    {
+        "question": "FixedCols xususiyatining vazifasi nima?",
+        "answer": "jadvalning chap qismidagi belgilangan ustunlar soni. Belgilanga ustunlar alohida rang bilan ajratiladi va\nkataklar gorizontal siljitilganda o’z o’rnini o’zgartirmaydi"
+    },
+    {
+        "question": "FixedRows xususiyatining vazifasi nima?",
+        "answer": "jadvalning yuqori qismidagi belgilangan ustunlar soni. Belgilangan ustunlar alohida rang bilan ajratiladi\nva kataklar vertical siljitilganda o’z o’rnini o’zgartirmaydi"
+    },
+    {
+        "question": "Options.go Editing xususiyatining vazifasi nima?",
+        "answer": "jadvalning yuqori qismidagi belgilangan ustunlar soni. Belgilangan ustunlar alohida rang bilan ajratiladi\nva kataklar vertical siljitilganda o’z o’rnini o’zgartirmaydi"
+    },
+    {
+        "question": "DefaultColWidth xususiyatining vazifasi nima?",
+        "answer": "Jadvaldagi ustunlar kengligi"
+    },
+    {
+        "question": "Deafult Row Height xususiyatining vazifasi nima?",
+        "answer": "jadvaldagi qator balandligi"
+    },
+    {
+        "question": "GridLineWidht xususiyatining vazifasi nima?",
+        "answer": "jadvalkataklarini ajratib turuvchi chiziqlarnin qalinligi"
+    },
+    {
+        "question": "Left xususiyatining vazifasi nima?",
+        "answer": "komponentlarning chap chegarasidan formaning chap chegarasigacha bo’lgan masofa"
+    },
+    {
+        "question": "Top xususiyatining vazifasi nima?",
+        "answer": "komponentlarning yuqori chegarasidan formaning yuqori chegarasigacha bo’lgan masofa"
+    },
+    {
+        "question": "Hegiht xususiyatining vazifasi nima?",
+        "answer": "Kompanentning balandligi"
+    },
+    {
+        "question": "Widht xususiyatining vazifasi nima?",
+        "answer": "komponentning kengligi"
+    },
+    {
+        "question": "Font xususiyatining vazifasi nima?",
+        "answer": "Jadval kataklaridagi matnlarng shrifi"
+    },
+    {
+        "question": "Massiv elementini taqqoslash qaysi buyruq yordami amalga oshiriladi",
+        "answer": "repeat"
+    },
+    {
+        "question": "Name xususiyatining aniqlanishi qanday?",
+        "answer": "komponent nomi. Komponent xususiyatiga murojat qilishda qo’llaniladi"
+    },
+    {
+        "question": "Text xususiyatining aniqlanishi qanday?",
+        "answer": "memo maydonidagi matn. Bir butun matn sifatida qaraladi"
+    },
+    {
+        "question": "Lines xususiyatining aniqlanishi qanday?",
+        "answer": "memo maydonidagi matn. Satrlar yig’indisi sifatida qaraladi . Satrga murojaat satr raqami bo’yicha\namalga oshiriladi"
+    },
+    {
+        "question": "Lines. Count xususiyatining aniqlanishi qanday?",
+        "answer": "memo maydonidagi qatorlar soni"
+    },
+    {
+        "question": "Massivni tartiblanishi deganda-",
+        "answer": "ma’lum bir qoidaga asosan massiv elementlarining joyini o’zgartirish tushuniladi"
+    },
+    {
+        "question": "Array nima?",
+        "answer": "Delphida massiv e’lon qilinayotganini bildiruvchi kalit so’z"
+    },
+    {
+        "question": "Bosh_chegara va oxirgi_chegara nima?",
+        "answer": "massiv elementlarining o’zgarish oralig’ini belgilovchi butun tipli konstantlar"
+    },
+    {
+        "question": "Font xususiyatining aniqlanishi qanday?",
+        "answer": "izox matnining shrifi"
+    },
+    {
+        "question": "Standart matematik funksiyalarini belgilang",
+        "answer": "sinx, cosx, Lnx, arctgx"
+    },
+    {
+        "question": "nostandart matematik funksiyani belgilang",
+        "answer": "arcsinx, arccosx,"
+    },
+    {
+        "question": "O’zgaruvchilar qiymatini ekrandan kiritish operatorini ko’rsating",
+        "answer": "Read(s);"
+    },
+    {
+        "question": "Ma’lumotlar va o’zgaruvchilar qiymatini ekranga chiqarish operatorini ko’rsating",
+        "answer": "Write(s);"
+    },
+    {
+        "question": "Chiziqli dasturlash masalasini yechish uchun rejani ketma-ket takomillashtirish usuli qanday nomlanadi?",
+        "answer": "simpleks usuli"
+    },
+    {
+        "question": "Qiymatini minimallashtirish yoki maksimallashtirish uchun chiziqli dasturlash funksiyasi qanday nomlanadi?",
+        "answer": "maqsad funksiyasi"
+    },
+    {
+        "question": "INTERFACE….",
+        "answer": "{interfeys seksiya}"
+    },
+    {
+        "question": "USES…",
+        "answer": "&ltulanadigan modul nomi&gt"
+    },
+    {
+        "question": "IMPLEMENTATION…..",
+        "answer": "{ishlatish seksiyasi}"
+    },
+    {
+        "question": "Inisializasiya seksiyasi modulning …… seksiyasi hisoblanadi",
+        "answer": "oxirgi"
+    },
+    {
+        "question": "Kompyutеrda turli xil chizmalar va tasvirlar xosil qiluvchi funktsiyalarni olgan modul qanday nomlanadi?",
+        "answer": "Graph"
+    },
+    {
+        "question": "Graph modulida ekranda tasvirlarni xosil qilish uchun qanday rеjimga o`tish zarur kerak?",
+        "answer": "Grafik"
+    },
+    {
+        "question": "Grafik rejimning matn rejimidan farqi nimada?",
+        "answer": "Grafik rejimda ekran rang-barang nuqtalar – piksellar to`plamidan tashkil topgan to`rtburchakdan iborat\nbo`ladi."
+    },
+    {
+        "question": "Grafik rejimda ekranning holatini nima belgilaydi?",
+        "answer": "Adapterlar"
+    },
+    {
+        "question": "Ekranga mumkin qadar ko`p nuqtalar joylashtira olish va rang-baranglikni oshirish imkoniyati qaysi rejimda mavjud?",
+        "answer": "Grafik"
+    },
+    {
+        "question": "Ekranni grafik holatga o`tkazish uchun qaysi funksiyadan foydalaniladi?",
+        "answer": "Initgraph (gd, gm, path)"
+    },
+    {
+        "question": "Initgraph (gd, gm, path) funksiyasi nima uchun ishlatiladi?",
+        "answer": "Ekranni matn holatidan grafik holatga o’tkazish uchun"
+    },
+    {
+        "question": "Initgraph (gd, gm, path) funksiyasida gd nimani bildiradi?",
+        "answer": "drayvеr nomеri"
+    },
+    {
+        "question": "Nuqtalar o’rnini to’ldiring. Initgraph (gd, gm, path) funksiyasida path o’rnida “ belgisi turgan bo’lsa…",
+        "answer": "drayvеr joriy katalogdan axtariladi"
+    },
+    {
+        "question": "Grafik rеjimdan chiqish uchun qaysi funksiyadan foydalaniladi?",
+        "answer": "Closegraph"
+    },
+    {
+        "question": "Ekranda x,y koordinatali nuqtani Color rangida xosil qiluvchi funksiya qaysi?",
+        "answer": "Putpixel (x,y, Color)"
+    },
+    {
+        "question": "Ekrandagi x,y koordinatali nuqtaning rangini aniqlaydigan funksiya qaysi?",
+        "answer": "Getpixel (x,y)"
+    },
+    {
+        "question": "Line (x1,y1,x2,y2) funksiya qanday vazifa bajaradi?",
+        "answer": "x1,y1 nuqtadan x2,y2 nuqtagacha kеsma xosil qiladi"
+    },
+    {
+        "question": "x,y markazga ega r radiusli aylana xosil qilish uchun qaysi funksiya ishlatiladi?",
+        "answer": "Circle(x,y,r)"
+    },
+    {
+        "question": "Ko`pburchak xosil qilish uchun qaysi funksiya ishlatiladi?",
+        "answer": "Drawpoly"
+    },
+    {
+        "question": "Ekranning chap yuqori nuqtasi (X1,Y1), o’ng pastki nuqtasi (X2,Y2) koordinatadagi to’g’ri to’rtburchakli sohasini saqlash uchun kеrak bo’lgan xotiraning o’lchamini baytlarda olish vazifasini bajaruvchi protsedura qaysi?",
+        "answer": "ImageSize(Xl,Yl,X2,Y2)"
+    },
+    {
+        "question": "Rekursiyada yechimni olish vaqtida o’z-o’ziga murojaatni talab etmaydigan holatlar nima deb atatladi?",
+        "answer": "Rekursiya bazisi"
+    },
+    {
+        "question": "PutImage (X,Y,Area,mode) protsedurasida mode nimani bildiradi?",
+        "answer": "tasvirni ekranga chiqarish rеjimi"
+    },
+    {
+        "question": "GetImage (Xl ,Y1 ,X2,Y2,Area) protsedurasida Area qanday o’zgaruvchi?",
+        "answer": "tasvir saqlanadigan joyning adrеsini saqlaydigan o’zgaruvchi"
+    },
+    {
+        "question": "Grafik oynani tozalash protsedurasi qaysi?",
+        "answer": "ClearViewPort"
+    },
+    {
+        "question": "Tasvir etilayotgan vidеoxotiraning aktiv qismini o’rnatish protsedurasi qaysi?",
+        "answer": "SetVisvalPage"
+    },
+    {
+        "question": "SetViewPort protsedurasi qanday vazifani bajaradi?",
+        "answer": "oynaning o’lchamini o’rnatish"
+    },
+    {
+        "question": "SetActivePage protsedurasi qanday vazifa bajaradi?",
+        "answer": "vidеoxotiraning aktiv qismini o’rnatish"
+    },
+    {
+        "question": "ClearDevice protsedurasi qanday vazifa bajaradi?",
+        "answer": "grafik ekranni tozalash"
+    },
+    {
+        "question": "Nuqtalar o’rnini to’ldiring. … bu buyruqlar ketma-ketligini kiritishdir.",
+        "answer": "dasturlash"
+    },
+    {
+        "question": "Qo’yilgan masalani dasturlash mumkinligini tekshirish …",
+        "answer": "bosqichida, masalaning qo’yilishi sinchkоvlik bilan tekshiriladi va natija оlish uchun ma’lum bir fоrmaga\nkeltiriladi, har qanday holatda ham dasturnining ishlashi rejalashtiriladi."
+    },
+    {
+        "question": "Agar yaratilgan dastur boshqa foydalanuvchilar tomonidan ishlatiladigan bo’lsa, u holda dasturchi foydalanuvchiga qulay bo’lishi uchun albatta yordamchi tizimlarni yaratishi kerak. Zamonaviy dasturlarda yordamchi axborotlar CHM yoki HLP fayl ko’rinishida bo’ladi. yordamchi tizimlar tarkibiga dasturni o’rnatish bo’yicha ko’rsatmalar ham kiradi. Ular Readme nomli TXT, DOC yoki HTM fayl formatlaridan birida bo’ladi. Ushbu ta’rif dasturlashning qaysi bosqichiga tegishli?",
+        "answer": "Yordamchi tizimlarni yaratish"
+    },
+    {
+        "question": "Nuqtalar o’rnini to’ldiring. … bоsqichi o’ta muhim bo’lib, yaratilgan dasturdan bоshqalar ham fоydalanishi hisоbga оlinadi. Bu bоsqichda eng ko’pi bilan qancha ma’lumotni ko’tara оlishi va unda kiritilishi mumkin bo’lgan nоto’g’ri ma’lumоtlar tekshiriladi.",
+        "answer": "Testdan o’tkazish"
+    },
+    {
+        "question": "Qo’yilgan masalaning algоritmini tanlash yoki qayta ishlash bosqichi qanday amalga oshiriladi?",
+        "answer": "bu bоsqichda natija оlish uchun kerak bo’ladigan muhit tekshiriladi. Agarda masala turli usullar bilan\nyechiladigan bo’lsa, dasturchi eng qulay, ya’ni tez va aniq ishlaydigan usulni tanlaydi. Algoritmni qayta\nishlash bosqichi natijasi sifatida algoritm so’z yoki blok-sxema orqali ifodalanadi."
+    },
+    {
+        "question": "Algoritm nima?",
+        "answer": "berilgan ma’lumotlardan foydalanib, ko’zlangan natijaga erishish jarayonini aniqlashdir"
+    },
+    {
+        "question": "Algoritmlarni blok-sxema ko’rinishida ifodalashda kiritish/chiqarish uchun qanday maxsus belgidan foydalaniladi?",
+        "answer": "parallelogram"
+    },
+    {
+        "question": "Algoritmlarni blok-sxema ko’rinishida ifodalashda qayta ishlash uchun qanday maxsus belgidan foydalaniladi?",
+        "answer": "to’g’ri to’rtburchak"
+    },
+    {
+        "question": "Nuqtalar o’rnini to’ldiring. … da dasturlashda masalani yechish algoritmi hodisalarni qayta ishlash protseduralarining algoritmlaridan tashkil topadi.",
+        "answer": "Delphi"
+    },
+    {
+        "question": "Dastur kodi nima?",
+        "answer": "dasturlash tilining buyruqlari ko’rinishida keltirilgan algoritm"
+    },
+    {
+        "question": "Insonlar uchun tushunarli, ammo kompyuter protsessoriga tushunarsiz bo’lgan buyruqlar nima deb yuritiladi?",
+        "answer": "dastur kodi"
+    },
+    {
+        "question": "Dastur kodini mashina tiliga aylantiradigan maxsus dastur qanday nomlanadi?",
+        "answer": "kompilyator"
+    },
+    {
+        "question": "Nuqtalar o’rnini to’ldiring. Delphida dastur … deb yuritiluvchi buyruqlar ketma-ketligidan iborat bo’ladi.",
+        "answer": "operator"
+    },
+    {
+        "question": "Yetti хildagi butun tiplar bilan ishlaydigan dastur qaysi?",
+        "answer": "Delphi"
+    },
+    {
+        "question": "Byte tipi qiymat oralig’ini ko’rsating.",
+        "answer": "0—255"
+    },
+    {
+        "question": "Longword tipi qiymat oralig’ini ko’rsating.",
+        "answer": "0 —4 294 967 295"
+    },
+    {
+        "question": "Longint tipiga ekvivalent bo’lgan tip qaysi?",
+        "answer": "Integer"
+    },
+    {
+        "question": "Quyida keltirilgan funkiyalardan qaysi biri kasr sonni butun qismini ko‘rsatadi?",
+        "answer": "Int(n)"
+    },
+    {
+        "question": "n=8 bo'lganda dastur qismi qanday natija beradi? int n, s = 0; cout &lt&lt \"n=\"; cin &gt&gt n; for (int i = 0; i &lt= n; i = i + 2) s += i; cout &lt&lt s &lt&lt endl;",
+        "answer": "20"
+    },
+    {
+        "question": "n=9 bo'lganda dastur qismi qanday natija beradi? int n, s = 0; cout &lt&lt \"n=\"; cin &gt&gt n; for (int i = 0; i &lt= n; i++) if (i % 2==1) s += i; cout &lt&lt s &lt&lt endl;",
+        "answer": "25"
+    },
+    {
+        "question": "n=10 bo'lganda dastur qismi qanday natija beradi? int n, s = 0; cout &lt&lt \"n=\"; cin &gt&gt n; for (int i = 1; i &lt= n; i++) if (n % i == 0) s += i; cout &lt&lt s &lt&lt endl;",
+        "answer": "18"
+    },
+    {
+        "question": "n=15 bo'lganda dastur qismi qanday natija beradi? int n, s = 0; cout &lt&lt \"n=\"; cin &gt&gt n; for (int i = 1; i &lt= n; i++) if (n % i == 0) s += 1; cout &lt&lt s &lt&lt endl;",
+        "answer": "4"
+    },
+    {
+        "question": "n=5 bo'lganda dastur qismi qanday natija beradi? int n, s = 0; cout &lt&lt \"n=\"; cin &gt&gt n; for (int i = 1; i &lt= n; i++) s *= i; cout &lt&lt s &lt&lt endl;",
+        "answer": "0"
+    },
+    {
+        "question": "n=6 bo'lganda dastur qismi qanday natija beradi? int n, s = 1; cout &lt&lt \"n=\"; cin &gt&gt n; for (int i = 1; i &lt= n; i++) s *= i; cout &lt&lt s &lt&lt endl;",
+        "answer": "720"
+    },
+    {
+        "question": "n=12 bo'lganda dastur qismi qanday natija beradi? int n, s = 0; cout &lt&lt \"n=\"; cin &gt&gt n; for (int i = 2; i &lt= n; i++) { bool b = true; for (int j = 2; j &lt i; j++) if (i % j == 0) { b = false; break; } if ( b ) s += i; } cout &lt&lt s &lt&lt endl;",
+        "answer": "28"
+    },
+    {
+        "question": "n=15 bo'lganda dastur qismi qanday natija beradi? int n, s = 0; cout &lt&lt \"n=\"; cin &gt&gt n; for (int i = 1; i &lt= n; i++) { int k = 0; for (int j = 1; j &lt i; j++) if (i % j == 0) k++; if ( k == 1 ) s += i; } cout &lt&lt s &lt&lt endl;",
+        "answer": "40"
+    },
+    {
+        "question": "n=8 bo'lganda dastur qismi qanday natija beradi? int n, s = 1, i = 2; cout &lt&lt \"n=\"; cin &gt&gt n; for (int k = 1; k &lt= n; k++) s *= i; cout &lt&lt s &lt&lt endl;",
+        "answer": "256"
+    },
+    {
+        "question": "n=3 bo'lganda dastur qismi qanday natija beradi? int n, s = 1, a; cout &lt&lt \"n=\"; cin &gt&gt n; a = n; for (int k = 1; k &lt= n; k++) s *= a; cout &lt&lt s &lt&lt endl;",
+        "answer": "27"
+    },
+    {
+        "question": "n=10 bo'lganda dastur qismi qanday natija beradi? int n, s = 0; cout &lt&lt \"n=\"; cin &gt&gt n; for (int k = 1; k &lt= n; k++) {if (k % 5 == 0) continue; s += k; } cout &lt&lt s &lt&lt endl;",
+        "answer": "40"
+    },
+    {
+        "question": "n=8 bo'lganda dastur qismi qanday natija beradi? int s = 0, i, n; cout &lt&lt \"n=\"; cin &gt&gt n; for (i = 1; i &lt= n; i++) if (i % 2) s += i; else s += 2 * i; cout &lt&lt s &lt&lt endl;",
+        "answer": "56"
+    },
+    {
+        "question": "n=10 bo'lganda dastur qismi qanday natija beradi? int s = 0, i, n; cout &lt&lt \"n=\"; cin &gt&gt n; for (i = 1; i &lt= n; i++) if (i % 3 == 0) s += 2 * i; cout &lt&lt s &lt&lt endl;",
+        "answer": "36"
+    },
+    {
+        "question": "n=12 bo'lganda dastur qismi qanday natija beradi? int s = 0, i, n; cout &lt&lt \"n=\"; cin &gt&gt n; for (i = 1; i &lt= n; i++) switch ( i % 5 ) {case 0: s += i; break; default : s++; } cout &lt&lt s &lt&lt endl;",
+        "answer": "25"
+    },
+    {
+        "question": "n=10 bo'lganda dastur qismi qanday natija beradi? int s = 0, i, n; cout &lt&lt \"n=\"; cin &gt&gt n; for (i = 1; i &lt= n; i++) switch ( i % 10 ) { case 0: case 2: case 4: case 6: case 8: s += i; break; default : s++; } cout &lt&lt s &lt&lt endl;",
+        "answer": "35"
+    },
+    {
+        "question": "n=8 bo'lganda dastur qismi qanday natija beradi? int s = 0, i = 0, n; cout &lt&lt \"n=\"; cin &gt&gt n; dastur_uz : i++; s += i; if (i != n) goto dastur_uz; else s *= 2; cout &lt&lt s &lt&lt endl;",
+        "answer": "72"
+    },
+    {
+        "question": "n=12 bo'lganda dastur qismi qanday natija beradi? int s = 0, i, k = 1, n; cout &lt&lt \"n=\"; cin &gt&gt n; for (i = 1; i &lt= n; i++) s += k; k += i; cout &lt&lt s &lt&lt endl;",
+        "answer": "12"
+    },
+    {
+        "question": "n=9 bo'lganda dastur qismi qanday natija beradi? int s = 0, i, k = 1, n; cout &lt&lt \"n=\"; cin &gt&gt n; for (i = 1; i &lt= n; i++) k += i; s += k; cout &lt&lt s &lt&lt endl;",
+        "answer": "46"
+    },
+    {
+        "question": "n=6 bo'lganda dastur qismi qanday natija beradi? int s = 0, i, k = 1, n; cout &lt&lt \"n=\"; cin &gt&gt n; for (i = 1; i &lt= n; i++) { k += i; s += k; } cout &lt&lt s &lt&lt endl;",
+        "answer": "62"
+    },
+    {
+        "question": "n=8 bo'lganda dastur qismi qanday natija beradi? int s = 0, i, n; cout &lt&lt \"n=\"; cin &gt&gt n; for (i = 1; i &lt= n; i++) if (i % 2 == 0)s += i; s *= 2; cout &lt&lt s &lt&lt endl;",
+        "answer": "40"
+    },
+    {
+        "question": "n=8 bo'lganda dastur qismi qanday natija beradi? int s = 0, i, n; cout &lt&lt \"n=\"; cin &gt&gt n; for (i = 1; i &lt= n; i++) if (i % 2 == 0) { s += i; s *= 2; } cout &lt&lt s &lt&lt endl;",
+        "answer": "104"
+    },
+    {
+        "question": "n=12 bo'lganda dastur qismi qanday natija beradi? int s = 0, i, n; cout &lt&lt \"n=\"; cin &gt&gt n; for (i = 1; i &lt= n; i++) if (i % 5 == 0) break; else s += i; cout &lt&lt s &lt&lt endl;",
+        "answer": "10"
+    },
+    {
+        "question": "n=13 bo'lganda dastur qismi qanday natija beradi? int s = 0, i = 1, n; cout &lt&lt \"n=\"; cin &gt&gt n; do { i += 2; if (i % 3 == 0) s += i; else s++;} while (i &lt= n); cout &lt&lt s &lt&lt endl;",
+        "answer": "31"
+    },
+    {
+        "question": "n=5 bo'lganda dastur qismi qanday natija beradi? int s = 0, i = 1, p = 1, n; cout &lt&lt \"n=\"; cin &gt&gt n; while (i &lt= n) { s += i; p *= i; i++; } s += p; cout &lt&lt s &lt&lt endl;",
+        "answer": "135"
+    },
+    {
+        "question": "n=9 bo'lganda dastur qismi qanday natija beradi? int s = 0, i = 1, p = 0, k = 5, n; cout &lt&lt \"n=\"; cin &gt&gt n; while (i &lt= n) { if (i % 2 == 0) s += k; else p++; i++; } p += k; s += p; cout &lt&lt s &lt&lt endl;",
+        "answer": "30"
+    },
+    {
+        "question": "n=10 bo'lganda dastur qismi qanday natija beradi? int n, s = 0, i = 0;;cout &lt&lt \"n=\"; cin &gt&gt n; while (1 &gt 0) { i++; s += i; if ( i &gt= n ) break; } cout &lt&lt s &lt&lt endl;",
+        "answer": "55"
+    },
+    {
+        "question": "n=8 bo'lganda dastur qismi qanday natija beradi? int n, s = 0; cout &lt&lt \"n=\"; cin &gt&gt n; int i = n; while (i &gt 0) { s += i--; if (i &gt= n) break; } cout &lt&lt s &lt&lt endl;",
+        "answer": "36"
+    },
+    {
+        "question": "n=10 bo'lganda dastur qismi qanday natija beradi? int n, s = 0; cout &lt&lt \"n=\"; cin &gt&gt n; int i = 0; do { i++; s += i++; } while ( i &lt n); cout &lt&lt s &lt&lt endl;",
+        "answer": "25"
+    },
+    {
+        "question": "n=10 bo'lganda dastur qismi qanday natija beradi? int n, s = 0; cout &lt&lt \"n=\"; cin &gt&gt n; int i = n; do { s += i--; } while ( i &gt 0); cout &lt&lt s &lt&lt endl;",
+        "answer": "55"
+    },
+    {
+        "question": "a=5, b=10 bo'lganda dastur qismi qanday natija beradi? int a, b, s = 0; cout &lt&lt \"a=\"; cin &gt&gt a; cout &lt&lt \"b=\"; cin &gt&gt b; int i = 0; while (i &lt= a) { s += i; i += b; } cout &lt&lt s &lt&lt endl;",
+        "answer": "0"
+    },
+    {
+        "question": "a=3, b=4 bo'lganda dastur qismi qanday natija beradi? int a, b, s = 0; cout &lt&lt \"a=\"; cin &gt&gt a; cout &lt&lt \"b=\"; cin &gt&gt b; int i = 0; while (i &lt= a) { if (i % b == 0) s += i; i++; } cout &lt&lt s &lt&lt endl;",
+        "answer": "0"
+    },
+    {
+        "question": "a=10, b=10 bo'lganda dastur qismi qanday natija beradi? int a, b, s = 0; cout &lt&lt \"a=\"; cin &gt&gt a; cout &lt&lt \"b=\"; cin &gt&gt b; int i = 0; do { i = i + b; s += i; } while ( i &lt a ); cout &lt&lt s &lt&lt endl;",
+        "answer": "10"
+    },
+    {
+        "question": "a=7, b=5 bo'lganda dastur qismi qanday natija beradi? int a, b, s = 0; cout &lt&lt \"a=\"; cin &gt&gt a; cout &lt&lt \"b=\"; cin &gt&gt b; int i = 0; do { i++; if (i % b == 0) s += i; } while ( i &lt a ); cout &lt&lt s &lt&lt endl;",
+        "answer": "5"
+    },
+    {
+        "question": "a=10, b=5 bo'lganda dastur qismi qanday natija beradi? int a, b, s = 0; cout &lt&lt \"a=\"; cin &gt&gt a; cout &lt&lt \"b=\"; cin &gt&gt b; int i = b; while (i &lt= a) { s += 1; i++; } cout &lt&lt s &lt&lt endl;",
+        "answer": "6"
+    },
+    {
+        "question": "a=11, b=6 bo'lganda dastur qismi qanday natija beradi? int a, b, s = 0; cout &lt&lt \"a=\"; cin &gt&gt a; cout &lt&lt \"b=\"; cin &gt&gt b; int i = b; while (i &lt= a) { s += i; i++; } cout &lt&lt s &lt&lt endl;",
+        "answer": "51"
+    },
+    {
+        "question": "a=10, b=20 bo'lganda dastur qismi qanday natija beradi? int a, b, s; cout &lt&lt \"a=\"; cin &gt&gt a; cout &lt&lt \"b=\"; cin &gt&gt b; s = a * b; while (a != b) if (a &gt b) a -= b; else b -= a; s /= a; cout &lt&lt a &lt&lt endl;",
+        "answer": "10"
+    },
+    {
+        "question": "a=20, b=30 bo'lganda dastur qismi qanday natija beradi? int a, b, s; cout &lt&lt \"a=\"; cin &gt&gt a; cout &lt&lt \"b=\"; cin &gt&gt b; s = a * b; while (a != b) if (a &gt b) a -= b; else b -= a; s /= a; cout &lt&lt s &lt&lt endl;",
+        "answer": "60"
+    },
+    {
+        "question": "a=10, b=15 bo'lganda dastur qismi qanday natija beradi? int a, b, s; cout &lt&lt \"a=\"; cin &gt&gt a; cout &lt&lt \"b=\"; cin &gt&gt b; s = 0; while (a &gt= b) { s++; a -= b; } s += a; cout &lt&lt s &lt&lt endl;",
+        "answer": "10"
+    },
+    {
+        "question": "n=899 bo'lganda dastur qismi qanday natija beradi? int n, s; cout &lt&lt \"n=\"; cin &gt&gt n; s = 0; while (n &gt 0) { s += n % 10; n /= 10; } cout &lt&lt s &lt&lt endl;",
+        "answer": "26"
+    },
+    {
+        "question": "n=7 bo'lganda dastur qismi qanday natija beradi? int n, s = 1; cout &lt&lt \"n=\"; cin &gt&gt n; while (n &gt= 2) { s *= n; n -= 2; } cout &lt&lt s &lt&lt endl;",
+        "answer": "105"
+    },
+    {
+        "question": "n=10 bo'lganda dastur qismi qanday natija beradi? int n, s = 0; cout &lt&lt \"n=\"; cin &gt&gt n; while (!( s * s &gt n)) s++; cout &lt&lt s &lt&lt endl;",
+        "answer": "4"
+    },
+    {
+        "question": "n=30 bo'lganda dastur qismi qanday natija beradi? int n, q; cout &lt&lt \"n=\"; cin &gt&gt n; if (n != 1) q = n / 2; else q = 1; while (!(q * q &lt= n)) q--; cout &lt&lt q &lt&lt endl;",
+        "answer": "5"
+    },
+    {
+        "question": "n=40 bo'lganda dastur qismi qanday natija beradi? int n, k = 0, s = 1; cout &lt&lt \"n=\"; cin &gt&gt n; while (!(s &gt n)) { s *= 3; k++; } cout &lt&lt k &lt&lt endl;",
+        "answer": "4"
+    },
+    {
+        "question": "n=80 bo'lganda dastur qismi qanday natija beradi? int n, s = 0; cout &lt&lt \"n=\"; cin &gt&gt n; while (3 &lt= n) { n /= 3; s++; } cout &lt&lt s &lt&lt endl;",
+        "answer": "3"
+    },
+    {
+        "question": "n=876 bo'lganda dastur qismi qanday natija beradi? void funksiya(int *a, int *n, int *k) { *n = 0; *k = 0; while (*a &gt 0) { *k += *a % 10; *n += 1; *a /= 10; } } int main() { int n, b, c; cout &lt&lt \"n=\"; cin &gt&gt n; funksiya(&n, &b, &c); cout &lt&lt b + c + n; return 0; }",
+        "answer": "24"
+    },
+    {
+        "question": "n=5 bo'lganda dastur qismi qanday natija beradi? int funksiya(int n) { while (n &gt 0) {cout &lt&lt n % 10; n /= 10; } return n; } int main() { int n; cout &lt&lt \"n=\"; cin &gt&gt n; cout &lt&lt funksiya(n); return 0; }",
+        "answer": "50"
+    },
+    {
+        "question": "n=456 bo'lganda dastur qismi qanday natija beradi? int funksiya(int n) { int k = 0; while(n &gt 0) { k++; n /= 10; } return k; } int main() { int n; cout &lt&lt \"n=\"; cin &gt&gt n; cout &lt&lt funksiya(n); return 0; }",
+        "answer": "3"
+    },
+    {
+        "question": "n=6 bo'lganda dastur qismi qanday natija beradi? int funksiya(int k) { if (k == 0) return 1; else if (k == 1) return 1;else return k * funksiya(k - 1); } int main() { int n; cout &lt&lt \"n=\"; cin &gt&gt n; cout &lt&lt funksiya(n) &lt&lt endl; return 0; }",
+        "answer": "720"
+    },
+    {
+        "question": "Sharti keyin berilgan sikl operatorini ko'rsating.",
+        "answer": "do{}while()"
+    },
+    {
+        "question": "Parametrli sikl operatorini ko'rsating.",
+        "answer": "for()"
+    },
+    {
+        "question": "Sharti oldin berilgan sikl operatorini ko'rsating.",
+        "answer": "while()"
+    },
+    {
+        "question": "Sikl operatorining qaysi turida sikl tanasi kamida bir marotaba majburiy tarzda bajariladi?",
+        "answer": "do{}while()"
+    },
+    {
+        "question": "Sikl operatorining qaysi turida sikl tanasi bajarilmasligi mumkin?",
+        "answer": "while(), for()"
+    },
+    {
+        "question": "for() sikl operatorlarining qaysi turiga mansub?",
+        "answer": "Parametrli"
+    },
+    {
+        "question": "while() sikl operatorlarining qaysi turiga mansub?",
+        "answer": "Sharti oldin berilgan"
+    },
+    {
+        "question": "do{ }while() sikl operatorlarining qaysi turiga mansub?",
+        "answer": "Sharti keyin berilgan"
+    },
+    {
+        "question": "int a=15; while(a&gt0) {--a;} Dastur qismida sikl tanasi necha marta bajariladi?",
+        "answer": "15"
+    },
+    {
+        "question": "Sharti oldin berilgan sikl operatori tuzilishini ko'rsating.",
+        "answer": "while(shart) {sikl tanasi;}"
+    },
+    {
+        "question": "Sharti keyin berilgan sikl operatori tuzilishini ko'rsating.",
+        "answer": "do{sikl tanasi;} while(shart)"
+    },
+    {
+        "question": "int i=1; while(i&gt-1) {cout&lt&lt I &lt&lt endl; i++;} Dastur qismida sikl tanasi necha marta bajariladi?",
+        "answer": "Cheksiz"
+    },
+    {
+        "question": "int a=0; while(a-1&lt5) {a++;} Dastur qismida sikl tanasi necha marta bajariladi?",
+        "answer": "6"
+    },
+    {
+        "question": "Parametrli sikl operatoridan tog'ri foydalanilgan javobni ko'rsating.",
+        "answer": "for (int i=0; i&lt=n; i++)"
+    },
+    {
+        "question": "Quyidagi sikl operatori 10 martta bajarilishi uchun n ning qiymati qanday bo'lishi lozim? for (int i=0; i&ltn; i++) {sikl tanasi;}",
+        "answer": "10"
+    },
+    {
+        "question": "for (int a=0; a&lt50; a+=10) {cout&lt&lta&lt&lt\",\"} Dastur qismida qanday natija chiqariladi?",
+        "answer": "0,10,20,30,40,"
+    },
+    {
+        "question": "int s=-1; for (int a=0; a&lt10; a++) {s+=a;} cout&lt&lt s &lt&ltendl; Dastur qismida qanday natija chiqariladi?",
+        "answer": "44"
+    },
+    {
+        "question": "Rekusiya chuqurligi nima?",
+        "answer": "Funksiya tarkibida o’zini o’zi chaqirishlar soni"
+    },
+    {
+        "question": "Rekursiya chuqurligi…",
+        "answer": "Yetarli darajada kichik bo’lishi shart"
+    },
+    {
+        "question": "Natijaviylik bu-",
+        "answer": "Algoritm masalaning еchimiga chеkli sondagi qadamlar ichida olib kеlishi yoki masalani \"еchib\nbo’lmaydi\" dеgan xabar bilan tugashi kеrak"
+    },
+    {
+        "question": "Dasturlash tillari bir biridan -",
+        "answer": "Alifbosi, sintaksisi va sеmantikasi bilan ajralib turadi."
+    },
+    {
+        "question": "Dasturlash tilining sintaksisi -",
+        "answer": "Jumlalar tuzishda bеlgilarning bog’lanish qoidalarini bеlgilaydi"
+    },
+    {
+        "question": "Dasturlash tilining sеmantikasi -",
+        "answer": "Jumlalarning mazmuniy izohini bеlgilaydi"
+    },
+    {
+        "question": "Ma’lumotlar va o‘zgaruvchilar qiymatini ekranga chiqarish operatorini ko‘rsating?",
+        "answer": "Write (s)"
+    },
+    {
+        "question": "O‘zgaruvchilar qiymatini ekrandan kiritish operatorini ko‘rsating?",
+        "answer": "Read (s)"
+    },
+    {
+        "question": "Algoritm bu:",
+        "answer": "Buyruqlar va amallar ketma-ketligi."
+    },
+    {
+        "question": "Ma`lumot turlari qanday ko‘rinishda bo‘ladi?",
+        "answer": "Oddiy-skalyar va murakkab."
+    },
+    {
+        "question": "Bitta operandga qo’llaniladigan amallar nima deb nomlanadi?",
+        "answer": "Unar."
+    },
+    {
+        "question": "Necha xil shartli operator mavjud?",
+        "answer": "2 xil."
+    },
+    {
+        "question": "Tarmoqlanuvchi jarayonlarni dasturlash uchun qaysi operatorlar ishlatiladi:",
+        "answer": "Shartli va shartsiz o`tish."
+    },
+    {
+        "question": "Dasturni har doim qaysi so‘z bilan boshlash mumkin?",
+        "answer": "Program so‘zi bilan."
+    },
+    {
+        "question": "Dasturlarni bajarish natijasida xatolarni topish va ularni bartaraf etishga yo‘naltirilgan ishlar qanday nomlanadi?",
+        "answer": "Taxrirlash."
+    },
+    {
+        "question": "O`zgarmas sonlar qanday tavsiflanadi?",
+        "answer": "Const."
+    },
+    {
+        "question": "Nuqtalar o’rnini to’ldiring. … bu buyruqlar ketma-ketligini kiritishdir.",
+        "answer": "Dasturlash."
+    },
+    {
+        "question": "Algoritmning xossalari nechta?",
+        "answer": "5"
+    },
+    {
+        "question": "Algoritmni to’liq qurish bosqichlari qaysi bosqichdan boshlanadi?",
+        "answer": "Masalaning qo’yilishidan."
+    },
+    {
+        "question": "Algoritmning qiyinligini tahlil qilishdan maqsad nima?",
+        "answer": "Berilgan masalani yechish uchun optimal algoritmni topishdir."
+    },
+    {
+        "question": "Toifalashgan fayllarni ekranda o’qish….?",
+        "answer": "Mumkin."
+    },
+    {
+        "question": "GRAPH moduli nima uchun ishlatiladi?",
+        "answer": "Grafik parametrlarini yuklash uchun."
+    },
+    {
+        "question": "CRT moduli nima uchun ishlatiladi?",
+        "answer": "Ekran parametrlarini yuklash uchun."
+    },
+    {
+        "question": "Algoritmlarni qiyinlik funktsiyasining ko’rinishi bo’yicha necha sinflarga ajratiladi?",
+        "answer": "3 ta."
+    },
+    {
+        "question": "… - bu berilgan algoritmga asoslangan biror bir algoritmik tilda yozilgan ko‘rsatmalar (buyruqlar, operatorlar) to‘plamidir.",
+        "answer": "Dastur."
+    },
+    {
+        "question": "PutPixel prosedurasi qanday vazifa bajaradi?",
+        "answer": "Ekranda x, y koordinatali nuqtani Color rangida xosil qiladi."
+    },
+    {
+        "question": "Circle prosedurasi qanday vazifa bajaradi?",
+        "answer": "x,y markazga ega r radiusli aylana xosil qilish."
+    },
+    {
+        "question": "Dasturlash necha qadamdan iborat?",
+        "answer": "5"
+    },
+    {
+        "question": "O‘zgarmaslar dastur boshida qaysi so‘z bilan e’lon qilinadi?",
+        "answer": "Const"
+    },
+    {
+        "question": "O‘zgaruvchilarning qanday turlari mavjud?",
+        "answer": "Real, String"
+    },
+    {
+        "question": "Mantiqiy o‘zgaruvchilar qanday qiymat qabul qiladi?",
+        "answer": "Rost yoki yolg‘on"
+    },
+    {
+        "question": "Rekursiya nima?",
+        "answer": "O’z-o’zi orqali aniqlanuvchi ob’ekt hisoblanadi"
+    },
+    {
+        "question": "Rekursiv ob’ektlarga misol sifatida qanday tasvirlarni olish mumkin.",
+        "answer": "Grafik"
+    },
+    {
+        "question": "Rekursiv triadada masalani yechish uchun nechta bosqich mavjud?",
+        "answer": "3 ta"
+    },
+    {
+        "question": "Dekompozitsiya qilish nima ma’noni anglatadi",
+        "answer": "Qismlarga ajratish"
+    },
+    {
+        "question": "Funksiya tarkibida o’zini o’zi chaqirishlar soni nima deb ataladi?",
+        "answer": "Rekusiya chuqurligi"
+    },
+    {
+        "question": "Saralash algoritmlari necha tipga bo’linadi?",
+        "answer": "2"
+    },
+    {
+        "question": "Tezkor saralash algoritmi nechanchi yili taklif etilgan?",
+        "answer": "1964 yil"
+    },
+    {
+        "question": "...- mantiqiy tip. Forma xossasi. Agar qiymati rost bo‘lsa forma shaffof.",
+        "answer": "AlphaBlend"
+    },
+    {
+        "question": "Tezkor saralash algoritmi qaysi metodga asoslanadi.",
+        "answer": "Bo’lib tashla va hukmronlik qil"
+    },
+    {
+        "question": "Memo -…?",
+        "answer": "Ko‘pqatorli matn muharriri. Ko‘pqatorli matnlarni kiritish yoki chiqarishda ishlatiladi"
+    },
+    {
+        "question": "Graf qirralarning bog'langan uchlari nima deb ataladi?",
+        "answer": "To’plam"
+    },
+    {
+        "question": "Prim algoritmi nechanchi yili ishlab chiqilgan.",
+        "answer": "1957 yil"
+    },
+    {
+        "question": "Dastur kodi nima?",
+        "answer": "Dasturlash tilining buyruqlari ko’rinishida keltirilgan algoritm"
+    },
+    {
+        "question": "Rekursiv triada asoslari qaysilar?.",
+        "answer": "Parametrizatsiya qilish,rekursiya bazasi,dekompozitsiya"
+    },
+    {
+        "question": "Tanlash orqali saralashda har qadamda hali ko’rilmagan elementlar orasidan qay biri tanladi",
+        "answer": "Eng kichigini"
+    },
+    {
+        "question": "Algoritmlarni ifodalashning qanday usullari bor?",
+        "answer": "Matn, algoritmik til, blok-sxema, dastur"
+    },
+    {
+        "question": "Massivni e’lon qilish to’g’ri ko’rsatilgan qatorni toping?",
+        "answer": "int a[50] ;"
+    },
+    {
+        "question": "Quyidagi ifodadan qanday qiymat chiqishini aniqlang? int a[]={1,2,3,4,5}; cout&lt&lta[3];",
+        "answer": "4"
+    },
+    {
+        "question": "Massiv bu …",
+        "answer": "Bir toifali chekli qiymatlarning tartiblangan to’plami"
+    },
+    {
+        "question": "Massiv elementlari indeksi nechchidan boshlanadi?",
+        "answer": "0 dan"
+    },
+    {
+        "question": "Massivni initsalizatsiyalash to’g’ri ko’rsatilgan javobni toping?",
+        "answer": "int a[3]={45,12,1}"
+    },
+    {
+        "question": "Quyidagi dastur qanday natija chiqaradi? #include &ltiostream&gt using namespace std; int main() { int a[10]; for (int i=0;i&lt10;i++) { cout&lt&lta[i]&lt&ltendl;} return 0; }",
+        "answer": "Turli xil ko’rinishdagi 10 ta sonni chiqaradi"
+    },
+    {
+        "question": "Massivni kompyuter xotirasida egallagan hajmini qaysi funksiya orqali aniqlasa bo’ladi?",
+        "answer": "sizeof()"
+    },
+    {
+        "question": "Dinamik massivlarda xotirani bo’shatish funksiyasini ko’rsating?",
+        "answer": "delete []massiv_nomi"
+    },
+    {
+        "question": "Bir o’lchamli massiv deb nimaga aytiladi?",
+        "answer": "elementiga bir indeks orqali murojaat qilish mumkin bo’lgan massivga"
+    },
+    {
+        "question": "Quyidagi massivda ekranga nima chiqadi? int t[4]={0}; for(int i=0; i&lt4; i++) cout&lt&ltt[i]",
+        "answer": "4ta nol"
+    },
+    {
+        "question": "Ikki o’lchamli massivlar qanday e’lon qilinadi?",
+        "answer": "toifa massiv_nomi[satrlar soni][ustunlar soni]"
+    },
+    {
+        "question": "Noto’g’ri kiritilgan ikki o’lchovli massivni aniqlang?",
+        "answer": "int a[2][3]={1,2,3,4,5,6,4};"
+    },
+    {
+        "question": "Kvadrat massiv deb qanday massivlarga aytiladi?",
+        "answer": "ustunlar va satrlar soni teng bo’lgan massivga"
+    },
+    {
+        "question": "Quyidagi massivda j indeksi nimani bildiradi? int a[i][j];",
+        "answer": "ustunlar sonini"
+    },
+    {
+        "question": "Quyidagi massivda nechta element qatnashgan int k[3][4];",
+        "answer": "12 ta"
+    },
+    {
+        "question": "Funksiyaga matritsani chaqirish to’g’ri ko’rsatilgan qatorni toping",
+        "answer": "void matrix(int a[10][10], int m, int n)"
+    },
+    {
+        "question": "Massivlarning qanday turlari mavjud?",
+        "answer": "dinamik va static massivlar"
+    },
+    {
+        "question": "Initsalizatsiylash nima?",
+        "answer": "massiv elementlarini oldindan e’lon qilish"
+    },
+    {
+        "question": "Massivni e’lon qilishda massiv indeksi qanday belgi ostida bo’ladi?",
+        "answer": "[…]"
+    },
+    {
+        "question": "Noto’g’ri massivni ko’rsating?",
+        "answer": "int a[2]={1,2,3,4};"
+    },
+    {
+        "question": "Massivlar necha o’lchamli bo’lishi mumkin?",
+        "answer": "istalgan o’lchamda"
+    },
+    {
+        "question": "Massivdan n-o’rinda turgan elementni o’qib olish uchun qanday amal bajariladi?",
+        "answer": "cout&lt&lta[i-1"
+    },
+    {
+        "question": "Massivlarda Indeks sifatida qanday ifodalardan foydalanish mumkin?",
+        "answer": "int"
+    },
+    {
+        "question": "Quyidagi massivni oxirgi elementini toping Int a[7]={1,2,3,4,5,6,7};",
+        "answer": "a[6];"
+    },
+    {
+        "question": "Agar massiv elementiga qaraganda kamroq element berilgan bo’lsa natija qanday chiqadi?",
+        "answer": "berilgan elementlar va qolgan elementlarni 0 lar bilan to’ldiradi"
+    },
+    {
+        "question": "Nomlangan massivda uning o’lchami ko’rsatilmagan bo’lsa….",
+        "answer": "kompilyator massiv chegarasini avtomatik aniqlaydi"
+    },
+    {
+        "question": "Quyidagi dastur natijasini toping int main() { int s=0,k=0; int x[]={-1,2,5,-4,8,9} for(int i=0;i&lt6;i++) { if(x[i]&lt=0) continiue; k++; s+=x[i];} cout&lt&ltk&lt&lt” “; cout&lt&lts;",
+        "answer": "4 24"
+    },
+    {
+        "question": "Massivlarni navlarga ajratishning oddiy usuli nechta kategoriyaga bo’linadi?",
+        "answer": "3"
+    },
+    {
+        "question": "Ikki o’lchovli massiv to’g’ri kiritilgan qatorni toping?",
+        "answer": "int n,m; cin&gt&gtn&gt&gtm;\nint a[n][m];for(int i=0;i&ltn;i++){\nfor(int j=0;j&ltm;j++){\ncout&lt&lta[i][j];}}"
+    },
+    {
+        "question": "Dastur natijasini toping? int arr[]={11,35,62,555,989}; int sum=0; for(int i=0;i&lt5;i++) {sum+=arr[i];} cout&lt&ltsum&lt&ltendl;",
+        "answer": "1652"
+    },
+    {
+        "question": "Ikki satr va uch ustundan iborat massivni elon qiling",
+        "answer": "int a[2][3];"
+    },
+    {
+        "question": "Quyidagi belgili massiv dasturi qanday natijani ko’rsatadi? char satr[20]; int k=0,t=0; cin.getline(satr,sizeof(satr)); int r=strlen(satr); for(int i=0;i&ltr;i++) { if(satr[i]&gt=97&&satr[i]&lt=122) { k++; } } cout&lt&ltk;",
+        "answer": "kiritilgan matndagi kichik lotin harflar sonini"
+    },
+    {
+        "question": "Quyidagi dastur orqali ekranga qanday ma’lumot chiqadi? string h[3]={Bahrom,Ilyos,Sodiq}; for(int i=0;i&lt3;i++) cout&lt&lth[i];",
+        "answer": "dasturda xatolik beradi"
+    },
+    {
+        "question": "C++ tili standarti bo’yicha indekslar soni nechtagacha bo’lishi mumkin?",
+        "answer": "31"
+    },
+    {
+        "question": "C++ tilida simvolli massivlar qanday e’lon qilinadi?",
+        "answer": "char a[10] ;"
+    },
+    {
+        "question": "Noto’g’ri e’lon qilingan massivni toping?",
+        "answer": "inta m[5]"
+    },
+    {
+        "question": "Massiv elementiga nima orqali murojaat qilinadi?",
+        "answer": "indeksi orqali"
+    },
+    {
+        "question": "Quyidagi dastur bizga qanday natija beradi? int a[5]; for (int i=0;i&lt5;i++) { cin&gt&gta[i];} cout&lt&ltsizeof(a)/sizeof(a[0]);",
+        "answer": "elementlar sonini"
+    },
+    {
+        "question": "Ikki o’lchamli dinamik massivni tashkil qilish to’g’ri ko’rsatilgan qatorni toping?",
+        "answer": "int **a;"
+    },
+    {
+        "question": "Quyidagi funksiya qanday vazifani bajaradi? a=new int*[satrlar soni];",
+        "answer": "Satrlar soniga qarab massivga dinamik xotira ajratadi"
+    },
+    {
+        "question": "Dinanmik massivda satrlar xotirada qanday joylashadi?",
+        "answer": "xotiraning turli qismida"
+    },
+    {
+        "question": "Quyidagi dastur qanday natija chiqaradi? int a[]={2,3,4,1}; sort(a,a+4); for(int i=0;i&lt4;i++) cout&lt&lta[i]&lt&lt” “;",
+        "answer": "1,2,3,4"
+    },
+    {
+        "question": "Quyidagi dastur qanday natija chiqaradi? float b[6]; b[0]=1; b[1]=2; b[2]=b[1]-1; cout&lt&ltb[2];",
+        "answer": "1"
+    },
+    {
+        "question": "Quyidagi dastur qanday natija chiqaradi? float b[6]; b[0]=1; b[1]=2; b[2]=b[1]-1; cout&lt&ltb[4];",
+        "answer": "istalgan son chiqishi mumkin"
+    },
+    {
+        "question": "Quyidagi dastur qanday natija chiqaradi? int b[6]={1,2,3,4,5,6}; for (int i=0;i&lt6;i++) {if(b[i]%2==0) cout&lt&ltb[i]&lt&lt” “; }",
+        "answer": "246"
+    },
+    {
+        "question": "Quyidagi dastur qanday natija chiqaradi? int b[6]={1,2,3,4,5,6}; int m=b[0];for (int i=0;i&lt6;i++) { if(b[i]&ltm) m=b[i];} cout&lt&ltm&lt&ltendl;",
+        "answer": "1"
+    },
+    {
+        "question": "Quyidagi dastur qanday natija chiqaradi? int b[6]={1,2,1,4,1,6}; int m=b[0],t=0; for (int i=0;i&lt6;i++) { if(b[i]&ltm){ m=b[i]; t=i} cout&lt&ltt;",
+        "answer": "0"
+    },
+    {
+        "question": "Quyidagi dastur qanday natija chiqaradi? int a[5][3]={2,2,2,3,3,3,2,1,1,4,4,3,1,2,3}; float s=0; for (int i=0;i&lt5;i++) {for(int j=0;j&lt3;j++) {s=s+a[i][j];} } cout&lt&lts;",
+        "answer": "36"
+    },
+    {
+        "question": "Quyidagi dastur qanday natija chiqaradi? int a[3][3]={2,2,2,3,3,3,2,1,1}; for (int i=0;i&lt3;i++) {for(int j=0;j&lt3;j++) { if(i==j) {cout&lt&lta[i][j];} } }",
+        "answer": "Bosh diagonal elementlarini"
+    },
+    {
+        "question": "Massivlarni navlarga ajratish bu-….",
+        "answer": "Berilgan ko’plab obyektlarni biron-bir belgilangan tartibda qaytadan guruhlash"
+    },
+    {
+        "question": "Ushbu ifodada “c” qanday qiymat qaytaradi? a=true; b=true; a=!a; c=a&&b",
+        "answer": "true"
+    },
+    {
+        "question": "A=true, B=false, C=true, D=false bo’lsa, quyidagi mantiqiy ifoda natijasini aniqlang. !((A&&B)||(C&&D))||(A||B)",
+        "answer": "true"
+    },
+    {
+        "question": "A=true, B=false, C=true, D=false bo’lsa, quyidagi mantiqiy ifoda natijasini aniqlang. !((!A&&B)||(C&&D))||(A||B)",
+        "answer": "true"
+    },
+    {
+        "question": "A=true, B=false, C=true, D=false bo’lsa, quyidagi mantiqiy ifoda natijasini aniqlang. ((!A&&B)||(C&&D))||(A&&B)",
+        "answer": "false"
+    },
+    {
+        "question": "A=false, B=false, C=true, D=false bo’lsa, quyidagi mantiqiy ifoda natijasini aniqlang. !((!A&&B)||(C&&D))||(A||B)",
+        "answer": "true"
+    },
+    {
+        "question": "Tanlash operatori nima deb nomlanadi?",
+        "answer": "switch"
+    },
+    {
+        "question": "Tanlash operatorini birorta ham qiymatiga to’gri kelmagan holda qaysi operator qo’yiladi?",
+        "answer": "default"
+    },
+    {
+        "question": "Shart operatori nima deb nomalanadi?",
+        "answer": "if"
+    },
+    {
+        "question": "continue funksiyasini qaysi operatorlarga qo’llash mumkin?",
+        "answer": "Har qanday sikl operatoriga,"
+    },
+    {
+        "question": "Eng soda doimiy takrorlanuvchi sikl operatori qanday yoziladi?",
+        "answer": "for( ; ; ),"
+    },
+    {
+        "question": "Qaysi sikl operatorida avval shart bajarilib keyin tekshiriladi?",
+        "answer": "do while"
+    },
+    {
+        "question": "Qaysi sikl operatoridan shart yolg’on bo’lsa ham hech bo’lmaganda 1 marta foydalaniladi?",
+        "answer": "do while"
+    },
+    {
+        "question": "Ko’rsatkichlar nima uchun ishlatiladi?",
+        "answer": "o’zining qiymati sifatida xotira\nadresini saqlovchi,"
+    },
+    {
+        "question": "Funksiya deb nimaga aytiladi?",
+        "answer": "Dasturning istalgan qismidan murojat qilib,\nbirnecha bor ishlatish mumkin bo’lgan operatorlar guruhi,"
+    },
+    {
+        "question": "Asosiy programmadan hech qanday parameter qabul qilib olmaydigan funksiyalar nima deb aytiladi?",
+        "answer": "parametrsiz funksiya."
+    },
+    {
+        "question": "Global o’zgaruvchilar deb nimaga aytiladi?",
+        "answer": "ham asosiy programmada, ham funksiyada\nishlatish mumkin bo’lgan o’zgaruvchi."
+    },
+    {
+        "question": "Lokal o’zgaruvchilar deb nimaga aytiladi?",
+        "answer": "faqat funksiyada ishlatilishi\nmumkin bo’lgan o’zgaruvchilar."
+    },
+    {
+        "question": "Qiymatlar parametri deb nimaga aytiladi?",
+        "answer": "asosiy dasturdan funksiyaga uzatiladigan o’zgaruvchilar\nqiymatini qabul qilib oluvchi parametrlar"
+    },
+    {
+        "question": "Qaysi toifa faqat butun sonlarni o’z ichiga oladi?",
+        "answer": "int"
+    },
+    {
+        "question": "Toifalarni qanday kalit so’zlari bilan modifikatsiyalash mumkin",
+        "answer": "signed (ishorali),\nunsigned (ishorasiz)."
+    },
+    {
+        "question": "Ishorasiz toifalar nima uchun ishlatiladi?",
+        "answer": "barcha bitlar qiymatlarni\nsaqlash uchun"
+    },
+    {
+        "question": "Ishorasiz sonlar uchun qiymatlar qabul qilish oralig’I to’g’ri ko’rsatilgan qatorni belgilang.",
+        "answer": "(0...2n-1),"
+    },
+    {
+        "question": "Ishorali sonlar uchun qiymatlar qabul qilish oralig’i to’g’ri ko’rsatilgan qatorni belgilang.",
+        "answer": "(-2n-1… 2n-1-1) ."
+    },
+    {
+        "question": ". == != &lt &lt= &gt &gt= operatorlar bilan binar amallarni bajarish qaysi toifaga kiradi?",
+        "answer": "bool"
+    },
+    {
+        "question": "C++ da and mantiqiy amalining yana bir yozilish shakli qanday?",
+        "answer": "&&"
+    },
+    {
+        "question": "C++ da or mantiqiy amalining yana bir yozilish shakli qanday?",
+        "answer": "||"
+    },
+    {
+        "question": "C++ da not mantiqiy amalining yana bir yozilish shakli qanday?",
+        "answer": "!"
+    },
+    {
+        "question": "C++ da inkor-yoki mantiqiy amalining yana bir yozilish shakli qanday?",
+        "answer": "xor"
+    },
+    {
+        "question": "C++tilida belgili toifalarning qiymatlari qanday belgi orqali belgilanadi?",
+        "answer": "qo’shtirnoq ichida beriladi."
+    },
+    {
+        "question": "Bir yoki bir necha belgilar birlashmasi nima deb ataladi?",
+        "answer": "satr"
+    },
+    {
+        "question": "Ko’rsatkichlar hotirada qancha joy egallaydi?",
+        "answer": "4 bayt"
+    },
+    {
+        "question": "Bir toifaga mansub elementlar to’plami nima deb nomlanadi?",
+        "answer": "massiv"
+    },
+    {
+        "question": "Massivni necha xil ko’rinishi mavjud?",
+        "answer": "2 xil"
+    },
+    {
+        "question": "Ikki o’lchovli massiv nima deb nomlanadi?",
+        "answer": "matritsa"
+    },
+    {
+        "question": "Ikki o’lchovli massivda indekslar soni nechta bo’ladi?",
+        "answer": "2 ta"
+    },
+    {
+        "question": "Matritsa elementlari indekisi doimo qaysi raqamdan boshlanadi?",
+        "answer": "0"
+    },
+    {
+        "question": "Jumlani to’ldiring. Agar massiv toifasi char bo’lsa, u holda massiv … hisoblanadi.",
+        "answer": "satr"
+    },
+    {
+        "question": "C++ da satr uzunligini aniqlash uchun qaysi buyrug’dan foydalanamiz?",
+        "answer": "strlen(),"
+    },
+    {
+        "question": "Qaysi klassi o’zgaruvchan uzunlikdagi massiv yaratishga yordam beradi?",
+        "answer": "vector"
+    },
+    {
+        "question": "Massivni e’lon qilish to’g’ri ko’rsatilgan qatorni toping?",
+        "answer": "int a[50] :"
+    },
+    {
+        "question": "Massivni initsalizatsiyalash to’g’ri ko’rsatilgan javobni toping?",
+        "answer": "int a[3]={45,12,1}."
+    },
+    {
+        "question": "Noto’g’ri kiritilgan ikki o’lchovli massivni aniqlang?",
+        "answer": "int a[2][3]={1,2,3,4,5,6,4}."
+    },
+    {
+        "question": "Quyidagi massivda j indeksi nimani bildiradi? int a[i][j];",
+        "answer": "ustunlar sonini."
+    },
+    {
+        "question": "Quyidagi massivda nechta element qatnashgan int k[3][4];",
+        "answer": "12 ta"
+    },
+    {
+        "question": "Quyidagi massivni oxirgi elementini toping Int a[7]={1,2,3,4,5,6,7};",
+        "answer": "a[6]:"
+    },
+    {
+        "question": "Ikki satr va uch ustundan iborat massivni elon qiling",
+        "answer": "int a[2][3]:"
+    },
+    {
+        "question": "Dasturning natijasi qanday boladi? #include &ltiostream&gt using namespace std; int main() { int a,b; float c; a=3; b=2; c=a/b; switch (c) { case 1 : cout &lt&lt \"C++\"; break; case 1.5: cout &lt&lt \"Dastur\"; break; case 2 : cout &lt&lt \"Tugadi\"; break; case 2.5: cout &lt&lt \"Salom\"; break; } return 0; }",
+        "answer": "dastur xato"
+    },
+    {
+        "question": "Dastur natijasi qanday boladi? #include &ltiostream&gt using namespace std; int main() { int a,b,c; a=2; b=0; c=0; bool e= a&gt=b && c&lt=b; cout &lt&lt a+e &lt&lt endl;return 0; }",
+        "answer": "3"
+    },
+    {
+        "question": "Fayllar bilan ishlash oqimlariga qaysilar kiradi?",
+        "answer": "ifstream, ofstream, fstream."
+    },
+    {
+        "question": "| -bu belgi qanday mantiqiy amal?",
+        "answer": "mantiqiy yoki(qo’shish)."
+    },
+    {
+        "question": "Massiv qanday elon qilinadi?",
+        "answer": "int a [n]; flout a[n];double a[n]."
+    },
+    {
+        "question": "Belgili tipni qabul qiluvchi o’zgaruvchilarni e’lon qilish uchun qaysi xizmatchi so’zidan foydalanish mumkin?",
+        "answer": "char"
+    },
+    {
+        "question": "A=1 B=1 A&B ni qiymatini toping.",
+        "answer": "1"
+    },
+    {
+        "question": "Faqat bir qatorni izohga aylantirish uchun qo’llaniladigan belgilar.",
+        "answer": "//"
+    },
+    {
+        "question": "Ekranga qanday natija chiqadi? int main() {int a; cin&gt&gta; cout&lt&ltsizeof(a); return 0; } (a=16)",
+        "answer": "4"
+    },
+    {
+        "question": "Parametrli sikl operatorini ko'rsating.",
+        "answer": "for()"
+    },
+    {
+        "question": "Sharti keyin berilgan sikl operatorini ko'rsating.",
+        "answer": "do{}while()."
+    },
+    {
+        "question": "Sikl operatorining qaysi turida sikl tanasi kamida bir marotaba majburiy tarzda bajariladi?",
+        "answer": "do{}while()."
+    },
+    {
+        "question": "Ma’lumotlar tarkibi to’liq yoritilgan?",
+        "answer": "ma'lumotlar bilan ishlashni, shu jumladan\nularni saqlash, qo'shish va o'chirish, o'zgartirish, qidirish va\nboshqalarni tashkil etuvchi ijrochi,"
+    },
+    {
+        "question": "Daraxt bu …. .Jumlani davom ettiting:",
+        "answer": "tugun deb ataladigan bir yoki bir nechta elementlardan\ntashkil topgan cheksiz to'plamdir"
+    },
+    {
+        "question": "Char tipidagi o’zgaruvchiga necha bayt kerak bo’ladi?",
+        "answer": "1"
+    },
+    {
+        "question": "char qiymatini butun songa o'tkazish o'rniga nimani talqin qilamiz?",
+        "answer": "ASCII belgisi sifatida talqin qilinadi."
+    },
+    {
+        "question": "O'zining qiymati sifatida xotira manziliini ko'rsatuvchi (saqlovchi) o'zgaruvchilarga nimalar deyiladi?",
+        "answer": "Ko’rsatkich o’zgaruvchilari"
+    },
+    {
+        "question": "sizeof(n) bu funksiyani vazifasi nima?",
+        "answer": "n xotiradan qancha joy egallaganligini ko’rsatadi?"
+    },
+    {
+        "question": "Adrеsni оlish amali qaysi?",
+        "answer": "&"
+    },
+    {
+        "question": ".for(int i=1;i&lt=10;i++) { cout&lt&lti&lt&lt” ”; } Dastur natijasi qanday?",
+        "answer": "1 dan 10 gacha sonlar chiqadi."
+    },
+    {
+        "question": "Massivni e’lon qilish to’g’ri ko’rsatilgan qatorni toping?",
+        "answer": "int a[50]"
+    },
+    {
+        "question": ". Quyidagi ifodadan qanday qiymat chiqishini aniqlang? int a[]={1,2,3,4,5}; cout&lt&lta[3];",
+        "answer": "4"
+    },
+    {
+        "question": "Massiv bu …",
+        "answer": "Bir toifali chekli qiymatlarning tartiblangan to’plami."
+    },
+    {
+        "question": "Bir xil hisoblash jarayonini bir necha bor takrorlanishi nima deyiladi?",
+        "answer": "sikl"
+    },
+    {
+        "question": "Massiv elementlari indeksi nechchidan boshlanadi?",
+        "answer": "0"
+    },
+    {
+        "question": "Parametrli sikl operatorini ko'rsating.",
+        "answer": "for(){},"
+    },
+    {
+        "question": "int a=15; while(a&gt0){--a;} Dastur qismida sikl tanasi necha marta bajariladi?",
+        "answer": "15"
+    },
+    {
+        "question": "Sharti oldin berilgan sikl operatori tuzilishini ko'rsating.",
+        "answer": "while(shart) {sikl tanasi;}."
+    },
+    {
+        "question": "Sharti keyin berilgan sikl operatori tuzilishini ko'rsating.",
+        "answer": "do{sikl tanasi} while(shart);"
+    },
+    {
+        "question": "Noto`g`ri yozilgan ketma-ketlikni ko`rsating",
+        "answer": "if x&gt5 THEN x&lt10;"
+    },
+    {
+        "question": "Quyidagi berilganlardan qaysi biri noto`g`ri yozilgan?",
+        "answer": "print y"
+    },
+    {
+        "question": "Asimptotik tahlil maqsadi nima?",
+        "answer": "masalani yechish uchun mo’ljallangan turli algoritmlar uchun tizim resurslarining sarflanishini\ntaqqoslashdir"
+    },
+    {
+        "question": "Rekusiyaga doir misollar keltirilgan qatorni toping?",
+        "answer": "Daraxt chizish masalasi, Xanoy minoralari masalasi, Tez saralash, Grafdagi masalalar, Arifmetik\nifodalarni hisoblash masalasi"
+    },
+    {
+        "question": "CheckBox -…?",
+        "answer": "bog‘liq bo‘lmagan tanlash tugmasi. Dasturda bu komponent asosiy mantiqiy xossasi o‘zgartiradi."
+    },
+    {
+        "question": "Button -…?",
+        "answer": "buyruq tugmasi. Bu komponent dasturchi tomonidan berilgan bir necha buyruqlarni bajarishda ishlatiladi"
+    },
+    {
+        "question": "Fayl deb nimaga aytiladi?",
+        "answer": "xotiraning nomlangan sohasiga"
+    },
+    {
+        "question": ".... - bosqichlarning qaysi birlarini mutaxassis kompyutеrdan foydalanmasdan va qaysi bosqichlarini kompyutеrdan foydalanib bajarishini aniqlash xamda bosqichlarni to’la o’rganib chiqishdan iborat",
+        "answer": "Maqsad"
+    },
+    {
+        "question": "Ilmiy - tеxnik masalalarni (ITM) kompyutеrdan foydalanib еchish bosqichlari nechta?",
+        "answer": "10 ta"
+    },
+    {
+        "question": "Qo’yilgan maqsadni amalga oshirish uchun kеrakli ma'lumotlar tarkibi (strukturasi), tuzilishi, ifodalanishi aniqlangan bo’lib, ular orasidagi bog’lanishlar aniq ifodalangan bo’lsa, nima dеb aytiladi?",
+        "answer": "Masala qo’yilgan"
+    },
+    {
+        "question": "Masalani yеchish uchun kеrakli va yеtarli bo’lgan dastlabki ma'lumotlarning tarkibi, tavsifi, turi, tuzilishi xisobga olingan xolda мatеmatik tеrminlarda ifodalanadi hamda мasalani yеchishning nimasi yaratiladi ?",
+        "answer": "Matematik modeli"
+    },
+    {
+        "question": "Masalani yеchish uslubi ishlab чiqilgan bo’lsa nima deb ataladi?",
+        "answer": "Masalani yеchish uslubi ishlab chiqilgan"
+    },
+    {
+        "question": "Nimani yaratishda oraliq ма'lumotlarni iloji boricha kamaytirish, tashqi qurilmalar bilan bo’ladigan aloqalarni minimumga kеltirish kеrak?",
+        "answer": "Masalaning algoritmini"
+    },
+    {
+        "question": "Qaysi bosqichlar bir-biri bilan jips, mustahkam bog’langan",
+        "answer": "3 va 4"
+    },
+    {
+        "question": "Algoritmlashda nimadan foydalanish algoritmni o’qishda va dasturlashda qulayliklar yaratadi?",
+        "answer": "modullik prinsipidan"
+    },
+    {
+        "question": "....-masalani kompyutеrdan foydalanib еchish algoritmini yaratish jarayonidir.",
+        "answer": "Masalani algoritmlash"
+    },
+    {
+        "question": "Masalani ishchi xolatga kеltirilgan yеchish algoritmini tanlangan algoritmik til vositasida ifodalash nima deb ataladi?",
+        "answer": "Dasturlash"
+    },
+    {
+        "question": "Dastur qanday bo’lishi kеrak, ya'ni ma'lumotlarni aniq biror turiga bog’liq bo’lmasligi kеrak",
+        "answer": "Umumiy"
+    },
+    {
+        "question": "Nima boshi va nima oxiri aloxida qatorda turgani ma'qul?",
+        "answer": "Takrorlanish"
+    },
+    {
+        "question": "Kompyutеr uchun qanday vositalar bo’lib: pеrfokarta, pеrfolеnta, magnitli tasma, magnitli disk, fleshkalar xizmat qilishi mumkin?",
+        "answer": "Axborot tashuvchi"
+    },
+    {
+        "question": "Qaysi bosqich “dasturni tеst bo’yicha tеkshirish” dеb xam yuritiladi?",
+        "answer": "Dasturning xatosini tuzatish"
+    },
+    {
+        "question": "..... - maxsus tayyorlangan dastlabki malumotlar bo’lib, ular ustida amallar bajarish bilan masalaning еchimi-natija olinadi",
+        "answer": "Test"
+    },
+    {
+        "question": "Berilgan masalalardan qaysi birida yechimni olish uchun umumiy algoritm mavjud emas?",
+        "answer": "Tyuring mashinasi"
+    },
+    {
+        "question": "Berilgan masalalardan qaysi biri NP-to’liq masalalar turkumiga kiradi?",
+        "answer": "Tyuring mashinasi"
+    },
+    {
+        "question": "Algoritmni to’liq qurishning qaysi bosqichida qanday matematik strukturadan foydalanish hal etiladi?",
+        "answer": "Modelni qurish"
+    },
+    {
+        "question": "Algoritmlar maxsus geometrik figuralar yordamida tasvirlanishi nima deyiladi?",
+        "answer": "Blok sxema"
+    },
+    {
+        "question": "Algoritmda kiruvchi ma’lumotlarning bajariladigan amallar soniga ma’lum bir qonuniyatlar asosida mos qo’yilishi nima deyiladi?",
+        "answer": "Algoritmning asimptotik baholash"
+    },
+    {
+        "question": "Quyidagi algoritmik baholashlarning qaysi biri eng kam vaqtda bajariladi?",
+        "answer": "O(N)"
+    },
+    {
+        "question": "Quyidagi algoritmik baholashlarning qaysi biri eng ko’p vaqtda bajariladi?",
+        "answer": "O(N^3)"
+    },
+    {
+        "question": "Algoritm O(N) murakkablik bilan bajarilishida 1024 s vaqt sarflasa, shu algoritm O(NlogN) murakkablik bilan qancha vaqt sarflaydi?",
+        "answer": "10240"
+    },
+    {
+        "question": "Algoritm O(N) murakkablik bilan bajarilishida 256 s vaqt sarflasa, shu algoritm O(NlogN) murakkablik bilan qancha vaqt sarflaydi?",
+        "answer": "2048"
+    },
+    {
+        "question": "O`z-o`zini chaqiruvchi funksiyalardan foydalanib dasturlash… deyiladi",
+        "answer": "Rekursiya"
+    },
+    {
+        "question": "Quyida funksiya x=4 uchun qanday qiymat qaytaradi? Int ran(x){ if x == 1: return 1 else: return x * ran(x-1)}",
+        "answer": "24"
+    },
+    {
+        "question": "“Algoritm” so’zi qaysi so’zdan olingan?",
+        "answer": "Al-Xorazmiy"
+    },
+    {
+        "question": "Top xususiyatining vazifasi nima?",
+        "answer": "komponentlarning yuqori chegarasidan formaning yuqori chegarasigacha bo’lgan masofa"
+    },
+    {
+        "question": "Hegiht xususiyatining vazifasi nima?",
+        "answer": "Kompanentning balandligi"
+    },
+    {
+        "question": "Widht xususiyatining vazifasi nima?",
+        "answer": "komponentning kengligi"
+    },
+    {
+        "question": "Font xususiyatining vazifasi nima?",
+        "answer": "Jadval kataklaridagi matnlarng shrifi"
+    },
+    {
+        "question": "Massiv elementini taqqoslash qaysi buyruq yordami amalga oshiriladi",
+        "answer": "repeat"
+    },
+    {
+        "question": "Name xususiyatining aniqlanishi qanday?",
+        "answer": "komponent nomi. Komponent xususiyatiga murojat qilishda qo’llaniladi"
+    },
+    {
+        "question": "Massivni tartiblanishi deganda-",
+        "answer": "ma’lum bir qoidaga asosan massiv elementlarining joyini o’zgartirish tushuniladi"
+    },
+    {
+        "question": "Array nima?",
+        "answer": "Delphida massiv e’lon qilinayotganini bildiruvchi kalit so’z"
+    },
+    {
+        "question": "Bosh_chegara va oxirgi_chegara nima?",
+        "answer": "massiv elementlarining o’zgarish oralig’ini belgilovchi butun tipli konstantlar"
+    },
+    {
+        "question": "Font xususiyatining aniqlanishi qanday?",
+        "answer": "izox matnining shrifi"
+    },
+    {
+        "question": "Standart matematik funksiyalarini belgilang",
+        "answer": "sinx, cosx, Lnx, arctgx"
+    },
+    {
+        "question": "nostandart matematik funksiyani belgilang",
+        "answer": "arcsinx, arccosx,"
+    },
+    {
+        "question": "O’zgaruvchilar qiymatini ekrandan kiritish operatorini ko’rsating",
+        "answer": "Read(s);"
+    },
+    {
+        "question": "Ma’lumotlar va o’zgaruvchilar qiymatini ekranga chiqarish operatorini ko’rsating",
+        "answer": "Write(s);"
+    },
+    {
+        "question": "Biblioteka modullarini tashkil etishda qanday so’zlarga murojaat qilinadi? 1. UNIT 2.INTERFACE 3.IMPLEMENTATION 4.BEGIN 5. END 6. OR",
+        "answer": "1,2,3,4,5"
+    },
+    {
+        "question": "O’ziga–o’zi murojaat qiladigan algoritmlar qanday nomlanadi",
+        "answer": "rekkurent algoritmlar deb ataladi"
+    },
+    {
+        "question": "Iqtisodiy tahlilda chiziqli dasturlash qanday qo'llaniladi?",
+        "answer": "ishlab chiqarishda qo'llaniladigan resurslarga nisbatan qo'llaniladigan aniq shartlar ostida eng to'g'ri\niqtisodiy echimlarni asoslash imkonini beradi."
+    },
+    {
+        "question": "Chiziqli dasturlash qachon qo'llaniladi?",
+        "answer": "muayyan shartlar mavjud bo'lganda o'zgaruvchilarni tahlil qilishda"
+    },
+    {
+        "question": "Ikki tomonlama masala - bu",
+        "answer": "To'g'ridan-to'g'ri dastlabki masalaning shartlaridan ma'lum qoidalardan foydalangan holda tuzilgan\nyordamchi chiziqli dasturlash masalasi"
+    },
+    {
+        "question": "Inisializasiya seksiyasi modulning …… seksiyasi hisoblanadi",
+        "answer": "oxirgi"
+    },
+    {
+        "question": "Kompyutеrda turli xil chizmalar va tasvirlar xosil qiluvchi funktsiyalarni olgan modul qanday nomlanadi?",
+        "answer": "Graph"
+    },
+    {
+        "question": "Graph modulida ekranda tasvirlarni xosil qilish uchun qanday rеjimga o`tish zarur kerak?",
+        "answer": "Grafik"
+    },
+    {
+        "question": "Grafik rejimning matn rejimidan farqi nimada?",
+        "answer": "Grafik rejimda ekran rang-barang nuqtalar – piksellar to`plamidan tashkil topgan to`rtburchakdan iborat\nbo`ladi."
+    },
+    {
+        "question": "Grafik rejimda ekranning holatini nima belgilaydi?",
+        "answer": "Adapterlar"
+    },
+    {
+        "question": "Ekranga mumkin qadar ko`p nuqtalar joylashtira olish va rang-baranglikni oshirish imkoniyati qaysi rejimda mavjud?",
+        "answer": "Grafik"
+    },
+    {
+        "question": "Ekranni grafik holatga o`tkazish uchun qaysi funksiyadan foydalaniladi?",
+        "answer": "Initgraph (gd, gm, path)"
+    },
+    {
+        "question": "Initgraph (gd, gm, path) funksiyasi nima uchun ishlatiladi?",
+        "answer": "Ekranni matn holatidan grafik holatga o’tkazish uchun"
+    },
+    {
+        "question": "Initgraph (gd, gm, path) funksiyasida gd nimani bildiradi?",
+        "answer": "drayvеr nomеri"
+    },
+    {
+        "question": "Nuqtalar o’rnini to’ldiring. Initgraph (gd, gm, path) funksiyasida path o’rnida “ belgisi turgan bo’lsa…",
+        "answer": "drayvеr joriy katalogdan axtariladi"
+    },
+    {
+        "question": "Grafik rеjimdan chiqish uchun qaysi funksiyadan foydalaniladi?",
+        "answer": "Closegraph"
+    },
+    {
+        "question": "Ekranda x,y koordinatali nuqtani Color rangida xosil qiluvchi funksiya qaysi?",
+        "answer": "Putpixel (x,y, Color)"
+    },
+    {
+        "question": "Ekrandagi x,y koordinatali nuqtaning rangini aniqlaydigan funksiya qaysi?",
+        "answer": "Getpixel (x,y)"
+    },
+    {
+        "question": "Line (x1,y1,x2,y2) funksiya qanday vazifa bajaradi?",
+        "answer": "x1,y1 nuqtadan x2,y2 nuqtagacha kеsma xosil qiladi"
+    },
+    {
+        "question": "x,y markazga ega r radiusli aylana xosil qilish uchun qaysi funksiya ishlatiladi?",
+        "answer": "Circle(x,y,r)"
+    },
+    {
+        "question": "Ko`pburchak xosil qilish uchun qaysi funksiya ishlatiladi?",
+        "answer": "Drawpoly"
+    },
+    {
+        "question": "Ekranning chap yuqori nuqtasi (X1,Y1), o’ng pastki nuqtasi (X2,Y2) koordinatadagi to’g’ri to’rtburchakli sohasini saqlash uchun kеrak bo’lgan xotiraning o’lchamini baytlarda olish vazifasini bajaruvchi protsedura qaysi?",
+        "answer": "ImageSize(Xl,Yl,X2,Y2)"
+    },
+    {
+        "question": "GetImage (Xl ,Y1 ,X2,Y2,Area) protsedurasi qanday vazifa bajaradi?",
+        "answer": "Xotiraning bеrilgan Area maydonida to’g’ri to’rtburchakli tasvirni saqlaydi"
+    },
+    {
+        "question": "PutImage (X,Y,Area,mode) protsedurasida mode nimani bildiradi?",
+        "answer": "tasvirni ekranga chiqarish rеjimi"
+    },
+    {
+        "question": "GetImage (Xl ,Y1 ,X2,Y2,Area) protsedurasida Area qanday o’zgaruvchi?",
+        "answer": "tasvir saqlanadigan joyning adrеsini saqlaydigan o’zgaruvchi"
+    },
+    {
+        "question": "Grafik oynani tozalash protsedurasi qaysi?",
+        "answer": "ClearViewPort"
+    },
+    {
+        "question": "Tasvir etilayotgan vidеoxotiraning aktiv qismini o’rnatish protsedurasi qaysi?",
+        "answer": "SetVisvalPage"
+    },
+    {
+        "question": "SetViewPort protsedurasi qanday vazifani bajaradi?",
+        "answer": "oynaning o’lchamini o’rnatish"
+    },
+    {
+        "question": "SetActivePage protsedurasi qanday vazifa bajaradi?",
+        "answer": "vidеoxotiraning aktiv qismini o’rnatish"
+    },
+    {
+        "question": "ClearDevice protsedurasi qanday vazifa bajaradi?",
+        "answer": "grafik ekranni tozalash"
+    },
+    {
+        "question": "Nuqtalar o’rnini to’ldiring. … bu buyruqlar ketma-ketligini kiritishdir.",
+        "answer": "dasturlash"
+    },
+    {
+        "question": "Qo’yilgan masalani dasturlash mumkinligini tekshirish …",
+        "answer": "bosqichida, masalaning qo’yilishi sinchkоvlik bilan tekshiriladi va natija оlish uchun ma’lum bir fоrmaga\nkeltiriladi, har qanday holatda ham dasturnining ishlashi rejalashtiriladi."
+    },
+    {
+        "question": "Agar vektor null bo'lsa ... deyiladi",
+        "answer": "vektorning boshlanishi va oxiri mos keladi"
+    },
+    {
+        "question": "Geometrik masalalarni yechishning algoritmlarini o'rganadigan diskret matematika bo’limi qanday nomlanadi?",
+        "answer": "Hisoblash geometriyasi"
+    },
+    {
+        "question": "Rekursiyada yechimni olish vaqtida o’z-o’ziga murojaatni talab etmaydigan holatlar nima deb atatladi?",
+        "answer": "Rekursiya bazisi"
+    },
+    {
+        "question": "Masalaning qo’yilishi 2) algoritmni ishlab chiqish 3) parametrlarni aniqlash 4) rekursiya bazisini aniqlash 5) dekompozitsiya 5) dasturlash",
+        "answer": "3,4,5"
+    },
+    {
+        "question": "Masalani rekursiya usuli bilan yechishda samarali bo’lishi uchun asosiy talab nima?",
+        "answer": "Rekursiya chuqurligi yetarlicha kichik bo’lishi"
+    },
+    {
+        "question": "Katta chuqurlikdagi rekursiyadan foydalanish dasturda qanday oqibatlarga olib keladi?",
+        "answer": "Uzoq vaqt ishlaydi va stek to’lib ketadi"
+    },
+    {
+        "question": "Rekursiv algoritmlarni qo’llaganda samarali bo’ladigan masalani aniqlang",
+        "answer": "Xanoy minorasi masalasi"
+    },
+    {
+        "question": "Agar ikki qo’shni element noto’g’ri tartibda joylashib qolgan bo’lsa, ularning o’rnini almashtirish qaysi algoritm?",
+        "answer": "Pufakcha usulida saralash"
+    },
+    {
+        "question": "“Algoritm” so’zi qaysi so’zdan olingan?",
+        "answer": "Al-Xorazmiy"
+    },
+    {
+        "question": "“Algoritm” so’ziga ta’rif bering?",
+        "answer": "qo’yilgan masalani yechilishiga olib keluvchi aniq harakatlarning chekli ketma-ketligi"
+    },
+    {
+        "question": "Algoritmda o’xshash masalalar turkumini yechish algoritmning qaysi xossasini ifodalaydi?",
+        "answer": "Ommaviylik"
+    },
+    {
+        "question": "Berilgan masalalardan qaysi birida yechimni olish uchun umumiy algoritm mavjud emas?",
+        "answer": "Tyuring mashinasi"
+    },
+    {
+        "question": "Algoritmni to’liq qurishning qaysi bosqichida nima beriladi? Nimani topish kerak? Yechim qanday aniqlanadi? Savollariga javob berish kerak?",
+        "answer": "Algoritmni to’liq qurishning qaysi bosqichida nima beriladi? Nimani topish kerak? Yechim\nqanday aniqlanadi? Savollariga javob berish kerak?"
+    },
+    {
+        "question": "Berilgan masalalardan qaysi biri NP-to’liq masalalar turkumiga kiradi?",
+        "answer": "Tyuring mashinasi"
+    },
+    {
+        "question": "Algoritmni to’liq qurishning qaysi bosqichida qanday matematik strukturadan foydalanish hal etiladi?",
+        "answer": "Modelni qurish"
+    },
+    {
+        "question": "Algoritmlar maxsus geometrik figuralar yordamida tasvirlanishi nima deyiladi?",
+        "answer": "Blok sxema"
+    },
+    {
+        "question": "Algoritmda kiruvchi ma’lumotlarning bajariladigan amallar soniga ma’lum bir qonuniyatlar asosida mos qo’yilishi nima deyiladi?",
+        "answer": "Algoritmning asimptotik baholash"
+    },
+    {
+        "question": "Algoritmning baholashni asosiy kriteriyalarini ayting?",
+        "answer": "2 ta: vaqt va hajm"
+    },
+    {
+        "question": "Quyidagi algoritmik baholashlarning qaysi biri eng kam vaqtda bajariladi?",
+        "answer": "O(N)"
+    },
+    {
+        "question": "Quyidagi algoritmik baholashlarning qaysi biri eng ko’p vaqtda bajariladi?",
+        "answer": "O(N^3)"
+    },
+    {
+        "question": "Quyidagi algoritmik baholashlarning qaysi biri eng kam vaqtda bajariladi?",
+        "answer": "O(NlogN)"
+    },
+    {
+        "question": "Quyidagi algoritmik baholashlarning qaysi biri eng ko’p vaqtda bajariladi?",
+        "answer": "O(2^N)"
+    },
+    {
+        "question": "Algoritm O(N) murakkablik bilan bajarilishida 1024 s vaqt sarflasa, shu algoritm O(NlogN) murakkablik bilan qancha vaqt sarflaydi?",
+        "answer": "10240"
+    },
+    {
+        "question": "Algoritm O(N) murakkablik bilan bajarilishida 256 s vaqt sarflasa, shu algoritm O(NlogN) murakkablik bilan qancha vaqt sarflaydi?",
+        "answer": "2048"
+    },
+    {
+        "question": "Algoritm O(NlogN) murakkablik bilan bajarilishida 160 s vaqt sarflasa, shu algoritm O(N^2) murakkablik bilan qancha vaqt sarflaydi?",
+        "answer": "1024"
+    },
+    {
+        "question": "Algoritm O(NlogN) murakkablik bilan bajarilishida 64 s vaqt sarflasa, shu algoritm O(N^2) murakkablik bilan qancha vaqt sarflaydi?",
+        "answer": "256"
+    },
+    {
+        "question": "O`z-o`zini chaqiruvchi funksiyalardan foydalanib dasturlash… deyiladi",
+        "answer": "Rekursiya"
+    },
+    {
+        "question": "Rekursiya bu –",
+        "answer": "O`z-o`zini chaqiruvchi funksiyalardan foydalanib dasturlash"
+    },
+    {
+        "question": "Quyida funksiya x=4 uchun qanday qiymat qaytaradi? Int ran(x){ if x == 1: return 1 else: return x * ran(x-1)}",
+        "answer": "24"
+    },
+    {
+        "question": "Quyida funksiya x=5 uchun qanday qiymat qaytaradi? Int ran(x){ if x == 1: return 1 else: return x * ran(x-1)}",
+        "answer": "120"
+    },
+    {
+        "question": "Boshqa har qanday uchdan har qanday uchga kirish imkoni mavjud bo'lganda, bunday graf qanday graf deb nomlanadi?",
+        "answer": "Yo'naltirilmagan"
+    },
+    {
+        "question": "Quyidagi ifodalarning qaysi biri 5 qiymatli natija beradi?",
+        "answer": "37 % 8"
+    },
+    {
+        "question": "Har bir qadamda mahalliy maqbul yechim tanlanadi va oxirida biz global miqyosda eng maqbul yechimni olamiz. bu g’oya qaysi algoritmning asosiy g’oyasi hisoblanadi.",
+        "answer": "Xasislik algoritmlari"
+    },
+    {
+        "question": "Masalani rekursiya usuli bilan yechishda samarali bo’lishi uchun asosiy talab nima?",
+        "answer": "Rekursiya chuqurligi yetarlicha kichik bo’lishi"
+    },
+    {
+        "question": "Quyidagi dasturda int n=5 bo’lsa, for(int i=1;i<=n;i++) P*=i;ifodasida i ning oxirgi qiymatini toping",
+        "answer": "120"
+    },
+    {
+        "question": "Quyidagi dasturda n=159 bo’lsa, int a=n%10+n/10%10+n/100; ifodasida a ning qiymatini toping",
+        "answer": "15"
+    },
+    {
+        "question": "57%9 ning qiymati___ ga teng.",
+        "answer": "3"
+    },
+    {
+        "question": "Quyidagi dasturda int n=4 bo’lsa,",
+        "answer": "24\nfor(int i=0;i<=n;i++) P*=i;ifodasida P ning qiymatini toping"
+    },
+    {
+        "question": "Algoritmni tuliq qurish bosqichlariga oid bulmagan bandni aniqlang.",
+        "answer": "Talablarni aniqlash"
+    },
+    {
+        "question": "void funksiyasining vazifasi qanday?",
+        "answer": "Qiymat qaytarmaydigan funksiya vazifasini bajaradi."
+    },
+    {
+        "question": "Agar ikki qo’shni element noto’g’ri tartibda joylashib qolgan bo’lsa, ularning o’rnini almashtirish qaysi algoritm?",
+        "answer": "Pufakcha usulida saralash"
+    },
+    {
+        "question": "Pufakcha usulida saralash algoritmining murakkablik bahosi qanday?",
+        "answer": "O(n^2)"
+    },
+    {
+        "question": "Tanlab saralash algoritmining murakkablik bahosi qanday?",
+        "answer": "O(n^2)"
+    },
+    {
+        "question": "Rekursiv algoritmlarni qo’llaganda samarali bo’ladigan masalani aniqlang.",
+        "answer": "Sakkiz qirolicha (Farzin) masalasi"
+    },
+    {
+        "question": "Rekursiv algoritmlarni qo’llaganda samarali bo’ladigan masalani aniqlang.",
+        "answer": "Xanoy minorasi masalasi"
+    },
+    {
+        "question": "Qaysi jarayonda har bir chaqiruv uchun kompyuter xotirasida yangi joy ajratiladi?",
+        "answer": "Rekursiv jarayonda"
+    },
+    {
+        "question": "Katta chuqurlikdagi rekursiyadan foydalanish dasturda qanday oqibatlarga olib keladi?",
+        "answer": "Uzoq vaqt ishlaydi va stek to’lib ketadi"
+    },
+    {
+        "question": "32. Quyida funksiya k=5 uchun qanday qiymat qaytaradi? int f(int k){ if(k==0) return 1; if(k==1) return 1; else return f(k-1)+f(k-2);}",
+        "answer": "5"
+    },
+    {
+        "question": "Massiv elementlarini bo’laklarga bo’lib saralab, keyin saralangan massivlarni birlashtirish qaysi usulning g’oyasi?",
+        "answer": "Birlashtirish orqali saralash"
+    },
+    {
+        "question": "Algoritmni tuliq qurish bosqichlariga oid bulmagan bandni aniqlang",
+        "answer": "Dasturni urnatish"
+    },
+    {
+        "question": "O‘rta kvadrat usuli algoritmi muallifi kim?",
+        "answer": "Jon von Neymann"
+    },
+    {
+        "question": "Grafda izlashda qanday ikkita strategiya mavjud?",
+        "answer": "keng qidiruv va chuqur qidiruv"
+    },
+    {
+        "question": "Malum kiruvchi malumotlardan izlanayotgan yechimga olib keluvchi hisoblash jarayoni tugrisidagi kursatma. Algoritm haqidagi ushbu tarif qaysi olimga tegishli?",
+        "answer": "A.Markov"
+    },
+    {
+        "question": "Quyidagi masalalardan qaysi biri NP to‘liqlik masalalari bo‘la oladi.",
+        "answer": "Kaymivayjara masalalari"
+    },
+    {
+        "question": "Vatarlar usulining maqsadi nima?",
+        "answer": "Chiziqli tenglamalarni yechish"
+    },
+    {
+        "question": "Qanday masalalarda optimal yechimga erishib bo‘lmaydi?",
+        "answer": "NP-to‘liq masalalarda"
     }
 ]

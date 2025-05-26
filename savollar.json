@@ -1,0 +1,798 @@
+[
+    {
+        "question": "Loyihalash jarayonini davom ettirish yoki tugatish to'g'risida qaror qabul qilish uchun zarur va etarli bo'lgan loyiha ob'ektining oraliq yoki yakuniy tavsifi - bu",
+        "answer": "loyiha yechimi"
+    },
+    {
+        "question": "Loyihani amalga oshirish uchun zarur bo'lgan qoidalar to'plami - bu",
+        "answer": "loyiha algoritmi"
+    },
+    {
+        "question": "Loyiha tavsiflarini ifodalash va o'zgartirish uchun mo'ljallangan til - bu",
+        "answer": "loyiha tili"
+    },
+    {
+        "question": "Hali mavjud bo'lmagan ob'ektni yaratish uchun zarur bo'lgan tavsifni tuzish jarayoni qanday nomlanadi?",
+        "answer": "loyihalash"
+    },
+    {
+        "question": "Loyiha protsedurasining bir qismi bo'lgan harakat yoki harakatlar to'plami - bu",
+        "answer": "Loyihaning ishlashi"
+    },
+    {
+        "question": "Algoritm- tizimning qat'iy va aniq qoidalari. Qoidani to'g'ri ketma-ketlikda joylashtiring: I.Algoritmni ishlab chiqish; II.Dasturni tekshirish, mumkin bo'lgan xatolarni aniqlash, xatolarni bartaraf etish; III.Modelni qurish, masalani yechish usulini tanlash; IV.Masalaning qo’yilishi; V.Tahlil qilish; VI.Algoritmni amalga oshirish;",
+        "answer": "IV, III, I, VI, II, V"
+    },
+    {
+        "question": "Algoritmning qanday xususiyatlari bor:",
+        "answer": "Barcha javoblar to'g'ri"
+    },
+    {
+        "question": "Algoritm tahlilining asosiy maqsadi:",
+        "answer": "kirish ma'lumotlari hajmini oshirish uchun resurslarga bo'lgan talablarni o'lchash masshtabini aniqlash."
+    },
+    {
+        "question": "“O(f(n))- algoritmning murakkabligi \" qanday ma'noni anglatadi?",
+        "answer": "Algoritmning kirish ma'lumotlari miqdorini tavsiflovchi parametrning oshishi bilan ishlash vaqti n uchun f(n) dan tezroq o'smaydi."
+    },
+    {
+        "question": "Go’rner sxemasi - bu",
+        "answer": "f (x) ko'phadning qiymatini x  x0 ma'lum qiymatida ko'phadni birhadlarga (birinchi darajali ko'phadlarga) bo'lish orqali hisoblashni soddalashtirish algoritmi."
+    },
+    {
+        "question": "Qanday qilib dasturni chiziqli strukturaga aylantirish mumkin? Qanday qilishni tasvirlab bering: I.chiqish va kirish ma'lumotlari qanday matematik formulalar bilan bog'liqligini aniqlash; II.asl ma'lumotlarga nima tegishli ekanligini, shuningdek, ushbu ma'lumotlarning qaysi turi / sinfini aniqlash, o'zgaruvchilar nomlarini tanlash; III.Yakuniy algoritmni yozish, Algoritm ma'lumotlarni kiritish, hisoblash, natijalarni ko'rsatishni o'z ichiga olishi kerak; IV.qaysi turdagi ma'lumotlar kerakli natijaga ega bo'lishini aniqlash uchun o'zgaruvchi (lar) nomini tanlang; V.agar kerak bo'lsa, oraliq ma'lumotlarning mavjudligi, ma'lumotlar sinfini / turini aniqlang va nomlarni tanlang; VI.ishlatiladigan barcha o'zgaruvchilarni tavsiflash;",
+        "answer": "II, IV, I, V, VI, III"
+    },
+    {
+        "question": "To'rtburchaklar usuli - bu",
+        "answer": "Bitta o'zgaruvchining funktsiyalarini sonli integrallash usuli - bu integralni har bir elementar oraliqda doimiy bo'lgan nol darajali polinom bilan almashtirishdir."
+    },
+    {
+        "question": "Trapesiya usuli - bu",
+        "answer": "Boshlang’ich funktsiyalarni topish va uning ustidagi integralni hisoblash imkoni bo'lmagan hollarda foydali bo'lgan taqribiy integrallash."
+    },
+    {
+        "question": "Simpson usuli (parabolalar) - bu",
+        "answer": "a, b va m  (a + b) / 2 - parabola p(x) interpolyatsiya tugunlari bilan f(x) ikkinchi darajali funktsiyaning interpolyatsiya polinomini integrallash usuli."
+    },
+    {
+        "question": "Qanday tenglama transsendent deyiladi?",
+        "answer": "Trigonometrik yoki eksponensial funktsiyalarni o'z ichiga oladi"
+    },
+    {
+        "question": "Transendent  tenglama sin(mx-10) + sin((m-1) -10) + ... + sin (10)  0 ...... bor",
+        "answer": "cheksiz sonli ildizlari"
+    },
+    {
+        "question": "Agar tenglama faqat algebraik funktsiyalarni o'z ichiga olsa, u holda tenglama ... deyiladi.",
+        "answer": "algebraik"
+    },
+    {
+        "question": "Ko‘rsatkichli, logarifmik, trigonometrik va teskari trigonometrik funksiyalar nima deyiladi?",
+        "answer": "transsendent"
+    },
+    {
+        "question": "Agar f(x) funksiya m darajali ko‘phad ko‘rinishiga ega bo‘lsa, f(x)0 chiziqli bo‘lmagan tenglama uchun maksimal ildizlar soni qancha bo‘lishi mumkin?",
+        "answer": "m"
+    },
+    {
+        "question": "f (x)  0 tenglamaning ildizlarini oldindan belgilangan aniqlik darajasida izlash uchun qanday usullardan foydalaniladi?",
+        "answer": "Masalalarni yechishning sonli (taqribiy) usullar"
+    },
+    {
+        "question": "Oddiy iteratsiya usuli qanday usul hisoblanadi?",
+        "answer": "yaqinlashish usuli"
+    },
+    {
+        "question": "Ro’p marta takrorlash orqali ma'lum bir aniqlik bilan tizimning ildizlarini olishga imkon beruvchi usul ... deyiladi",
+        "answer": "iterativ usul"
+    },
+    {
+        "question": "Bisektsiya usuli yana qanday nomlanadi?",
+        "answer": "Oraliqni ikkiga bo’lish usuli"
+    },
+    {
+        "question": "Xord usuli ... hisoblanadi",
+        "answer": "iteratsiya usulining alohida holati"
+    },
+    {
+        "question": "Chiziqsiz tenglamani Nyuton usulida yechishda qanday qiymatlar aniqlangan bo’lishi kerak?",
+        "answer": "boshlang’ich qiymat va aniqlik"
+    },
+    {
+        "question": "Nyuton usuli",
+        "answer": "o'z-o'zini tuzatish xususiyatiga ega va yuqori aniqlikka ega"
+    },
+    {
+        "question": "Matematik dasturlash nimani o’rganadi?",
+        "answer": "Matematik jihatdan ko'p o'zgaruvchili funksiyaning maksimal (minimal)"
+    },
+    {
+        "question": "Masalani chiziqli dasturlash masalasi sifatida shakllantirish qanday bosqichlarni o‘z ichiga oladi:",
+        "answer": "barcha javoblar to'g'ri."
+    },
+    {
+        "question": "Chiziqli dasturlash masalasi uchun asosiy matematik taxminlarni sanab o'ting",
+        "answer": "Barcha javoblar to'g'ri"
+    },
+    {
+        "question": "Maqsad funksiyasi maksimal qiymati izlanadigan va masalaning tizimli shartlari tenglamalar sistemasi bo'lgan chiziqli dasturlash masalasining modeli qanday ataladi?",
+        "answer": "Kanonik"
+    },
+    {
+        "question": "Transport masalasi qanday masalaga tegishli?:",
+        "answer": "chiziqli dasturlash"
+    },
+    {
+        "question": "Umumiy chiziqli dasturlash masalasini yechishda qanday analitik usuldan foydalaniladi?",
+        "answer": "simpleks usuli"
+    },
+    {
+        "question": "Simpleks usul algoritmi quyidagilarni o'z ichiga oladi:",
+        "answer": "Barcha javoblar to'g'ri."
+    },
+    {
+        "question": "Simpleks algoritmi - bu",
+        "answer": "Chiziqli dasturlash masalasining shartlar tizimining bir asosiy yechimidan  maqsad funksiyasi optimal qiymatni (maksimal yoki minimal) olguncha boshqa asosiy yechimga ketma-ket oʻtish usuli."
+    },
+    {
+        "question": "Chiziqli dasturlash masalasini yechish uchun rejani ketma-ket takomillashtirish usuli qanday nomlanadi?",
+        "answer": "simpleks usuli"
+    },
+    {
+        "question": "Qiymatini minimallashtirish yoki maksimallashtirish uchun chiziqli dasturlash funksiyasi qanday nomlanadi?",
+        "answer": "maqsad funksiyasi"
+    },
+    {
+        "question": "O’ziga–o’zi murojaat qiladigan algoritmlar qanday nomlanadi",
+        "answer": "rekkurent algoritmlar deb ataladi"
+    },
+    {
+        "question": "Iqtisodiy tahlilda chiziqli dasturlash qanday qo'llaniladi?",
+        "answer": "ishlab chiqarishda qo'llaniladigan resurslarga nisbatan qo'llaniladigan aniq shartlar ostida eng to'g'ri iqtisodiy echimlarni asoslash imkonini beradi."
+    },
+    {
+        "question": "Chiziqli dasturlash qachon qo'llaniladi?",
+        "answer": "muayyan shartlar mavjud bo'lganda o'zgaruvchilarni tahlil qilishda"
+    },
+    {
+        "question": "Ikki tomonlama masala - bu",
+        "answer": "To'g'ridan-to'g'ri dastlabki masalaning shartlaridan ma'lum qoidalardan foydalangan holda tuzilgan yordamchi chiziqli dasturlash masalasi"
+    },
+    {
+        "question": "Geometrik masalalarni yechishning algoritmlarini o'rganadigan diskret matematika bo’limi qanday nomlanadi?",
+        "answer": "Hisoblash geometriyasi"
+    },
+    {
+        "question": "Agar vektor null bo'lsa ...  deyiladi",
+        "answer": "vektorning boshlanishi va oxiri mos keladi"
+    },
+    {
+        "question": "Rekursiyada yechimni olish vaqtida o’z-o’ziga murojaatni talab etmaydigan holatlar nima deb atatladi?",
+        "answer": "Rekursiya bazisi"
+    },
+    {
+        "question": "Regressiyaga bog'liqliklarni tiklashning ko'plab masalalarini hal qilishda keng qo'llaniladigan usullardan biri qanday nomlanadi?",
+        "answer": "eng kichik kvadrat usuli"
+    },
+    {
+        "question": "Bir yoki bir nechta mustaqil o'zgaruvchilar X (regressor)ning Y o'zgaruvchiga bog’liqlik ta'sirini o'rganish uchun statistik usullar to'plami qanday nomlanadi?",
+        "answer": "regressiya tahlili"
+    },
+    {
+        "question": "... barcha mumkin bo'lgan variantlarni sanab o'tish orqali masalani hal qilish usuli.",
+        "answer": "to’la tanlash"
+    },
+    {
+        "question": "Algoritmlar maxsus geometrik figuralar yordamida tasvirlanishi nima deyiladi?",
+        "answer": "Blok sxema"
+    },
+    {
+        "question": "Agar natija ustunining simpleks jadvalida musbat qiymatlar bo'lmasa, demak ...",
+        "answer": "Masalaning maqsad funktsiyasi cheklanmagan"
+    },
+    {
+        "question": "Qaysi masalani matritsa shaklida yozilishi mumkin ...",
+        "answer": "standart yoki kanonik shaklga berilgan chiziqli dasturlash masalasi"
+    },
+    {
+        "question": "Agar natija ustunining simpleks jadvalida musbat qiymatlar bo'lmasa, demak ...",
+        "answer": "Masalani yechib bo'lmaydi"
+    },
+    {
+        "question": "simpleks jadvalining oxirgi satrida  manfiy qiymatlar bo'lmasa, demak ...",
+        "answer": "eng maqbul maksimal rejaga topiladi"
+    },
+    {
+        "question": "Qaysi holatda matematik dasturlash masalasi chiziqli bo'ladi?",
+        "answer": "agar uning maqsad funktsiyasi va shartlari chiziqli bo'lsa"
+    },
+    {
+        "question": "Oldindan yaratilgan ma'lumotlar to'plamida aniq ma'lumotlarni topish jarayoni nima deb ataladi?",
+        "answer": "qidirish"
+    },
+    {
+        "question": "Agar sun'iy bazis usulida masalani yechishda sun'iy o'zgaruvchining optimal qiymati musbat songa teng bo'lsa, u holda ...",
+        "answer": "Mumkin bo’lganrejalar maydoni bo’sh"
+    },
+    {
+        "question": "Qiymati qidirilayotgan yozuv maydoni qanday nomlanadi?",
+        "answer": "kalit"
+    },
+    {
+        "question": "Berilgan to'plamni tashkil etuvchi ob'ektlar ... deyiladi",
+        "answer": "elementlar"
+    },
+    {
+        "question": "Optimal chiziqli dasturlash masalasi nima?",
+        "answer": "maqsad funksiyasining optimal rejadagi qiymati"
+    },
+    {
+        "question": "Simpleks jadvalining optimallik mezoni nima?",
+        "answer": "mezon shartidagi barcha koeffitsientlar manfiy (yoki musbat bo'lmagan) bo'lishi kerak."
+    },
+    {
+        "question": "Simpleks usuli bilan chiziqli dasturlash masalasini yechishga urinayotganda, kerakli miqdordagi asosiy o'zgaruvchilar topilmasa, ...",
+        "answer": "Simpleks usulida masalani yechish uchun sun'iy bazisni kiritish kerak"
+    },
+    {
+        "question": "Chiziqli dasturlash masalasi uchun eng optimal reja nima?",
+        "answer": "maqsad funktsiyasining maksimal yoki minimal qiymatni oladigan reja"
+    },
+    {
+        "question": "Qanday signal analog deb ataladi?",
+        "answer": "vaqt o'qiga nisbatan vaqtning har bir lahzasida aniqlangan qiymatlarning uzluksiz chizig'i bilan ifodalanishi mumkin bo'lgan signal."
+    },
+    {
+        "question": "Analog signal qiymatlari bilan nimani ifodalash mumkin?",
+        "answer": "Muayyan uzluksiz funktsiya (o'zgaruvchi sifatida vaqtga bog'liq) va vaqtning bo'lak-bo'lak uzluksiz funksiyasi"
+    },
+    {
+        "question": "Qanday signal diskret deyiladi?",
+        "answer": "Agar ma'lum bir signal faqat turli vaqtlarda alohida qiymatlarni qabul qilsa"
+    },
+    {
+        "question": "Diskretlash davri - bu",
+        "answer": "Diskretlangan signalning ketma-ket ikkita namunasi orasidagi davr"
+    },
+    {
+        "question": "Raqamli signal - bu",
+        "answer": "faqat vaqt oralig'ida emas, balki daraja bo'yicha ham kvantlangan raqamli signal."
+    },
+    {
+        "question": "Qaysi signalni Furye qatoriga yoyish mumkin?",
+        "answer": "diskret"
+    },
+    {
+        "question": "Amalda ko'pincha Furye almashtirishlarining qanday turlari qo'llaniladi?",
+        "answer": "davriy diskret signalni cheklangan Furye qatoriga ajratish mumkin."
+    },
+    {
+        "question": "Qaysi holatda eng kichik kvadratlar usulidan foydalanish mumkin?",
+        "answer": "chiziqli yoki chiziqli bo’lmagan regressiyada"
+    },
+    {
+        "question": "... ni baholash uchun eng kichik kvadratlar usuli qo'llaniladi",
+        "answer": "chiziqli regressiya parametrlari"
+    },
+    {
+        "question": "Chiziqli regressiyasi y  a + bx ning parametrlarini qaysi usulda topish mumkin?",
+        "answer": "eng kichik kvadratlar usulida"
+    },
+    {
+        "question": "Modellarni o‘rganish maqsadida ularni yaratish va o‘rganish qanday nomlanadi?",
+        "answer": "modellashtirish"
+    },
+    {
+        "question": "Chiziqli regressiya tenglamasi quyidagicha bo'ladi",
+        "answer": "yax+b"
+    },
+    {
+        "question": "Algoritmni to’liq qurishning qaysi bosqichida qanday matematik strukturadan foydalanish  hal etiladi?",
+        "answer": "Modelni qurish"
+    },
+    {
+        "question": "Algoritmning baholashni asosiy kriteriyalarini ayting?",
+        "answer": "2 ta: vaqt va hajm"
+    },
+    {
+        "question": "Qaysi usul yordamida regressiya tenglamasining koeffitsientlarini aniqlash mumkin?:",
+        "answer": "eng kichik kvadratlar usuli"
+    },
+    {
+        "question": "Model - bu",
+        "answer": "ob'ektlar yoki jarayonlarning ma'lum bir belgilangan mezonlar bo'yicha tegishli ravishda o'rganiladigan ob'ektning mavhum yoki haqiqiy ko'rinishi lar"
+    },
+    {
+        "question": "Regressiya - bu",
+        "answer": "biror tasodifiy miqdor oʻrta qiymatining boshqa bir tasodifiy miqdoriga bogʻlikligi"
+    },
+    {
+        "question": "Quyidagi dasturda n159 bo’lsa, int an%10+n/10%10+n/100; ifodasida a ning qiymatini toping",
+        "answer": "15"
+    },
+    {
+        "question": "To'liq qidiruvning ta'rifini bering:",
+        "answer": "barcha mumkin bo'lgan variantlarni sinab ko'rish orqali masalani yechish usuli."
+    },
+    {
+        "question": "“Bo’lish va hukmronlik qilish” usulidan foydalanib, massivdagi inversiyalar sonini qanchalik tez hisoblashimiz mumkin?{",
+        "answer": "O (n log n)"
+    },
+    {
+        "question": "Shifrlash kalitlarini saralashdan maqsad nima?",
+        "answer": "elementlarni ularning kalitlari aniq belgilangan qoidalarga (odatda raqamli yoki alifbo tartibida) muvofiq bajarilishi uchun qayta tartiblaydi."
+    },
+    {
+        "question": "Algoritm O(N) murakkablik bilan bajarilishida 256 s vaqt sarflasa, shu algoritm O(NlogN) murakkablik bilan qancha vaqt sarflaydi?",
+        "answer": "2048"
+    },
+    {
+        "question": "Algoritm O(N) murakkablik bilan bajarilishida 11 s vaqt sarflasa, shu algoritm O(N^2) murakkablik bilan qancha vaqt sarflaydi?",
+        "answer": "121"
+    },
+    {
+        "question": "Pufakchali saralashning g'oyasi nima?",
+        "answer": "Ketma-ketlikning qo'shni elementlari bir-biri bilan taqqoslanadi va agar kerak bo'lsa, almashtiriladi"
+    },
+    {
+        "question": "Quyida funksiya x4 da qanday qiymat qaytaradi? Int ran(x) { if (x  1) return 1 else: return x * ran(x-1)}",
+        "answer": "24"
+    },
+    {
+        "question": "Quyida funksiya x5 uchun qanday qiymat qaytaradi? Int ran(x){ if x  1: return 1 else: return x * ran(x-1)}",
+        "answer": "120"
+    },
+    {
+        "question": "Ikkilik qidiruv - bu",
+        "answer": "to'plamni qayta-qayta ikki qismga bo'lib izlash"
+    },
+    {
+        "question": "Quyidagi algoritmik baholashlarning qaysi biri eng kam vaqtda bajariladi?",
+        "answer": "O(N)"
+    },
+    {
+        "question": "Deyskrit algoritmi nimaga asoslanadi?",
+        "answer": "Xasislik yondashuvda"
+    },
+    {
+        "question": "Qaysi algoritm xasislik yondashuvga asoslannaydi?",
+        "answer": "Eng qisqa yo'lni topish algoritmi"
+    },
+    {
+        "question": "Keyingi qadamda nima bo'lishidan qat’iy nazar har bir qadamda maqbul echimni oladigan algoritm qanday ataladi?",
+        "answer": "xasislik algoritm"
+    },
+    {
+        "question": "Muayyan xususiyat bilan bir-biriga bog'liq bo'lgan bir butun ob'ektlarni birlashtirish",
+        "answer": "To’plam"
+    },
+    {
+        "question": "To’plamlar qanday turda bo’lishi mumkin?",
+        "answer": "Barcha javoblar to'g'ri"
+    },
+    {
+        "question": "Chekli to'plam nima deyiladi",
+        "answer": "chekli sonli elementlardan iborat toʻplam"
+    },
+    {
+        "question": "Kruskal algoritmi - bu",
+        "answer": "grafni kirish sifatida qabul qiluvchi va har bir uchini oʻz ichiga oluvchi daraxtni tashkil etuvchi va grafdan hosil boʻlishi mumkin boʻlgan barcha daraxtlarning minimal ogʻirliklari yigʻindisiga ega boʻlgan graf qirralarining kichik toʻplamini topadigan minimal kenglikdagi daraxt algoritmi."
+    },
+    {
+        "question": "Algoritmning bosqichlari quyida tavsiflanadi Kam vaznning barcha qirralarini yuqoriga tartiblang. Eng kam og'irlikdagi qirrasini oling va uni yoyilgan daraxtga qo'shing. Agar grafda yaratish uchun qirra qo'shilgan bo'lsa, unda bu chetini rad eting. Barcha tugunlarga yetguncha qirralarni qo'shishda davom eting.",
+        "answer": "Kruskal algoritmi"
+    },
+    {
+        "question": "Barcha to'g'ri bayonotlarni tanlang. I.TM potentsial cheksiz xotira bilan jihozlangan II.Tyuring mashinasi - algoritmning aniq matematik tavsifi III.Har bir katakka bir nechta tashqi alifbo belgilaridan TM yozilishi mumkin IV.TM dastur tomonidan boshqariladi VI.TM faqat bitta lenta bo'lishi mumkin",
+        "answer": "I, II, IV"
+    },
+    {
+        "question": "Agar ikki qo’shni element noto’g’ri tartibda joylashib qolgan bo’lsa, ularning o’rnini almashtirish qaysi algoritm?",
+        "answer": "Pufakcha usulida saralash"
+    },
+    {
+        "question": "Berilgan masalalardan qaysi biri NP-to’liq masalalar turkumiga kiradi?",
+        "answer": "Tyuring mashinasi"
+    },
+    {
+        "question": "Graf ulangan bo'lsa, har qanday uchdan har qanday uchga kirish imkoni mavjud bo'lganda, unda bunday graf qanday deb nomlanadi?",
+        "answer": "Yo’naltirilgan"
+    },
+    {
+        "question": "Agar graf birlashtirish matritsasi yordamida saqlansa, kenglik birinchi izlash algoritmining murakkabligi",
+        "answer": "O (n^2)"
+    },
+    {
+        "question": "Agar grafda n qirralar va m qirralar bo'lsa, unda kenglik bo’yicha izlash algoritmining murakkabligi qanday?",
+        "answer": "O (n + m)"
+    },
+    {
+        "question": "Polinimial masalalar bu…",
+        "answer": "Vaqt maboynida ishlovchi algoritmlar"
+    },
+    {
+        "question": "P algoritmlarining afzalliklari",
+        "answer": "Barcha javoblar to'g'ri"
+    },
+    {
+        "question": "NP-masala uchun qaysi ta'rif to'g'ri (chiziqli bo'lmagan polinom va chiziqli bo'lmagan polinom):",
+        "answer": "yechimi polinom vaqtida deterministik Tyuring mashinasida tekshirilishi mumkin bo'lgan masala"
+    },
+    {
+        "question": "Qanday masala NP-to'liq masala deb nomlanadi&",
+        "answer": "agar u NP sinfiga tegishli bo'lsa va NP dan boshqa har qanday masala polinom vaqtda unga keltiriladi"
+    },
+    {
+        "question": "NP-oraliq masala deb ataladi",
+        "answer": "agar u NP va NP-to'liq sinfiga tegishli bo'lsa."
+    },
+    {
+        "question": "C Masala NP-qiyin deb ataladi, agar",
+        "answer": "u NP-to'liq masala bo'lsa va polinom vaqtida C ga keltirilsa"
+    },
+    {
+        "question": "Raqamli tartiblash algoritmining hisoblash murakkabligi qanday?",
+        "answer": "Chiziqli"
+    },
+    {
+        "question": "Tezkor saralash algoritmining murakkablik bahosi qanday?",
+        "answer": "O(NlogN)"
+    },
+    {
+        "question": "Saralash algoritmi, unda tartiblangan elementlar cheklangan miqdordagi alohida birliklarga bo'linadi, shunda bitta blokdagi barcha elementlar har doim ikkinchisidan kattaroq (yoki kichikroq) bo'ladi? bu-.",
+        "answer": "blokli saralash"
+    },
+    {
+        "question": "Elementga raqami bo'yicha kirishda bog'langan ro'yxatlarda qancha taqqoslash va xotira talab qilinadi?",
+        "answer": "n/2"
+    },
+    {
+        "question": "Bir bog'lamli ro'yxatini saralash algoritmi murakkabligi ...",
+        "answer": "O (nlogn)"
+    },
+    {
+        "question": "Bog'langan ro'yxatni saralash uchun qancha xotira talab etiladi?",
+        "answer": "O (logn)"
+    },
+    {
+        "question": "Ikki marta bog'langan ro'yxatni saralashning murakkabligi",
+        "answer": "O(n)"
+    },
+    {
+        "question": "Saralash algoritmi uchun ideal hisoblash murakkabligi",
+        "answer": "O(n)"
+    },
+    {
+        "question": "Teng elementlarning nisbiy o'rnini o'zgartirmaydigan tur nima deyiladi",
+        "answer": "barqaror"
+    },
+    {
+        "question": "Saralangan yoki qisman tartiblangan ma'lumotlarni qayta ishlashda saralash usulining samaradorligi nima deyiladi&",
+        "answer": "Tabiiylik"
+    },
+    {
+        "question": "Saralashning asosiy turlari quyidagilardan qaysi biri?",
+        "answer": "Ichki"
+    },
+    {
+        "question": "Heap sortning murakkabligini belgilang?",
+        "answer": "O (nlogn)"
+    },
+    {
+        "question": "Tanlab saralashning murakkabligi qanday?",
+        "answer": "O (n^2)"
+    },
+    {
+        "question": "Taqqoslashga asoslanmagan saralash algoritmlariga qanday algoritmlar kiradi?",
+        "answer": "barcha javoblar to'g'ri"
+    },
+    {
+        "question": "Xasislik algoritmida 30,20,10,5 kg lik toshlar bo’lganda 70 kg yuk oladigan yashikka eng ko’pi bilan qancha og’irlik joylanadi?",
+        "answer": "60"
+    },
+    {
+        "question": "Har bir kalit almashinish radiusi tartibida qanday ifodalanadi",
+        "answer": "ikkilik shaklda"
+    },
+    {
+        "question": "Xasislik algoritmida 30,20,15 kg lik toshlar bo’lganda 35 kg yuk oladigan yashikka eng ko’pi bilan qancha og’irlik joylanadi?",
+        "answer": "30"
+    },
+    {
+        "question": "Tartibga solinmagan ma'lumotlar massividan to'plam yaratish qancha vaqt oladi?",
+        "answer": "O (nlogn)"
+    },
+    {
+        "question": "Fibonachchi to'plami -",
+        "answer": "daraxt to'plam"
+    },
+    {
+        "question": "Periferik qurilmalarda joylashgan va operativ xotiraga sig'maydigan ma'lumotlarni saralash ... deyiladi",
+        "answer": "tashqi"
+    },
+    {
+        "question": "Butun sonni ustunlarda ko'paytirish algoritmining murakkabligi qanday?",
+        "answer": "O (n ^ 2)"
+    },
+    {
+        "question": "Birlashtirish orqali tartiblash algoritmining ishlash vaqti -",
+        "answer": "O (nlogn)"
+    },
+    {
+        "question": "Birlashtirish bilan  tartibi  ...  bo'lishi mumkin",
+        "answer": "tabiiy"
+    },
+    {
+        "question": "Dastlabki \"qo'pol\" o'tishlar bilan orniga qo'shish tartiblasi qanday ataladi?",
+        "answer": "Shell saralashi"
+    },
+    {
+        "question": "Grafning uchlari va qirralari toʻplami chekli boʻlsa, u qanday nomlanadi?",
+        "answer": "chekli"
+    },
+    {
+        "question": "G grafigining n(G) uchlari soni:",
+        "answer": "qrafning tartibi"
+    },
+    {
+        "question": "Grafning biror uchiga insident(tutashgan) qirralari son qanday ataladi?",
+        "answer": "graf darajasi;"
+    },
+    {
+        "question": "Agar ikkita uch insident(tutashgan) bo’lsa, ular ... deyiladi:",
+        "answer": "qo'shni"
+    },
+    {
+        "question": "Uchlari va qirralari to'plami bo'sh bo'lgan graf qanday nomlanadi:",
+        "answer": "bo'sh"
+    },
+    {
+        "question": "Bir xil juft uchlarga insident(tutashga) qirralar nima deyiladi?",
+        "answer": "qo'shni"
+    },
+    {
+        "question": "Har qanday uchni o'zi bilan bog'laydigan qirra nima deyiladi?",
+        "answer": "halqa"
+    },
+    {
+        "question": "Ko'p qirrali graf ... deyiladi:",
+        "answer": "psevdograf"
+    },
+    {
+        "question": "Juft  qirralari va halqasibo'lmagan chekli yo'naltirilmagan graf qanday nomlanadi?",
+        "answer": "multigraf"
+    },
+    {
+        "question": "Uchlari juftliklari tartiblangan graf qanday nomlanadi?",
+        "answer": "orggraf"
+    },
+    {
+        "question": "Yo'naltirilgan grafning qirralari qanday nomlanadi?",
+        "answer": "yoylar"
+    },
+    {
+        "question": "Qirrasi va yoylari bo'lgan graf qanday nomlanadi?",
+        "answer": "aralash"
+    },
+    {
+        "question": "Agar grafning qirra va uch to'plamlari chekli bo'lsa, graf quyidagicha qanday nomlanadi?",
+        "answer": "cheklangan"
+    },
+    {
+        "question": "Grafning tartibi ... ga teng?",
+        "answer": "uchlari soni"
+    },
+    {
+        "question": "G grafigining v uchining darajasi ...",
+        "answer": "v uchsiga tushgan qirralarning soni;;"
+    },
+    {
+        "question": "Qirralari va halgalari bo'lmagan chekli yo'naltirilmagan graf -",
+        "answer": "oddiy graf"
+    },
+    {
+        "question": "Marshrutni tashkil etadigan qirralar soni uning .... deyiladi:",
+        "answer": "uzunligi"
+    },
+    {
+        "question": "Marshrut zanjir deb ataladi, agar unda har bir uch ... qatnashsa.",
+        "answer": "faqat bir marta"
+    },
+    {
+        "question": "Agar marshrutning birinchi uchi oxirgisi bilan bir xil bo'lsa, u holda marshrut ... deyiladi:",
+        "answer": "yopiq"
+    },
+    {
+        "question": "Agar zanjir yopiq bo'lsa, u ... deyiladi:",
+        "answer": "sikl"
+    },
+    {
+        "question": "Har bir uch marshrutda ko'pi bilan bir marta qatnashsa .... deyiladi:",
+        "answer": "zanjir"
+    },
+    {
+        "question": "Yo'naltirilgan grafdagi marshrut ... deyiladi:",
+        "answer": "yo’l"
+    },
+    {
+        "question": "Oddiy grafda marshrutni uning ... ketma-ketligi bilan ko'rsatish mumkin.",
+        "answer": "uchlar"
+    },
+    {
+        "question": "Graflar nazariyasining asoschisi kim?",
+        "answer": "Eyler"
+    },
+    {
+        "question": "Eyler qanday masalani hal qildi?",
+        "answer": "Kenigsberg ko'priklari masalasini"
+    },
+    {
+        "question": "Marshrutda bir xil uch necha marta qatnashishi mumkin7",
+        "answer": "Bir marta"
+    },
+    {
+        "question": "Algoritmlar nazariyasining asosiy natijalaridan biri … ecimining mavjudligini isbotlashdir?",
+        "answer": "ba'zi yechib bo'lmaydigan masalalar"
+    },
+    {
+        "question": "Quyidagi masalardan qaysi biri NP to’liqlik masalalaga kiradi?",
+        "answer": "Grafni bo’yash  masalalari"
+    },
+    {
+        "question": "Algoritmning polinom murakkabligi - vaqt va xotira  imkoniyatlari hajmiga bog'liqligi … shakliga ega bo'lgan algoritmning murakkabligi.",
+        "answer": "darajali ko'phad"
+    },
+    {
+        "question": "Polinomial vaqtda ishlaydigan algoritmlar qachon tuzish mumkin&",
+        "answer": "barcha haqiqiy ma'lumotlar variantlarini sanab o'tirmasdan yechim topish mumkin bo’lganda"
+    },
+    {
+        "question": "Polinom algoritmi - vaqt murakkabligi T(n) nimaga teng (n - masalaning o'lchami, p(n) n ning ko‘phadi)?.",
+        "answer": "T(n)=O(p(n))"
+    },
+    {
+        "question": "P = NP masalasi bu:",
+        "answer": "agar ba'zi bir savolga musbat javobni polinom vaqtida tekshirish mumkin bo'lsa, u holda bu savolga javobni ko'phad vaqtda topish mumkin."
+    },
+    {
+        "question": "Tyuring mashinasining o'z-o'zidan qo'llanilishini tan olish masalasi qanday talqin qilinadi?",
+        "answer": "algoritm bo'yicha qaror qabul qilib bo'lmaydi"
+    },
+    {
+        "question": "Tyuring mashinasining o'z-o'zidan qo'llanilishi masalasi qanday tuzilgan?",
+        "answer": "Turing mashinasi o'z kodiga ega"
+    },
+    {
+        "question": "Masalaning hajmibi belgilovchi xususiyat nima?",
+        "answer": "dastlabki ma'lumotlarning qiymati yoki ularning soni"
+    },
+    {
+        "question": "Algoritmning hisoblash qobiliyati nimani bildiradi?",
+        "answer": "algoritmda ko'rsatilgan ko'rsatmalarni bajarishga qodir hisoblovchi bo'lishi kerak"
+    },
+    {
+        "question": "Algoritmning diskretlik xossasi nimani bildiradi?",
+        "answer": "algoritmning barcha ko'rsatmalari diskret tarzda bajariladi, ya'ni. uzluksiz analog qurilmalardan foydalanmasdan."
+    },
+    {
+        "question": "Algoritmning cheklilik xususiyati nimani bildiradi?",
+        "answer": "har qanday algoritm chekli o'lchamli ko'rsatmalar ketma-ketligi bilan beriladi"
+    },
+    {
+        "question": "Algoritmning samaradorlik xossasi nimani bildiradi?",
+        "answer": "algoritm samarali bo'lishi kerak, ya'ni. cheklangan miqdordagi qadamlardan keyin qandaydir natija bilan tugaydi"
+    },
+    {
+        "question": "Qaysi sinfdagi masalalarni yechish qiyinroq?",
+        "answer": "NP\\P"
+    },
+    {
+        "question": "Qisman rekursiya - yordami bilan eng oddiylaridan tuzilgan funksiyaning xususiyatlari qanday bo’ladi?",
+        "answer": "superpozitsiya, primitiv rekursiya va minimallashtirish operatorlarining chekli soni"
+    },
+    {
+        "question": "Qisman rekursiv funksiyalar algoritm modelidir, agar ...",
+        "answer": "algoritm tushunchasini algoritm bilan hisoblash mumkin bo'lgan narsalar nuqtai nazaridan ko'rib chiqsa"
+    },
+    {
+        "question": "Ikki o’lchovli massivlarni qayta ishlash bilan bog’liq muammolarda kirish hajmi ... hisoblanadi.",
+        "answer": "Massivdagi elementlar soni"
+    },
+    {
+        "question": "Ikki o'zgaruvchining qiymatlarini almashish algoritmi - a va b - necha bosqichda amalga oshiriladi?",
+        "answer": "3"
+    },
+    {
+        "question": "n o'quvchidan iborat sinfdagi birinchi parta uchun qo'shnilar juftini necha usul bilan mustaqil tanlash mumkin?",
+        "answer": "n(n-1) usul"
+    },
+    {
+        "question": "Raqamlarni \"burchak\" bo'lishning ma'lum algoritmi qanday xususiyatga ega?",
+        "answer": "Korrekt bo’lmagan"
+    },
+    {
+        "question": "n*n matritsalarni ko‘paytirish algoritmining murakkabligi qanday?",
+        "answer": "n*n*n"
+    },
+    {
+        "question": "Taqribiy  hisoblashda integralning qiymati qanday baholanadi?",
+        "answer": "Hisoblash xatosini baholash"
+    },
+    {
+        "question": "[a,b] kesmalarga ajratish nima deb ataladi? Bunda tenglamaning bitta va faqat bitta ildizi bor",
+        "answer": "Ildizni ajratish"
+    },
+    {
+        "question": "Hajmi V=300 bo’lgan to’g’ri burchakli parallellopipedni qurish uchun kamroq material sarflaganda matematik modelning maqsad funktsiyasini aniqlang.",
+        "answer": "F=2(ab+(a+b)h)-min"
+    },
+    {
+        "question": "Hajmi V=300 bo’lgan to’g’ri burchakli parallellopipedni qurish uchun kamroq material sarflaganda matematik modelning shartlarini aniqlang.",
+        "answer": "abh=300"
+    },
+    {
+        "question": "Chiziqli dasturlash (CHD) masalalarini yechishning graf usulining birinchi bosqichi qanday nomlanadi?",
+        "answer": "CHD masalasiga ruxsat etilgan echimlar to'plamini qurish"
+    },
+    {
+        "question": "Chiziqli dasturlash (CHD) masalalarini yechishning graf usulining ikkinchi bosqichi qanday nomlanadi?",
+        "answer": "barcha ruxsat etilganlar orasida optimal echimni topish"
+    },
+    {
+        "question": "Chiziqli dasturlash masalasining olingan optimal yechimiga o‘zgaruvchan model parametrlarining ta’sirini o‘rganish qanday nomlanadi?",
+        "answer": "sezgirlik tahlili"
+    },
+    {
+        "question": "Simpleks usulining oxirgi baholash satrida manfiy belgilar mavjud bo'lsa, nima qilish kerak?",
+        "answer": "simpleks usulining keyingi bosqichiga o'tishingiz kerak"
+    },
+    {
+        "question": "Simpleks jadvalining oxirgi qatorida manfiy belgilar bo'lmasa, u holda .....",
+        "answer": "optimal reja topildi"
+    },
+    {
+        "question": "y=x*x funktsiyasi juft bo'lganligi sababli, uning Furye qatorining kengayishi ... o'z ichiga oladi.",
+        "answer": "faqat kosinuslarni"
+    },
+    {
+        "question": "Karatsuba algoritmining murakkabligi qanday?",
+        "answer": "0(nlog3)"
+    },
+    {
+        "question": "Prim algoritmi tomonlar soni graf uchlarining kvadratiga to'g'ri keladigan ....da qo'llaniladi.",
+        "answer": "to'yingan graflar"
+    },
+    {
+        "question": "Prim algoritmining mohiyati shundan iboratki...",
+        "answer": "xasislik qidiruv"
+    },
+    {
+        "question": "To'plamni bir-biriga mos kelmaydigan kichik to'plamlarga bo'lishda siz ... kiritishingiz kerak.",
+        "answer": "Asosiy vektor"
+    },
+    {
+        "question": "Qanday usulda xalta masalasini yechish mumkin emas?",
+        "answer": "Simpleks usuli"
+    },
+    {
+        "question": "Grafning uchlarini qoplash (Vertex Cover) masalalarida faqat ... ko'rib chiqiladi.",
+        "answer": "yo'naltirilmagan graflar"
+    },
+    {
+        "question": "Qisman rekursiv funksiyalar algoritmi shunday  modeliki,ular ...",
+        "answer": "algoritm tushunchasini algoritm bilan hisoblash mumkin bo'lgan narsalar nuqtai nazaridan ko'rib chiqsa"
+    },
+    {
+        "question": "Algoritmning cheklilik xususiyati nimani bildiradi?",
+        "answer": "har qanday algoritm chekli o'lchamli ko'rsatmalar ketma-ketligi bilan beriladi"
+    },
+    {
+        "question": "Tyuring mashinasining o'z-o'zidan qo'llanilishi masalasi qanday tuzilgan?",
+        "answer": "Turing mashinasi o'z kodiga egaligidan"
+    },
+    {
+        "question": "Algoritmlar nazariyasining asosiy natijalaridan biri …ni echib berganligida.",
+        "answer": "ba'zi yechib bo'lmaydigan masalalar"
+    }
+]

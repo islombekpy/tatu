@@ -1,964 +1,1201 @@
-
-Dasturiy injiniringda asosiy tushunchalardan biri bu …
-====
-#DT xayotiy sikli
-====
-DT loyihasi
-====
-DT bosqichlari
-====
-DT boshqaruvi
-
-+++++
-
- RPTwin-da qo'llab-quvvatlanadigan operator turlari:
-====
-#Matnni biriktirish operatori (&)
-====
-belgi
-====
-Matn
-====
-Sana
-
-+++++
-
-"O'z-o'zidan" dasturlash:
-====
-#Dasturni bitta dasturchi yaratgan dasturiy ta'minotni ishlab chiqish tarixidagi davr
-====
-dasturni yagona ob'ekt sifatida taqdim etish asosida murakkab dasturiy ta'minotni yaratish texnologiyasi
-====
-Dastur kodining ob'ekti uchun mo'ljallangan kompleks dasturlarni yaratish texnologiyasi
-====
-Dasturni oldindan rejalashtirishsiz ishlab chiqish
-
-+++++
- Boshlang’ich dasturlashni o’rganayotganlarga qaysi dastur tavsiya qilinadi - 
-====
-#Scratch
-====
-Star UML
-====
-Adobe After Effects
-====
-Coreldraw
-
-+++++
-
-ACM - Association for Computing Machinery - ?
-====
-#Hisoblash mashinalari uyushmasi.Kompyuter 
-texnologiyalari sohasidagi jahon ilmiy va ta’lim tashkiloti.U shuningdek, ta’lim standartlarini ishlab chiqish bilan mashhur.
-====
-Xalqaro standartlashtirish tashkiloti. Faoliyatning 
-deyarli barcha sohalarida, shu jumladan IT 
-sohasida standartlarni ishlab chiqadigan 
-eng vakillik va ta’sirchan tashkilot
-====
-Dasturiy ta’minot muhandisligi instituti - Dasturiy ta’minot muhandisligi instituti. Izlanishlardasturiy ta’minot muhandisligida, dasturiy ta’minotni baholash va yaxshilash usullarini ishlab chiqishga qaratilgan. Dasturiy ta’minot ishlab chiqaruvchi tashkilotlarning dasturiy ta’minot
-====
-Loyihalarni boshqarish instituti - Loyihalarni boshqarish xalqaro instituti (loyihalarni boshqarish). Turli mamlakatlarda loyihalarni boshqarishni 
-ilgari surish, ilgari surish, rivojlantirish uchun mo‘ljallangan notijorat tashkilot. PMI loyihalarni boshqarish standartlarini ishlab chiqadi, 
-mutaxassislarni uzluksiz o‘qitish bilan 
-shug‘ullanadi.
-
-+++++
-
-Activity nima?
-====
-#texnologiyalari sohasidagi jahon ilmiy va ta’lim tashkiloti.U shuningdek, ta’lim standartlarini ishlab chiqish bilan mashhur.
-====
-deyarli barcha sohalarida, shu jumladan IT
-====
-sifati va etukligi standartlari.
-====
-ilgari surish, ilgari surish, rivojlantirish uchun mo‘ljallangan notijorat tashkilot. PMI loyihalarni boshqarish standartlarini ishlab chiqadi,
-
-+++++
-
-Ada ilovasini ilk bor qaysi tizim tasdiqladi?
-====
-#NYu Ada / ED 
-====
-sohasida standartlarni ishlab chiqadigan
-====
-NYu ED 
-====
-mutaxassislarni uzluksiz o‘qitish bilan
-
-+++++
-
-Adaptatsiya
-====
-#tez-tez o’zgartirish imkoniyatlari 
-====
-eng vakillik va ta’sirchan tashkilot
-====
-texnika vositalari resursidan minimal sonidan foydalanish
-====
-shug‘ullanadi.
-
-+++++
-
-Alfa testlash 
-====
-#bunda foydalanuvchi dasuturiy ta’minotni ishlab chiqaruvchi jamoa bilan birga faoliyat olib borgan holda testlashni amalga oshiradi
-====
-bu dasturiy ta’minotni amaliyotga tadbiq qilish jarayonidagi testlashning so’nggi bosqichi bo’lib bunda asosiy e’tibor dasturning barcha mayda detallarini ham inobatga olgan holda testlash lozim bo’ladi
-====
- bunda dasturiy ta’minot qay tarzda ishlashini belgilab beruvchi hujjat - ssenariy talablari bajarilayotgani testlanadi
-====
-Ushbu testlash jarayoni dasturiy ta’minotni ishlab chiqaruvchilar jamoasidan tashqarida, uni amaliyotga tadbiq etish davridagi testlash jarayoni bo’lib hisoblanadi
-
-+++++
-
-Algoritm bu
-====
-#ma'lum turdagi masalalarni yechish uchun qo'llaniladigan amallar majmuasining muayyan tartibda berilishi
-====
-ShEXM da ishlatishga tayyor dasturlash tilida yoki obektli kodda yozilgan algoritm
-====
-dastur yaratishning usuli, metodlari va ko'nikmalaridir
-====
-biror dastur (asosiy dastur) boshqaruvi yordamida biror vazifani bajaruvchi dastur
-
-+++++
-
-Alpha animatsiya bu -
-====
-#ob’ektning shaffoflik darajasi o‘zgarishi
-====
-ob’ektning o‘lchami o‘zgargan holda bor yoki yo‘q bo‘lishi
-====
-ob’ektni bir joydan ikkinchi joyga harakatlanishi
-====
-ob’ektni burish
-
-+++++
-
-Arxitektura dizayni natijalari
-====
-#Jarayon modeli
-====
-Ma'muriy interfeys modeli
-====
-Mavzu modeli
-====
-Sinf modeli
-
-+++++
-
-Arxitektura dizayni natijalari quyidagicha namuna hisoblanadi
-====
-#Jarayonlar
-====
-Ma'muriy interfeys
-====
-Oqimlar
-====
-Komponentlar
-
-+++++
-
-Axborot bo’yicha bog’liqlik
-====
-#bunda ikki modul ham bir xil axborotni ishlatadi 
-====
-bunda birinchi modulning chiqish ma’lumotlar, ikkinchi modulga kirish ma’lumotlari bo’ladi
-====
-modulning hamma ob’ektlari bir xil funktsiyani bajarishi uchun mo’ljallangan
-====
-ikkita modul ham bitta protseduraga tegishli
-
-+++++
-
-Axborot texnologiyalari (AT) yechimi 
-====
-#yagona paket sifatida sotiladigan tegishli dasturiy ta'minot dasturlari va  yoki xizmatlar majmui
-====
-dastur mutaxassisi o‘zining haqiqiy qobiliyat darajasidan oshib ketmasligi va ushbu darajaga to‘g‘ri kelmaydigan ishlarni ongli ravishda bajarmasligi kerak.
-====
-mutaxassis boshqa birovning intellektual mulkidan foydalanganda intellektual mulkni himoya qilish qonunlari va tamoyillariga rioya qilishi kerak. Bundan tashqari, u ish beruvchining va mijozning intellektual mulkini himoya qilishi kerak.
-====
-) muayyan natijaga erishish uchun jarayonning maqsadiga maqsadga muvofiq ta'sir ko'rsatish imkoniyatini anglatadi.
-
-+++++
-
-Barcha dasturiy ta’minotlar uchun umumiy bo’lgan nechta asosiy faoliyat bor?
-====
-#4
-====
-5
-====
-3
-====
-6
-
-+++++
-
-Beta testlash 
-====
-#dasturiy ta’minotning ma’lum bir funksiyalari foydalanuvchilar testlashlari uchun ochiq bo’ladi va ular testlash jarayonini o’z kasbiy vazifalarini bajara turib amalga oshiradilar
-====
-bunda foydalanuvchi dasuturiy ta’minotni ishlab chiqaruvchi jamoa bilan birga faoliyat olib borgan holda testlashni amalga oshiradi
-====
-bu dasturiy ta’minotni amaliyotga tadbiq qilish jarayonidagi testlashning so’nggi bosqichi bo’lib bunda asosiy e’tibor dasturning barcha mayda detallarini ham inobatga olgan holda testlash lozim bo’ladi.
-====
-bunda dasturiy ta’minot qay tarzda ishlashini belgilab beruvchi hujjat - ssenariy talablari bajarilayotgani testlanadi
-
-+++++
-
-Birlashtirilgan CASElar nimalarni qamrab oladi?
-====
-#dasturiy ta’minotni yaratish talablarini tahlil qilishdan tortib hujjatlarni sinovdan o‘tkazishgacha bo‘lgan barcha bosqich va jarayonlarni 
-====
-faqat dasturiy ta’minotni yaratish talablarini tahlil qilish jarayonlarni 
-====
-faqat hujjatlarni sinovdan o‘tkazishgacha bo‘lgan barcha bosqich va jarayonlarni 
-====
-faqat talablarni tahlil qilish jarayonlarini 
-
-+++++
-
-Bitta kichik tizim yoki funktsiyaning yanada to’liq ishlab chiqilishi qaysi protetiyp?
-====
-#Dumaloq protetib  
-====
-Yangi protetib 
-====
-Mythical protetib 
-====
-To'la protetib
-
-+++++
-
-Biznes jarayonlar tasnifi quyidagi jarayonlar sinflarini o'z ichiga oladi
-====
-#Asosiy ish jarayonlari
-====
-- Biznes jarayonlarini qo'llab-quvvatlash
-====
-Qo'shimcha ish jarayonlari
-====
-biznesni tasdiqlash jarayonlari
-
-+++++
-
-Biznes jarayonlar tasnifi quyidagi sinflarni o'z ichiga oladi
-====
-#Boshqaruv
-====
-Uyg'unlashtirish
-====
-Qo'shimcha
-====
-Yordamchi
-
-+++++
-
-Biznes jarayonlarida jarayon sinflari quyidagilarga ajratiladi:
-====
-#Asosiy ish jarayonlari
-====
-Tizimli xatti-harakatlarning biznes jarayonlari
-====
-hal qiluvchi biznes-jarayonlar
-====
-tartibga solinadigan biznes jarayonlari
-
-+++++
-
-bu xossaga ko'ra algoritm aniq va tugallangan qadamlardan tashkil topgan bo'lishi kerak
-====
-#bu xossaga ko'ra masalaga tegishli algoritm faqat shu masalaga emas, balki shu turdagi barcha masalalarga mos kelishi kerak
-====
-algoritm shunday tuzilgan bo'lishikerakki, xar bir xarakati aniq ifodalangan bo'lib, ikki xil ma'noni ko'rsatmasligi lozim
-====
-ob'ektni subobyektlari bilan almashtirish qobiliyati. Ob'ekt o'zgaruvchining nafaqat ushbu obyektni, balki uning barcha subobjectlarini ham o'z ichiga olishi qobiliyati.
-====
-Oxirgi mahsulotning foydalanuvchi interfeysi ko'rinishini va tasvirini ko'rsatadigan hujjat. 
-
-+++++
-
-CASE nima?
-====
-#Avtomatlashtirilgan tizim muhandisligi - dasturlarni yaratish jarayonini qo‘llab-quvvatlash uchun ishlatiladigan turli xil asbob dasturlari
-====
-Avtomatlashtirilgan tizim muhandisligi -  turli xil asbob dasturlari
-====
-Avtomatlashtirilgan tizim muhandisligi - dasturlarni yaratish jarayonini qo‘llab-quvvatlash
-====
-Avtomatlashtirilgan tizim muhandisligi - dasturlarni yaratish jarayonini qo‘llab-quvvatlash uchun ishlatilmaydigan turli xil asbob dasturlari
-
-+++++
-
-CASE ning kengaytmasi to'g'ri berilgan qatorni toping.
-====
-#Computer-Aided Software Engineering
-====
-Computer-Aided Soften Engineering
-====
-Computer-Aided Software Engineering
-====
-Computer-Aid Software Engineering
-
-+++++
-
-CASE-mablag'lari quyidagi mezonlarga ko'ra tasniflanadi:
-====
-#Amaliy metodologiyalar va tizimlar va ma'lumotlar bazalarining modellariga muvofiq
-====
-ishlatilgan dasturga muvofiq
-====
-Dasturiy ta'minotning hayot aylanish bosqichlari bo'yicha
-====
-ishlab chiqilgan tizimning tafsilotlari va dekompozitsiyasi darajasi bo'yicha
-
-+++++
-
-Chiziqmli algoritm
-====
-#bunda algoritmni xar bir buyrug’i ketma-ket bir marta bajariladi
-====
-bunda algoritm buyruqlari bir martadan bajariladi, lekin berilgan shartga qarab navbatdagi buyruq bajarilish tartibi aniqlanadi
-====
-bunda buyruq parametrlariniqabul qilish qiymatiga qarab ketma-ket bir necha marta takrorlanib bajariladi
-====
-bu masalaning algoritmini tuzishda standart algoritmdan foydalanish
-
-+++++
-
-Component testing 
-====
-#ma’lum bir umumiy vazifani bajaruvchi bir nechta bo’limlardan tashkil topgan biror bir komponentani testlash
-====
-dasturiy ta’minotning alohida olingan bo’limlari(sinflar, usullar)ni testlash
-====
-dasturiy muhitni testlashdan, kompyuterni o’chirib yoqish
-====
-qo’shimcha drayverlarni o’chirib yoqish,  dasturiy muhitni testlashdan
-
-+++++
-
-C-talablarni tahlil qilish jarayonining tipik diagrammasi quyidagilarni o'z ichiga oladi
-====
-#C-talablarini tekshiring va ularni mijoz bilan muvofiqlashtirish
-====
-ishlab chiqilgan dasturiy ta'minotni mijozlar talablariga moslashtirish
-====
-C- talablarini tahlil qilish uchun harakatlar rejasini tuzish
-====
-ishlab chiqilgan dasturiy ta'minotni mijoz talablariga muvofiqligini tekshirish
-
-+++++
-
-Dastur bu
-====
-#ShEXM da ishlatishga tayyor dasturlash tilida yoki obektli kodda yozilgan algoritm 
-====
-ma’lum turdagi masalalarni yechish uchun qo’llaniladigan amallar majmuasining muayyan tartibda berilishi
-====
-dastur yaratishning usuli, metodlari va ko’nikmalaridir
-====
-biror dastur (asosiy dastur)  boshqaruvi yordamida biror vazifani bajaruvchi dastur
-
-+++++
-
-Dastur nimalardan tuzilgan?
-====
-#Dasturlar+ hujjatlar+ jarayonlarni bajarish
-====
-Instruksiyalarni o‘zgartirish+ jarayonlarni bajarish
-====
-Dasturlar+ qattiq qism ishlari
-====
-Dasturlarni o‘zgartirish
-
-+++++
-
-Dasturda hatolikni aniqlash tekshiruv jarayoni bu ...
-====
-#Inspektrlash
-====
-Otladka
-====
-Attestatsiya
-====
-Verifikatsiya
-
-+++++
-
-Dasturiy injinering atamasi nechonchi yili konferensiyada taklif qilingan?
-====
-#1968
-====
-1965
-====
-1960
-====
-1978
-
-+++++
-
-Dasturiy injiniring konteksti asosida nimalar tushuniladi
-====
-#Informatika, sistemotexnika, biznes-reinjiniring
-====
-Dasturiy ta’minot va xayotiy sikl
-====
-Tizimli, amaliy va uskunaviy DT
-====
-Talablar, personal va loyiha
-
-+++++
-
-Dasturiy injiniring nima?
-====
-#Dasturiy injiniring bu dasturiy mahsulotni ishlab chiqishning barcha qirralari bilan bog’liq muhandislik.
-====
-Veb dasturiy servislarni va yuqori taqsimlangan servisga asoslangan tizimlarni ishlab chiqishni olib kirdi.
-====
-Yaxshi dasturiy ta’minot talab qilingan funksionallikka ega, foydalanuvchiga qulay, ishonchli va davomiy bo’lishi lozim.
-====
-Kompyuter dasturlari va unga bog’liq hujjatlar. Dasturiy mahsulotlar olohida mijozlar uchun yoki umumiy bozor uchun ishlab chiqarilishi mumkin.
-
-+++++
-
-Dasturiy injiniring va tizim injiniring o’rtasida qanday farq bor? 
-====
-#Tizim injiniring bu apparat ta’minot, dasturiy ta’minot va jarayon injiniringni o’z ichiga oluvchi kompyuter asosli
-====
-Dasturiy injiniring bu dasturiy mahsulotni ishlab chiqishning barcha qirralari bilan bog’liq muhandislik.
-====
-Kompyuter dasturlari va unga bog’liq hujjatlar. Dasturiy mahsulotlar olohida mijozlar uchun yoki umumiy bozor uchun ishlab chiqarilishi mumkin. 
-====
-Yaxshi dasturiy ta’minot talab qilingan funksionallikka ega, foydalanuvchiga qulay, ishonchli va davomiy bo’lishi lozim.
-
-+++++
-
-Dasturiy injiniring va tizim injiniring o’rtasida qanday farq bor? 
-====
-#Tizim injiniring bu apparat ta’minot,
-====
-Kompyuter ilmi nazariya va tushunchalarga
-====
-Yaxshi dasturiy ta’minot talab
-====
-Dasturiy injiniring bu dasturiy
-
-+++++
-
-Dasturiy injiniringni narxi qancha? 
-====
-#Taxminan 60% xarajatlar ishlab chiqarish uchun va 40% xarajatlar testlash uchun sarf bo’ladi. 
-====
-Taxminan 50% xarajatlar ishlab chiqarish uchun va 30% xarajatlar testlash uchun sarf bo’ladi.
-====
-Taxminan 60% xarajatlar ishlab chiqarish uchun va 50% xarajatlar testlash uchun sarf bo’ladi.
-====
-Taxminan 70% xarajatlar ishlab chiqarish uchun va 50% xarajatlar testlash uchun sarf bo’ladi.
-
-+++++
-
-Dasturiy ta ’minotni amaliyotga tadbiq etish jarayonidagi teslash(release testing) 
-====
-#Ushbu testlash jarayoni dasturiy ta’minotni ishlab chiqaruvchilar jamoasidan tashqarida, uni amaliyotga tadbiq etish davridagi testlash jarayoni bo’lib hisoblanadi
-====
- ba’zi yoki barcha komonentalarni o’z ichiga olgan butun bir tizimni yaxlit holda testlash jarayoni. Bunda testlash butun bir tizimga qaratilgan bo’ladi
-====
-ma’lum bir umumiy vazifani bajaruvchi bir nechta bo’limlardan tashkil topgan biror bir komponentani testlash
-====
-dasturiy ta’minotning alohida olingan bo’limlari(sinflar, usullar)ni testlash
-
-+++++
-
-Dasturiy ta’minot jarayoni modellari keltirilgan varintni ko‘rsating
-====
-#SHarshara, ortib borish, qaytib foydalanishga mo‘ljallangan
-====
-Pastlovchi va yuqorilovchi
-====
-To‘g‘ri va teskari
-====
-Ekstremal, ananaviy, murrakab
-
-+++++
-
-Dasturiy ta’minot muhandisligi usuliga to'g'ri berilgan ta'rifni belgilang.
-====
-#bu yuqori sifatli mahsulotni iqtisodiy jihatdan samarali ravishda ishlab chiqarishni rag‘batlantiradigan dasturiy ta’minotni yaratishga tarkibiy yondashuv
-====
-faqat ishlab chiqarishni rag‘batlantiradigan dasturiy ta’minotni yaratishga tarkibiy yondashuv
-====
-bu past sifatli mahsulotni iqtisodiy jihatdan samarali ravishda ishlab chiqarishni rag‘batlantiradigan dasturiy ta’minotni yaratishga tarkibiy yondashuv
-====
-bu yuqori sifatli mahsulotni iqtisodiy jihatdan samarali ravishda ishlab chiqarishni rag‘batlantirmaydigan dasturiy ta’minotni yaratishga tarkibiy yondashuv
-
-+++++
-
-Dasturiy ta’minotning xarajatlar tarkibi nimalarga bog'liq?
-====
-#dasturiy ta’minot turiga, uni ishlab chiqish uchun ishlatiladigan usullarga va baholash usuliga 
-====
-faqat dasturiy ta’minot turiga, baholash usuliga 
-====
-faqat uni ishlab chiqish uchun ishlatiladigan usullarga va ... baholash usuliga 
-====
-faqat usullarga  
-
-+++++
-
-Dasturiy ta'minot sinflarga bo'linadi
-====
-#Tizimli dastur, dasturiy ta'minot va dasturiy ta'minotni ishlab chiqish vositalari
-====
-tizimli dasturlar va amaliy dasturlar
-====
-Operatsion tizimlar, amaliy dasturlar, yordamchi dasturlar va drayverlar
-====
-dasturiy ta'minot va dasturiy ta'minotni ishlab chiqish vositalari
-
-+++++
-
-Dasturiy ta'minot tizimiga talablar tasnifi quyidagilarni o'z ichiga oladi
-====
-#Funktsional talablar
-====
-mijozning talablari
-====
-- ishlab chiqilgan dasturiy ta'minotni mijozlar talablariga moslashtirish
-====
-Foydalanish shartlari tomonidan qo'yiladigan talablar
-
-+++++
-
-Dasturiy ta'minot tizimini tasniflash talablari quyidagilarni o'z ichiga oladi
-====
-#Funktsional bo'lmagan talablar
-====
-Iqtisodiy talablar
-====
-Dasturchilarga qo'yiladigan talablar
-====
-Uskuna talablari
-
-+++++
-
-Dasturiy ta'minot tizimining oxirgi foydalanuvchilarining murojaat nuqtalarini quyidagicha izohlash mumkin
-====
-#Tizim ma'lumotlari manbai
-====
-Talablarning tarkibi
-====
-Hodisalar manbai
-====
-Skriptlar manbai
-
-+++++
-
-Dasturiy ta'minotni ishlab chiqarish uchun qo'shimcha qurilmalar
-====
-#Yangi dasturiy ta'minotni ishlab chiqishga mo'ljallangan hisoblash kompleksining tashqi qismlari, mikroprotsessor
-====
-past darajadagi dasturlash tillarida yozilgan dastur
-====
-Boshqa dastur yoki tizim dasturlarini ishlab chiqish, sozlash yoki ishlab chiqish jarayonida foydalaniladigan dasturlar
-====
-Boshqa dastur yoki tizim dasturlarini sozlash va sinash uchun ishlatiladigan dasturlar
-
-+++++
-
-Dasturiy ta'minotni ishlab chiqish jarayoni qanday ishlarni o'z ichiga oladi
-====
-#Foydalanishga topshirish, qabul qilish
-====
-jarayonlar, ishlar, vazifalar tarkibi
-====
-Menejment, infratuzilmani rivojlantirish
-====
-Hujjatlar, konfiguratsiyani boshqarish
-
-+++++
-
-Dasturiy ta'minotni ishlab chiqish jarayoniga quyidagilar kiradi
-====
-#Talablarni tahlil qilish, dizayn
-====
-Hujjatlar, konfiguratsiyani boshqarish
-====
-Menejment, infratuzilma
-====
-Jarayonlar, ish, vazifalar tarkibi
-
-+++++
-
-Dasturiy ta'minotni ishlab chiqish tamoyillari
-====
-#Shaxsiy rivojlanish jarayoni
-====
-kollektiv rivojlanish jarayoni
-====
-Parallel rivojlanish jarayoni
-====
-Jarayonlar mavjudligi modeli
-
-+++++
-
-Dasturiy ta'minotni ishlab chiqish texnologiyasini ishlab chiqish bosqichlari quyidagilarni o'z ichiga oladi
-====
-#"Protsessual" dasturlash
-====
-Mashinaga yo'naltirilgan dasturlash
-====
-Mashinadan mustaqil dasturlash
-====
-Izlashga asoslangan dasturiy ta'minotni ishlab chiqish
-
-+++++
-
-Dasturiy ta'minotni ishlab chiqish vositalari:
-====
-#Yangi dasturlarni yaratish uchun vositalar
-====
-Dasturiy ta'minotni ishlab chiqish vositalari
-====
-analitik dasturiy ta'minotni ishlab chiqish vositalari
-====
-Dasturlarni tuzatish uchun vositalar
-
-+++++
-
-Dasturiy tizim ishonchligini aniqlashda qanday atamalar va nechta ishlatiladi
-====
-#4 (Ishlovchanlik, Rad etmaslik (Inkorlilik), Havfsizlik, Himoyalanganlik)
-====
-3 (Rad etmaslik (Inkorlilik), Havfsizlik, Himoyalanganganlik)
-====
-3 (Ishlovchanlik, Havfsizlik, Himoyalanganlik)
-====
-2 (Ishlovchanlik, Havfsizlik)
-
-+++++
-
-Dasturiy tizimni tizimli talablarni tekshirish va shakllantirish qaysi prototiplashtirish usulining maqsadi deb belgilangan
-====
-#Tajribaviy
-====
-Evolyusion
-====
-Tezkor
-====
-Barcha usullarning
-
-+++++
-
-Dasturiy tizimni yakuniy foydalanuvchiga etkazish qaysi prototiplashtirish usulining maqsadi deb belgilangan
-====
-#Evolyusion
-====
-Tajribaviy
-====
-Tezkor
-====
-Barcha usullarning
-
-+++++
-
-Dasturlarni yaratish va ularni taxlash usullari va yo’llari uchun kerakli metodlar sistemasiga
-====
-#Dasturlash texnologiyasi deyiladi
-====
-Amaliy dasturlar paketi deyiladi
-====
-Ma’lumot bazasini yaratish texnologiyasi deyiladi
-====
-Kasbiy grafika paketi deyiladi
-
-+++++
-
-Dasturlash tillarining qaysi birlari ob’ektga yo‘naltirilgan hisoblanadi
-====
-#Java, C++
-====
-PHP, HTML
-====
-Pascal, Basic
-====
-JavaScript, Delphi
-
-+++++
-
-Dasturiy ta’minot nima?
-====
-#Kompyuter dasturlari va unga bog’liq hujjatlar. Dasturiy mahsulotlar olohida mijozlar uchun yoki umumiy bozor uchun ishlab chiqarilishi mumkin.
-====
-Yaxshi dasturiy ta’minot talab qilingan funksionallikka ega, foydalanuvchiga qulay, ishonchli va davomiy bo’lishi lozim.
-====
-Dasturiy injiniring bu dasturiy mahsulotni ishlab chiqishning barcha qirralari bilan bog’liq muhandislik. 
-====
-Tizim injiniring bu apparat ta’minot, dasturiy ta’minot va jarayon injiniringni o’z ichiga oluvchi kompyuter asosli 
-
-+++++
-
-Dasturiy ta’minot prototipi nima?
-====
-#Ishlab chiqilayotgan dasturiy ta’minotning to’liq bo’lmagan versiyalari.
-====
-Ishlab chiqilayotgan dasturiy ta’minotning to’liq bo’lgan versiyalari.
-====
-Dasturiy taminotning bir qismi
-====
-T.j.y
-
-+++++
-
-Dasturiy ta’minot tizimi talablari qanday sinflarga ajratiladi
-====
-#Funksional va funksional bo‘lmagan talablar
-====
-Dasturiy va apparatli talablar
-====
-CHeklovli va cheksiz talablar
-====
-YAngi va eski talablar
-
-+++++
-
-Dasturiy ta’minotni yashash tsiklining oraliq nazorat modeli
-====
-#Bu model asosida iteratsiya usuli qo’yilgan, ya’ni har bir bosqichdan xoxlagan boskichga kaytish mumkin
-====
-Bu model bo’yicha xar bir keyingi bosqichga o’tish faqatgina oldingi bosqich to’la tugallangandan so’ng boshlanadi
-====
-Bu model asosida prototipirovanie usuli ko’yilgan
-====
-Bu model asosida sistemali taxlil, dasturiy maxsulotni liyihalash, dasturiy maxsulotni baholash va ishlatish
-
-+++++
-
-Dasturiy ta’minotni yashash tsiklining spiralli modeli
-====
-#Bu model asosida prototipirovanie usuli ko’yilgan 
-====
-Bu model asosida iteratsiya usuli qo’yilgan, ya’ni har bir bosqichdan xoxlagan boskichga kaytish mumkin
-====
-Bu model bo’yicha xar bir keyingi bosqichga o’tish faqatgina oldingi bosqich to’la tugallangandan so’ng boshlanadi
-====
-Bu model asosida sistemali taxlil, dasturiy maxsulotni liyihalash, dasturiy maxsulotni baholash va ishlatish
-
-+++++
-
-Dasturiy ta'minot muhandisligi
-====
-#dasturiy ta'minot muhandisligi
-====
-Dastur yaratish vositalari
-====
-Kompyuterlar uchun dasturiy ta'minot ishlab chiqaradigan dastur muhandislari jamoasi
-====
-Mashinasozlik sanoatida dasturiy ta'minot
-
-+++++
-
-Davlat diagrammasida quyidagilar aks etadi
-====
-#Davlat mashinasi
-====
-Aktyorlar va ular o'rtasidagi munosabatlar
-====
-Operatsiyalarni boshqarish
-====
-Voqealarni vaqtincha tartiblashtirish
-
-+++++
-
-Defektlarni aniqlash va ularni bartaraf etish bu ...
-====
-#Otladka
-====
-Attestatsiya
-====
-Inspektrlash
-====
-Verifikatsiya
-
-+++++
-
-DFD quyidagicha ta'riflaydi:
-====
-#Tashqi havolalar, hujjatlarni saqlash jadvallari (ma'lumotlar ombori, ma'lumotlar ombori 
-====
-Tashqi havolani qayta ishlash funktsiyalari
-====
-Hujjatlarni qayta ishlash funktsiyalari
-====
-tashqi o'qlarni qayta ishlashga jalb qilingan hujjatlar (o'qlar, o'qlar), ob'ektlar, xodimlar yoki bo'limlar
-
-+++++
-
-Dizayn texnologiyasi tarkibiy qismlarning kombinatsiyasi sifatida aniqlanadi
-====
-#mezon va qoidalar
-====
-mavhumlik
-====
-Pretsedentlar
-====
-Modellalar va qoidalar
-
-+++++
-
-DT o‘zarokelishuvchanlik jihati qanday nomlanadi
-====
-#Kompromiss
-====
-Meyyor
-====
-Standart
-====
-Qoida
-
-+++++
-
-DTni yaratish vositalari va muhandislik usullar to‘plami
-====
-#Dasturiy injiniring (software engineering)
-====
-Informatika (computer science)
-====
-Sistemotexnika (system engineering)
-====
-Biznes-reinjiniring (business reengineering)
-
-+++++
-
-Effektivlik
-====
-#texnika vositalari resursidan minimal sonidan foydalanish 
-====
-xar xil turdagi ma’lumotlar kiritilganda dastur to’g’ri ishlash extimolligi
-====
-dasturiy maxsulotni xar xil EXMlar bilan birgalikda ishlash imkoniyati
-====
-tez-tez o’zgartirish imkoniyatlari
-
-+++++
-
-ERWin diagrammasi bloklardan tashkil topgan
-====
-#Ob’ekt
-====
-sinf
-====
-Aloqalar
-====
-Komponentlar
-
-+++++
-
-ERWin grafikalarni ko'rsatish darajalariga ega
-====
-#Belgi darajasi
-====
-Ta’rif darajasi
-====
-O'zaro ta'sir darajasi
-====
-Xususiyat darajasi
-
-+++++
-
-ERwin jadvalining asosiy tarkibiy qismlari quyidagilardan iborat:
-====
-#Atributlar
-====
-Sinflar
-====
-Birlashish
-====
-Filiallar
-
-+++++
-
-. Dizayn texnologiyasi tarkibiy qismlarning kombinatsiyasi sifatida aniqlanadi
-====
-#Bosqichma-bosqich protsedura
-====
-bosqichma-bosqich protsedura
-====
-Modellar va qoidalar
-====
-Sinflar
-
-+++++
-
-. Foydalanuvchi tomonidan testlash(user testing)
-====
-#Bunda foydalanuvchi yoki iste’molchi dasturiy mahsulotdan foydalanish davomida yuzaga kelgan muammolar bo’yicha o’z fikr va maslahatlari bergan holda testlash jarayonini amalga oshiradi. 
-====
-bu dasturiy ta’minotni amaliyotga tadbiq qilish jarayonidagi testlashning so’nggi bosqichi bo’lib bunda asosiy e’tibor dasturning barcha mayda detallarini ham inobatga olgan holda testlash lozim bo’ladi.
-====
-bunda dasturiy ta’minot qay tarzda ishlashini belgilab beruvchi hujjat - ssenariy talablari bajarilayotgani testlanadi
-====
-Ushbu testlash jarayoni dasturiy ta’minotni ishlab chiqaruvchilar jamoasidan tashqarida, uni amaliyotga tadbiq etish davridagi testlash jarayoni bo’lib hisoblanadi
-
-+++++
-
-ishlab chiqish vositalari
-====
-#Funktsiyalar va ma'lumotlarni sharhlash
-====
-Rivojlanishning ko'rinishi va sinovliligi
-====
-Ishonchlilik, barqarorlik
-====
-Xavfsizlik
-
-+++++
-
-. Ratsionalizatsiya qilingan birlashtirilgan jarayon (RUP) doirasida dasturlarni ishlab chiqish bo'yicha tadbirlar majmuasi quyidagilarni o'z ichiga oladi
-====
-#Talablarni aniqlash
-====
-Biznes modellarini yaratish
-====
-mijoz bilan talablarni muvofiqlashtirish
-====
-loyiha narxini muvofiqlashtirish
-
-+++++
-
-. UML kengaytirish mexanizmlari quyidagilarni o'z ichiga oladi
-====
-#Stereotiplar
-====
-. UML kengaytirish mexanizmlari quyidagilarni o'z ichiga oladi
-====
-qo'shimchalar
-====
-Menejment
-
-+++++
-
-“Dasturiy injiniring” atamasi nechanchi yil  taklif qilingan?
-====
-#1968
-====
-1958
-====
-1965
-====
-1958
-
-+++++
-
-“Dasturiy injiniring” atamasi nechanchi yil  taklif qilingan?
-====
-#1968
-====
-1958
-====
-1965
-====
-1958
+?Loyihalash jarayonini davom ettirish yoki tugatish to'g'risida qaror qabul qilish uchun zarur va etarli bo'lgan loyiha ob'ektining oraliq yoki yakuniy tavsifi - bu
++loyiha yechimi
+-loyiha algoritmi
+-loyiha tili
+-loyiha jarayoni
+
+?Loyihani amalga oshirish uchun zarur bo'lgan qoidalar to'plami - bu
++loyiha algoritmi
+-loyiha yechimi
+-loyiha tili
+-loyiha jarayoni
+
+?Loyiha tavsiflarini ifodalash va o'zgartirish uchun mo'ljallangan til - bu
++loyiha tili
+-loyiha yechimi
+-loyiha algoritmi
+-loyiha jarayoni
+
+?Hali mavjud bo'lmagan ob'ektni yaratish uchun zarur bo'lgan tavsifni tuzish jarayoni qanday nomlanadi?
++loyihalash
+-texnologiya
+-metodologiyasi
+-tahlil
+
+?Loyiha protsedurasining bir qismi bo'lgan harakat yoki harakatlar to'plami - bu
++Loyihaning ishlashi 
+-loyiha algoritmi
+-loyiha tili
+-loyiha jarayoni
+
+?Algoritm- tizimning qat'iy va aniq qoidalari. Qoidani to'g'ri ketma-ketlikda joylashtiring: I.Algoritmni ishlab chiqish; II.Dasturni tekshirish, mumkin bo'lgan xatolarni aniqlash, xatolarni bartaraf etish; III.Modelni qurish, masalani yechish usulini tanlash; IV.Masalaning qo’yilishi; V.Tahlil qilish; VI.Algoritmni amalga oshirish;
++IV, III, I, VI, II, V
+-III, V, II, I, IV, VI
+-II, IV, III, VI, I, V
+-I, II, III, IV, V, VI
+
+?Algoritmning qanday xususiyatlari bor:
++Barcha javoblar to'g'ri
+-To'g'rilik
+-Samaradorlik va oson amalga oshirish
+-Natijani yaxshilash maqsadida dastlabki algoritmni o'zgartirish
+
+?Algoritm tahlilining asosiy maqsadi:
++kirish ma'lumotlari hajmini oshirish uchun resurslarga bo'lgan talablarni o'lchash masshtabini aniqlash.
+-masshtablarni aniqlash
+-to'g'ri javob yo'q
+-resurslarga bo'lgan talablarni ko'paytirish masshtablarini aniqlash
+
+?“O(f(n))- algoritmning murakkabligi " qanday ma'noni anglatadi?
++Algoritmning kirish ma'lumotlari miqdorini tavsiflovchi parametrning oshishi bilan ishlash vaqti n uchun f(n) dan tezroq o'smaydi. 
+-algoritmning kirish ma'lumotlari parametri miqdorini tavsiflashning ortishi bilan ishlash vaqti o'zgarmaydi 
+-algoritmning kirish ma'lumotlari miqdorini tavsiflovchi parametrning oshishi bilan ishlash vaqti n uchun f(n)dan ancha tezroq oshadi.
+-to'g'ri javob yo'q
+
+?Go’rner sxemasi - bu
++f (x) ko'phadning qiymatini x  x0 ma'lum qiymatida ko'phadni birhadlarga (birinchi darajali ko'phadlarga) bo'lish orqali hisoblashni soddalashtirish algoritmi.
+-ko’phadni ko'paytirish algoritmi, murakkablik qiymati f (x) ko'phadni ma'lum bir qiymatda x0  x ko'phadni birhadlarga (birinchi darajali ko'phadlarga) bo'lish orqali hisoblash.
+-x  x0 ning ma'lum bir qiymatida f (x) ko'phadning qiymatini hisoblashni soddalashtirish algoritmi.
+-To'g'ri javob yo'q
+
+Chiziqli algoritm - bu
++algoritm shakllangan buyruqlarbir marta va aniq qayd etilgan ketma-ketlikda bajariladi
+-algoritm alohida buyruqlardan iborat bo'lib, ularning har biri chekli sonli bosqichlarda bajariladi.
+-belgilangan sonni takrorlash yoki oldindan belgilangan holatdan qoniqish kerak bo'lgan harakatlar tavsifi.
+-algoritmning bir nechta parallel tarmoqlariga bo'linishi mumkin bo'lgan tekshirishlar natijasida kamida bitta shartni o'z ichiga olgan algoritm
+
+?Qanday qilib dasturni chiziqli strukturaga aylantirish mumkin? Qanday qilishni tasvirlab bering: I.chiqish va kirish ma'lumotlari qanday matematik formulalar bilan bog'liqligini aniqlash; II.asl ma'lumotlarga nima tegishli ekanligini, shuningdek, ushbu ma'lumotlarning qaysi turi / sinfini aniqlash, o'zgaruvchilar nomlarini tanlash; III.Yakuniy algoritmni yozish, Algoritm ma'lumotlarni kiritish, hisoblash, natijalarni ko'rsatishni o'z ichiga olishi kerak; IV.qaysi turdagi ma'lumotlar kerakli natijaga ega bo'lishini aniqlash uchun o'zgaruvchi (lar) nomini tanlang; V.agar kerak bo'lsa, oraliq ma'lumotlarning mavjudligi, ma'lumotlar sinfini / turini aniqlang va nomlarni tanlang; VI.ishlatiladigan barcha o'zgaruvchilarni tavsiflash;
++II, IV, I, V, VI, III
+-I, IV, V, VI, II, III
+-III, V, VI, IV, I, II
+-II, IV, I, VI, V, III
+
+?To'rtburchaklar usuli - bu
++Bitta o'zgaruvchining funktsiyalarini sonli integrallash usuli - bu integralni har bir elementar oraliqda doimiy bo'lgan nol darajali polinom bilan almashtirishdir.
+-Boshlang’ich funktsiyalarni topish va uning ustidagi integralni hisoblash imkoni -bo'lmagan hollarda foydali bo'lgan taqribiy integrallash.
+-a, b va m  (a + b) / 2 - parabola p (x) interpolyatsiya tugunlari bilan f(x) ikkinchi -darajali funktsiyaning interpolyatsiya polinomini integrallash usuli.
+-to'g'ri javob yo'q
+
+?Trapesiya usuli - bu
++Boshlang’ich funktsiyalarni topish va uning ustidagi integralni hisoblash imkoni bo'lmagan hollarda foydali bo'lgan taqribiy integrallash.
+-Bitta o'zgaruvchining funktsiyalarini sonli integrallash usuli - bu integrallash har bir elementar oraliqda doimiy bo'lgan nol darajali polinom bilan almashtirishdir.
+-a, b va m  (a + b) / 2 - parabola p (x) interpolyatsiya tugunlari bilan f (x) ikkinchi darajali funktsiyaning interpolyatsiya polinomini integrallash usuli.
+-to'g'ri javob yo'q
+
+?Simpson usuli (parabolalar) - bu
++a, b va m  (a + b) / 2 - parabola p(x) interpolyatsiya tugunlari bilan f(x) ikkinchi darajali funktsiyaning interpolyatsiya polinomini integrallash usuli.
+-Boshlang’ich funktsiyalarni topish va uning ustidagi integralni hisoblash imkoni bo'lmagan hollarda foydali bo'lgan taqribiy integrallash.
+-Bitta o'zgaruvchining funktsiyalarini sonli integrallash usuli - bu integratsiyani har bir elementar oraliqda doimiy bo'lgan nol darajali polinom bilan almashtirishdir.
+-to'g'ri javob yo'q
+
+?Qanday tenglama transsendent deyiladi?
++Trigonometrik yoki eksponensial funktsiyalarni o'z ichiga oladi
+-Ildizga ega bo’lmagan tenglama
+-Irratsional ildizga ega tenglama
+-Ildizlari natural son bo’lgan tenglama
+
+?Transendent  tenglama sin(mx-10) + sin((m-1) -10) + ... + sin (10)  0 ...... bor
++cheksiz sonli ildizlari
+-m dan ortiq ildizi
+-m ta ildizi
+-m-1 ta ildizi
+
+?Agar tenglama faqat algebraik funktsiyalarni o'z ichiga olsa, u holda tenglama ... deyiladi.
++algebraik
+-transsendent
+-trigonometrik
+-chiziqli
+
+?Ko‘rsatkichli, logarifmik, trigonometrik va teskari trigonometrik funksiyalar nima deyiladi?
++transsendent
+-algebraik
+-trigonometrik
+-chiziqli
+
+?Agar f(x) funksiya m darajali ko‘phad ko‘rinishiga ega bo‘lsa, f(x)0 chiziqli bo‘lmagan tenglama uchun maksimal ildizlar soni qancha bo‘lishi mumkin?
++m
+-bitta
+-m-1
+-cheksiz to'plam
+
+?f (x)  0 tenglamaning ildizlarini oldindan belgilangan aniqlik darajasida izlash uchun qanday usullardan foydalaniladi?
++Masalalarni yechishning sonli (taqribiy) usullar
+Masalalarni yechishning universal usullari
+Masalalarni yechishning aniq usullari
+Masalalarni yechishning algebraik usullari
+
+?Oddiy iteratsiya usuli qanday usul hisoblanadi?
++yaqinlashish usuli
+-Oraliqni to'rt qismga bo'lish usuli
+-parallel yaqinlashish usuli
+-oraliqni olti qismga bo'lish usuli
+
+?Ro’p marta takrorlash orqali ma'lum bir aniqlik bilan tizimning ildizlarini olishga imkon beruvchi usul ... deyiladi
++iterativ usul
+-aniq usul
+-taxminiy usul
+-Zeydel usuli
+
+?Bisektsiya usuli yana qanday nomlanadi?
++Oraliqni ikkiga bo’lish usuli
+-Xordar usuli
+-Proportsional qismlar usuli
+-"Dastlabki segment" usuli
+
+?Xord usuli ... hisoblanadi
++iteratsiya usulining alohida holati
+-kvadrat ildizlar usulining alohida holati
+-Gauss usulining alohida holati
+-progonka usulining alohida holati
+
+?Chiziqsiz tenglamani Nyuton usulida yechishda qanday qiymatlar aniqlangan bo’lishi kerak?
++boshlang’ich qiymat va aniqlik
+-faqat bitta yechim va aniqlik mavjud bo'lgan interval
+-faqat ikkita yechim va aniqlik mavjud bo'lgan interval
+-funktsiya, argument va aniqlik
+
+?Nyuton usuli
++o'z-o'zini tuzatish xususiyatiga ega va yuqori aniqlikka ega
+bu o'z vaqtida katta aniqlikda ishlaydi
+bu juda uzoq vaqt talab etadi
+juda oddiy
+
+?Matematik dasturlash nimani o’rganadi?
++Matematik jihatdan ko'p o'zgaruvchili funksiyaning maksimal (minimal) 
+qiymatini topish masalasi sifatida shakllantirilishi mumkin bo'lgan qarorlar qabul qilish masalalarini o'rganish
+-matematik tarzda shakllantirish mumkin bo'lmagan qarorlar qabul qilish masalalarini o'rganish
+-matematik shakllantirilishi mumkin bo'lgan qarorlar masalalarini o'rganish
+-barcha javoblar to'g'ri
+
+?Masalani chiziqli dasturlash masalasi sifatida shakllantirish qanday bosqichlarni o‘z ichiga oladi:
++barcha javoblar to'g'ri.
+-masalani tushunish, masalaning tavsifiy modelini yaratish;
+-samaradorlik o'lchovini asosiy o'zgaruvchilarga nisbatan chiziqli funktsiya sifatida kiritish;
+-asosiy o'zgaruvchilar bo'yicha chiziqli tenglamalar yoki tengsizliklar sifatida barcha shartlarni aniqlash va taqdim etish;
+
+?Chiziqli dasturlash masalasi uchun asosiy matematik taxminlarni sanab o'ting
++Barcha javoblar to'g'ri
+-aniqlik va chiziqlilik
+-proportsionallik
+-qo'shimcha va bo'linuvchanlik
+
+?Maqsad funksiyasi maksimal qiymati izlanadigan va masalaning tizimli shartlari tenglamalar sistemasi bo'lgan chiziqli dasturlash masalasining modeli qanday ataladi?
++Kanonik
+-Standart
+-Asosiy
+-General
+
+?Transport masalasi qanday masalaga tegishli?:
++chiziqli dasturlash
+-tizimli dasturlash
+-chiziqli bo'lmagan dasturlash
+-dinamik dasturlash
+
+?Umumiy chiziqli dasturlash masalasini yechishda qanday analitik usuldan foydalaniladi?
++simpleks usuli
+-chiziqli algebra usullari
+-Gauss usuli
+-iteratsiya usuli
+
+?Simpleks usul algoritmi quyidagilarni o'z ichiga oladi:
++Barcha javoblar to'g'ri.
+-Chiziqli dasturlash masalasini kanonik shaklga keltirish. 
+-manfiy (musbat) koeffitsientli chiziqli shaklga kiritilgan asosiy bo'lmagan o'zgaruvchilardan eng katta (modul) koeffitsientga mos keladiganini tanlash va uni asosiylariga o'tkazish.
+-Hosil boʻlgan sistemada m ta tenglama mavjud boʻlsa, u holda m oʻzgaruvchini bazis sifatida qabul qilish, asosiy oʻzgaruvchilarni noasosiylar bilan ifodalab, mos keladigan asosiy yechimni topish
+
+?Simpleks algoritmi - bu
++Chiziqli dasturlash masalasining shartlar tizimining bir asosiy yechimidan  maqsad funksiyasi optimal qiymatni (maksimal yoki minimal) olguncha boshqa asosiy yechimga ketma-ket oʻtish usuli.
+-Usul cheksiz jarayonlarni birlashtirish orqali berilgan aniqlik bilan tizimning ildizlarini olish imkonini beradi
+-Integrallanuvchi funktsiyalarni topish va uning ustidagi integralni hisoblash imkoni bo'lmagan hollarda foydali bo'lgan taqribiy integrallash.
+-to'g'ri javob yo'q
+
+?Chiziqli dasturlash masalasini yechish uchun rejani ketma-ket takomillashtirish usuli qanday nomlanadi?
++simpleks usuli
+-chiziqli algebra usullari
+-Gauss usuli
+-iteratsiya usuli
+
+?Qiymatini minimallashtirish yoki maksimallashtirish uchun chiziqli dasturlash funksiyasi qanday nomlanadi?
++maqsad funksiyasi
+-asosiy funksiyasi
+-chiziqli funksiya
+-berilgan funksiya
+
+?O’ziga–o’zi murojaat qiladigan algoritmlar qanday nomlanadi
++rekkurent algoritmlar deb ataladi
+-ichma-ich joylashgan siklik algoritmlar
+-chiziqli algoritmlar
+-tarmoqlanuvchi algoritmlar
+
+?Iqtisodiy tahlilda chiziqli dasturlash qanday qo'llaniladi?
++ishlab chiqarishda qo'llaniladigan resurslarga nisbatan qo'llaniladigan aniq shartlar ostida eng to'g'ri iqtisodiy echimlarni asoslash imkonini beradi.
+-eng to'g'ri iqtisodiy echimlarni asoslash imkonini beradi
+-ishlab chiqarishda resurslardan foydalanishni nazarda tutuvchi shartlarsiz maqbul iqtisodiy qarorlarni isbotlash imkonini beradi
+-to'g'ri javob yo'q
+
+?Chiziqli dasturlash qachon qo'llaniladi?
++muayyan shartlar mavjud bo'lganda o'zgaruvchilarni tahlil qilishda
+-o'zgaruvchilari bo'lgan tenglamalarni shartsiz yechishda
+-o'zgaruvchilar tahlili
+-o'zgaruvchilari bo'lgan tenglamalarni yechishda
+
+?Ikki tomonlama masala - bu
++To'g'ridan-to'g'ri dastlabki masalaning shartlaridan ma'lum qoidalardan foydalangan holda tuzilgan yordamchi chiziqli dasturlash masalasi
+-to'g'ridan-to'g'ri chiziqli dasturlash masalasi deb ham ataladi
+-ikki tomonlama masala uchun maxsus tanlangan shartlardan to'g'ridan-to'g'ri ma'lum qoidalardan foydalangan holda tuzilgan yordamchi ChD masalasi
+-to'g'ri javoblar yo'q
+
+?Geometrik masalalarni yechishning algoritmlarini o'rganadigan diskret matematika bo’limi qanday nomlanadi?
++Hisoblash geometriyasi
+-Analitik geometriya
+-Tasviriy geometriya
+-Fazoviy geometriya
+
+?Agar vektor null bo'lsa ...  deyiladi
++vektorning boshlanishi va oxiri mos keladi
+-vektorning boshi va oxiri bir-biriga mos kelmaydi
+-vektorning boshlanishi va oxiri nolga teng
+-vektorning boshi va oxiri farq qiladi
+
+?Rekursiyada yechimni olish vaqtida o’z-o’ziga murojaatni talab etmaydigan holatlar nima deb atatladi?
++Rekursiya bazisi
+-Parametrni aniqlash
+-Dekompozitsiya
+-Rekursiv funksiya
+
+?Regressiyaga bog'liqliklarni tiklashning ko'plab masalalarini hal qilishda keng qo'llaniladigan usullardan biri qanday nomlanadi?
++eng kichik kvadrat usuli
+-ildiz ajratish
+-Simpson usuli
+-to'liq qidiruv
+
+?Bir yoki bir nechta mustaqil o'zgaruvchilar X (regressor)ning Y o'zgaruvchiga bog’liqlik ta'sirini o'rganish uchun statistik usullar to'plami qanday nomlanadi?
++regressiya tahlili
+-eng kichik kvadrat usuli
+-Simpson usuli
+-to'liq qidiruv
+
+?... barcha mumkin bo'lgan variantlarni sanab o'tish orqali masalani hal qilish usuli.
++to’la tanlash
+-ochko'z algoritm
+-taxminiy usul
+-ikkiga bo’lish
+
+?Algoritmlar maxsus geometrik figuralar yordamida tasvirlanishi nima deyiladi?
++Blok sxema
+-Dastur kodi
+-Diagramma
+-So’zli algoritm
+
+?Agar natija ustunining simpleks jadvalida musbat qiymatlar bo'lmasa, demak ...
++Masalaning maqsad funktsiyasi cheklanmagan
+-optimal rejani topildi
+-Mumkin bo’lgan rejalar oralig'i bo'sh
+-barcha javoblar to'g'ri
+
+?Qaysi masalani matritsa shaklida yozilishi mumkin ...
++standart yoki kanonik shaklga berilgan chiziqli dasturlash masalasi
+-faqat chiziqli dasturlash masalasi
+-aralash shaklda dasturlashda chiziqli vazifa
+-to'g'ri javob yo'q
+
+?Agar natija ustunining simpleks jadvalida musbat qiymatlar bo'lmasa, demak ...
++Masalani yechib bo'lmaydi
+-Maksimal rejaga eng maqbuli topiladi
+-Minimal rejaga eng maqbuli topiladi
+-barcha javoblar to'g'ri
+
+?simpleks jadvalining oxirgi satrida  manfiy qiymatlar bo'lmasa, demak ...
++eng maqbul maksimal rejaga topiladi
+-masalani yechib bo'lmaydi
+-minimal rejaga eng maqbuli topiladi
+-to'g'ri javob yo'q
+
+?Qaysi holatda matematik dasturlash masalasi chiziqli bo'ladi?
++agar uning maqsad funktsiyasi va shartlari chiziqli bo'lsa
+-faqat maqsad funktsiyasi chiziqli bo'lsa
+-faqat chegaraviy shartlar chiziqli bo'lsa
+-barcha javoblar to'g'ri
+
+?Oldindan yaratilgan ma'lumotlar to'plamida aniq ma'lumotlarni topish jarayoni nima deb ataladi?
++qidirish
+-kalit
+-tartiblash
+-saralash
+
+?Agar sun'iy bazis usulida masalani yechishda sun'iy o'zgaruvchining optimal qiymati musbat songa teng bo'lsa, u holda ...
++Mumkin bo’lganrejalar maydoni bo’sh
+-masalaning optimal rejasini topdi
+-maqsad funktsiyasi cheklanmagan
+-to'g'ri javob yo'q
+
+?Qiymati qidirilayotgan yozuv maydoni qanday nomlanadi?
++kalit
+-tartiblash
+-qidirish
+-saralash
+
+?Berilgan to'plamni tashkil etuvchi ob'ektlar ... deyiladi
++elementlar
+-massivlar
+-ob'ektlar
+-birliklar
+
+?Optimal chiziqli dasturlash masalasi nima?
++maqsad funksiyasining optimal rejadagi qiymati
+-optimal reja
+-Maqsad funksiyasining har qanday qiymati
+-barcha javoblar to'g'ri
+
+?Simpleks jadvalining optimallik mezoni nima?
++mezon shartidagi barcha koeffitsientlar manfiy (yoki musbat bo'lmagan) bo'lishi kerak.
+-barcha bazis o’zgaruvchilar manfiy (yoki musbat) bo'lmasligi kerak
+-barcha bazis o’zgaruvchilar manfiy bo'lmasligi kerak
+-barcha javoblar to'g'ri
+
+?Simpleks usuli bilan chiziqli dasturlash masalasini yechishga urinayotganda, kerakli miqdordagi asosiy o'zgaruvchilar topilmasa, ...
++Simpleks usulida masalani yechish uchun sun'iy bazisni kiritish kerak
+-masalani faqat graf tarzda yechish mumkin
+-masalani yechib bo'lmaydi
+-to'g'ri javob yo'q
+
+?Chiziqli dasturlash masalasi uchun eng optimal reja nima?
++maqsad funktsiyasining maksimal yoki minimal qiymatni oladigan reja
+-mumkin bo'lgan mahalliy rejalarining har qanday qiymati
+-rejasi, uni hisobga olgan holda masalani yechishni boshlash kerak
+-to'g'ri javob yo'q
+
+?Qanday signal analog deb ataladi?
++vaqt o'qiga nisbatan vaqtning har bir lahzasida aniqlangan qiymatlarning uzluksiz chizig'i bilan ifodalanishi mumkin bo'lgan signal.
+-Vaqt o'qiga nisbatan oz sonli qiymatlarning siniq chizig'i bilan taqdim etiladigan signal
+-fazoviy o'qga nisbatan har bir vaqt nuqtasida aniqlangan qiymatlar ko'pligining uzluksiz chizig'i bilan ifodalanishi mumkin bo'lgan signal
+-to'g'ri javob yo'q
+
+?Analog signal qiymatlari bilan nimani ifodalash mumkin?
++Muayyan uzluksiz funktsiya (o'zgaruvchi sifatida vaqtga bog'liq) va vaqtning bo'lak-bo'lak uzluksiz funksiyasi
+-Muayyan uzluksiz funktsiya (o'zgaruvchi sifatida vaqtga bog'liq)
+-Muayyan uzluksiz funktsiya (o'zgaruvchi sifatida bo'sh joyga qarab)
+-to'g'ri javob yo'q
+
+?Qanday signal diskret deyiladi?
++Agar ma'lum bir signal faqat turli vaqtlarda alohida qiymatlarni qabul qilsa
+-Agar signal ixtiyoriy bo'lsa, qiymatlar faqat doimiy
+-Agar ma'lum bir signal faqat diskret joylarda o'zboshimchalik qiymatlari bo'lsa
+-Barcha javoblar to'g'ri
+
+?Diskretlash davri - bu
++Diskretlangan signalning ketma-ket ikkita namunasi orasidagi davr
+-Uzluksiz signalni namuna olish vaqtida namuna olish chastotasi
+-Ikkala javob ham to'g'ri
+-To'g'ri javob yo'q
+
+?Raqamli signal - bu
++faqat vaqt oralig'ida emas, balki daraja bo'yicha ham kvantlangan raqamli signal.
+-faqat vaqt oralig'ida kvantlangan raqamli signal
+-faqat bir tekisda joylashgan raqamli signal
+-to'g'ri javob yo'q
+
+?Qaysi signalni Furye qatoriga yoyish mumkin?
++diskret
+-analog
+-raqamli
+-uzluksiz
+
+?Amalda ko'pincha Furye almashtirishlarining qanday turlari qo'llaniladi?
++davriy diskret signalni cheklangan Furye qatoriga ajratish mumkin.
+-davriy bo'lmagan uzluksiz yoki diskret signalni Furye integrali sifatida yozish mumkin;
+-davriy bo'lmagan raqamli signalni Furye integralida kengaytirish mumkin;
+-davriy uzluksiz signal Furyening cheksiz qatorida kengaytirilishi mumkin;
+
+?Qaysi holatda eng kichik kvadratlar usulidan foydalanish mumkin?
++chiziqli yoki chiziqli bo’lmagan regressiyada
+-Faqat birlashtirilgan regressiyada
+-faqat bir nechta masalada
+-kollinear regressiyalarda
+
+?... ni baholash uchun eng kichik kvadratlar usuli qo'llaniladi
++chiziqli regressiya parametrlari
+-korrelyatsiya koeffitsientining qiymatlari
+-determinatsiya koeffitsientining qiymati
+-o'rtacha yaqinlashish xatosi
+
+?Chiziqli regressiyasi y  a + bx ning parametrlarini qaysi usulda topish mumkin?
++eng kichik kvadratlar usulida
+-harakatlanuvchi o'rtacha usulida
+-analitik tekislash orqalida
+-barcha javoblar to'g'ri
+
+?Modellarni o‘rganish maqsadida ularni yaratish va o‘rganish qanday nomlanadi?
++modellashtirish
+-dasturlash
+-algoritmlash
+-loyihalash
+
+?Chiziqli regressiya tenglamasi quyidagicha bo'ladi
++yax+b
+-yax1+bx2
+-yax-b
+-yx3
+
+?Algoritmni to’liq qurishning qaysi bosqichida qanday matematik strukturadan foydalanish  hal etiladi?
++Modelni qurish
+-Masalaning qo’yilishi
+-Algoritmni ishlab chiqish
+-Dastur tuzish
+
+?Algoritmning baholashni asosiy kriteriyalarini ayting?
++2 ta: vaqt va hajm
+-3 ta: ishonclilik, aniqlik va tushunarlilik
+-2 ta: so’zli va blok sxemali
+-2 ta: testlash va dasturlash
+
+?Qaysi usul yordamida regressiya tenglamasining koeffitsientlarini aniqlash mumkin?:
++eng kichik kvadratlar usuli
+-Gauss usuli
+-simpleks usuli
+-eng kam modullar usuli
+
+?Model - bu
++ob'ektlar yoki jarayonlarning ma'lum bir belgilangan mezonlar bo'yicha tegishli ravishda o'rganiladigan ob'ektning mavhum yoki haqiqiy ko'rinishi lar
+-asl nusxaga o'xshashlik
+-asl nusxasi
+-to'g'ri javob yo'q
+
+?Regressiya - bu
++biror tasodifiy miqdor oʻrta qiymatining boshqa bir tasodifiy miqdoriga bogʻlikligi
+-o'zgaruvchilar orasidagi korrelyatsiya darajasi
+-Ekonometriya bo'limi
+-to'g'ri javob yo'q
+
+?Quyidagi dasturda n159 bo’lsa, int an%10+n/10%10+n/100; ifodasida a ning qiymatini toping
++15
+-159
+-105
+-59
+
+?To'liq qidiruvning ta'rifini bering:
++barcha mumkin bo'lgan variantlarni sinab ko'rish orqali masalani yechish usuli.
+-ba'zi variantlarni sinab ko'rish orqali masalani yechish usuli.
+-barcha mumkin bo'lgan usullarni sinab ko'rish orqali masalani yechish usuli.
+-To'g'ri javob yo'q
+
+?“Bo’lish va hukmronlik qilish” usulidan foydalanib, massivdagi inversiyalar sonini qanchalik tez hisoblashimiz mumkin?{
++O (n log n)
+-O (n ^ 3)
+-O (n ^ 2)
+-O (n)
+
+?Shifrlash kalitlarini saralashdan maqsad nima?
++elementlarni ularning kalitlari aniq belgilangan qoidalarga (odatda raqamli yoki alifbo tartibida) muvofiq bajarilishi uchun qayta tartiblaydi.
+-elementlarni qayta tartiblaydi 
+-elementlarning kalitlarini kalit yoshiga mos ravishda kuzatib borishi uchun ularni qayta tartiblashdir
+-to'g'ri javob yo'q
+
+?Algoritm O(N) murakkablik bilan bajarilishida 256 s vaqt sarflasa, shu algoritm O(NlogN) murakkablik bilan qancha vaqt sarflaydi?
++2048
+-1024
+-100
+-500
+
+?Algoritm O(N) murakkablik bilan bajarilishida 11 s vaqt sarflasa, shu algoritm O(N^2) murakkablik bilan qancha vaqt sarflaydi?
++121
+-120
+-220
+-100
+
+?Pufakchali saralashning g'oyasi nima?
++Ketma-ketlikning qo'shni elementlari bir-biri bilan taqqoslanadi va agar kerak bo'lsa, almashtiriladi
+-Elementlar ularning kalitlari aniq belgilangan qoidalarga (odatda raqamli yoki alifbo tartibida) muvofiq bajarilishi uchun qayta tartibga solinadi.
+-massivning ketma-ket shakllangan tartiblangan qismi, unga uning saralanmagan qismida tanlangan boshqa elementning oxirini qo'shish orqali
+-Massivning saralangan qismi ham uning saralanmagan qismidan unga elementlarni ketma-ket qo'shish orqali hosil bo'ladi. Endi esa, keyingisi saralanmagan qismning birinchi elementini oladi. Uning rad etish qismidagi joylashuvi allaqachon mavjud tartibni saqlab qolish uchun tanlangan
+++++
+
+?Quyida funksiya x4 da qanday qiymat qaytaradi? Int ran(x) { if (x  1) return 1 else: return x * ran(x-1)}
++24
+-15
+-30
+-32
+
+?Quyida funksiya x5 uchun qanday qiymat qaytaradi? Int ran(x){ if x  1: return 1 else: return x * ran(x-1)}
++120
+-100
+-64
+-95
+
+?Ikkilik qidiruv - bu
++to'plamni qayta-qayta ikki qismga bo'lib izlash
+-to'plamni qayta-qayta ikki qismga bo'lmasdan izlash
+-to'plamni qayta-qayta uchga qismga bo'lib izlash
+-to'plamni qayta-qayta to’rtga qismga bo'lib izlash
+
+?Quyidagi algoritmik baholashlarning qaysi biri eng kam vaqtda bajariladi?
++O(N)
+-O(N^3)
+-O(N^2)
+-O(NlogN)
+
+?Deyskrit algoritmi nimaga asoslanadi?
++Xasislik yondashuvda
+-Dinamik dasturlashga
+-Bo’lish va hukmdorlik qilishga
+-To’la tanlashga
+
+?Qaysi algoritm xasislik yondashuvga asoslannaydi?
++Eng qisqa yo'lni topish algoritmi
+-Huffman algoritmi
+-Kruskal algoritmi
+-Prim algoritmi
+
+?Keyingi qadamda nima bo'lishidan qat’iy nazar har bir qadamda maqbul echimni oladigan algoritm qanday ataladi?
++xasislik algoritm
+-"bo'lish va hukmronlik qilish" algoritmi
+-Huffman algoritmi
+-Kruskal algoritmi
+
+?Muayyan xususiyat bilan bir-biriga bog'liq bo'lgan bir butun ob'ektlarni birlashtirish
++To’plam
+-Birlashma
+-Ost to'plamlar
+-Qism
+
+?To’plamlar qanday turda bo’lishi mumkin?
++Barcha javoblar to'g'ri
+-Chekli
+-Cheksiz
+-Bo’sh
+
+?Chekli to'plam nima deyiladi
++chekli sonli elementlardan iborat toʻplam
+-elementlarning bo'sh raqamlaridan iborat to'plam
+-cheksiz sonli elementlardan iborat to'plam
+-cheksiz sonda cheklangan miqdordagi elementlar
+
+?Kruskal algoritmi - bu
++grafni kirish sifatida qabul qiluvchi va har bir uchini oʻz ichiga oluvchi daraxtni tashkil etuvchi va grafdan hosil boʻlishi mumkin boʻlgan barcha daraxtlarning minimal ogʻirliklari yigʻindisiga ega boʻlgan graf qirralarining kichik toʻplamini topadigan minimal kenglikdagi daraxt algoritmi.
+-Algoritmlar, har bir qadamda, keyin nima bo'lishidan tashvishlanmasdan, mahalliy darajada optimal echim qabul qilinadi
+-To'g'ri javob yo'q
+-Ikkala javob ham to'g'ri
+
+?Algoritmning bosqichlari quyida tavsiflanadi Kam vaznning barcha qirralarini yuqoriga tartiblang. Eng kam og'irlikdagi qirrasini oling va uni yoyilgan daraxtga qo'shing. Agar grafda yaratish uchun qirra qo'shilgan bo'lsa, unda bu chetini rad eting. Barcha tugunlarga yetguncha qirralarni qo'shishda davom eting.
++Kruskal algoritmi
+-xasislik algoritm
+-Huffman algoritmi
+-Algoritm "bo'l va zabt et"
+
+?Barcha to'g'ri bayonotlarni tanlang. I.TM potentsial cheksiz xotira bilan jihozlangan II.Tyuring mashinasi - algoritmning aniq matematik tavsifi III.Har bir katakka bir nechta tashqi alifbo belgilaridan TM yozilishi mumkin IV.TM dastur tomonidan boshqariladi VI.TM faqat bitta lenta bo'lishi mumkin
++I, II, IV 
+-I, II, III 
+-III, IV, V 
+-II, IV, V 
+
+?Agar ikki qo’shni element noto’g’ri tartibda joylashib qolgan bo’lsa, ularning o’rnini almashtirish qaysi algoritm?
++Pufakcha usulida saralash
+-Tanlab saralash
+-Tezkor saralash
+-Birlashtirish orqali saralash
+
+?Berilgan masalalardan qaysi biri NP-to’liq masalalar turkumiga kiradi?
++Tyuring mashinasi
+-Maksimumni toppish masalasi
+-Saralash masalasi
+-Qidirish algoritmi
+
+?Graf ulangan bo'lsa, har qanday uchdan har qanday uchga kirish imkoni mavjud bo'lganda, unda bunday graf qanday deb nomlanadi?
++Yo’naltirilgan
+-Yo'naltirilmagan
+-Erkli
+-Erksiz
+
+?Agar graf birlashtirish matritsasi yordamida saqlansa, kenglik birinchi izlash algoritmining murakkabligi
++O (n^2)
+-O (n + m)
+-O (n)
+-O'nlik sonni bittaga oshirish. Vagon ixtiyoriy sonni ko'zdan kechiradi
+
+?Agar grafda n qirralar va m qirralar bo'lsa, unda kenglik bo’yicha izlash algoritmining murakkabligi qanday?
++O (n + m)
+-O (n2)
+-O (n)
+-O (n* m)
+
+?Polinimial masalalar bu…
++Vaqt maboynida ishlovchi algoritmlar
+-Blok sxemalar bilan ishlovchi algoritmlar
+-Graflar masalasidagi algoritmlar
+-to’g’ri javob keltirilmagan.
+
+?P algoritmlarining afzalliklari
++Barcha javoblar to'g'ri
+-P sinfidagi ko'pgina masalalar uchun doimiy holat 6 dan kichik;
+-P sinfi hisoblash modeliga nisbatan o'zgarmasdir (keng toifadagi modellar uchun);
+-P sinfi tabiiy yopilish xususiyatiga ega (koʻphadlarning yigʻindisi yoki koʻpaytmasi koʻphaddir).
+
+?NP-masala uchun qaysi ta'rif to'g'ri (chiziqli bo'lmagan polinom va chiziqli bo'lmagan polinom):
++yechimi polinom vaqtida deterministik Tyuring mashinasida tekshirilishi mumkin bo'lgan masala
+-Polinom bo'lmagan vaqtdaTyuring mashinasida (NTM) yechib bo'lmaydigan masalalar sinfi
+-polinom vaqtida deterministik Tyuring mashinasida (DTM) yechish mumkin bo'lgan masalalar sinfi..
+-To'g'ri javob yo'q
+
+?Qanday masala NP-to'liq masala deb nomlanadi&
++agar u NP sinfiga tegishli bo'lsa va NP dan boshqa har qanday masala polinom vaqtda unga keltiriladi
+-agar u NP va NP-to'liq sinfiga tegishli bo'lsa. Ba'zi NP masalalari.
+-agar u NP-to'liq masala bo'lsa, u polinom vaqtida C ga kamayadi.
+-To'g'ri javob yo'q
+
+?NP-oraliq masala deb ataladi
++agar u NP va NP-to'liq sinfiga tegishli bo'lsa. 
+-agar u NP sinfiga tegishli bo'lsa va NP ning boshqa har qanday vazifasi ko'p nomli vaqt ichida unga qisqartirilsa
+-agar u NP-to'liq masala bo'lsa, u polinom vaqtida C ga kamayadi (algoritmik qaytarilish Kuk).
+-To'g'ri javob yo'q
+
+?C Masala NP-qiyin deb ataladi, agar
++u NP-to'liq masala bo'lsa va polinom vaqtida C ga keltirilsa
+-u NP sinfiga tegishli bo'lsa va NP ning boshqa har qanday vazifasi ko'p nomli vaqt ichida unga qisqartirilsa
+-u NP va NP-to'liq sinfiga tegishli bo'lsa. Ba'zi NP masalalari (graflarning izomorfizmi, mantiqiy funktsiyani minimallashtirish, ...) uchun (hozirda) NP-to'liq sinfga tegishli ekanligi isbotlanmagan.
+-To'g'ri javob yo'q
+
+?Raqamli tartiblash algoritmining hisoblash murakkabligi qanday?
++Chiziqli
+-Kvadratik
+-kub
+-eksponensial
+
+?Tezkor saralash algoritmining murakkablik bahosi qanday?
++O(NlogN)
+-O(n^2)
+-O(n^3)
+-O(n)
+
+?Saralash algoritmi, unda tartiblangan elementlar cheklangan miqdordagi alohida birliklarga bo'linadi, shunda bitta blokdagi barcha elementlar har doim ikkinchisidan kattaroq (yoki kichikroq) bo'ladi? bu-.
++blokli saralash
+-strukturali saralash
+-massiv saralash
+-pufakchali saralash
+
+?Elementga raqami bo'yicha kirishda bog'langan ro'yxatlarda qancha taqqoslash va xotira talab qilinadi?
++n/2
+-2n 
+-log n
+-n
+
+?Bir bog'lamli ro'yxatini saralash algoritmi murakkabligi ...
++O (nlogn)
+-O(n)
+-O (logn)
+-O (2n)
+
+?Bog'langan ro'yxatni saralash uchun qancha xotira talab etiladi?
++O (logn)
+-O(n)
+-O (2n)
+-O(n/2)
+
+?Ikki marta bog'langan ro'yxatni saralashning murakkabligi
++O(n)
+-O (logn)
+-O (n2)
+-O(n/2)
+
+?Saralash algoritmi uchun ideal hisoblash murakkabligi
++O(n)
+-O (logn)
+-O (nlogn)
+-O(n/2)
+
+?Teng elementlarning nisbiy o'rnini o'zgartirmaydigan tur nima deyiladi
++barqaror
+-modal
+-assotsiativ
+-int
+
+?Saralangan yoki qisman tartiblangan ma'lumotlarni qayta ishlashda saralash usulining samaradorligi nima deyiladi&
++Tabiiylik
+-Assotsiativlik
+-yakuniylik
+-Barqaror
+
+?Saralashning asosiy turlari quyidagilardan qaysi biri?
++Ichki
+-Rekursiv
+-variant
+-tashqi
+
+?Heap sortning murakkabligini belgilang?
++O (nlogn)
+-O (logn)
+-O(n)
+-O(n/2)
+
+?Tanlab saralashning murakkabligi qanday?
++O (n^2)
+-O(n)
+-O (logn)
+-O(n/2)
+
+?Taqqoslashga asoslanmagan saralash algoritmlariga qanday algoritmlar kiradi?
++barcha javoblar to'g'ri
+-blokli saralash
+-radix tartiblash
+-hisoblash turi
+
+?Xasislik algoritmida 30,20,10,5 kg lik toshlar bo’lganda 70 kg yuk oladigan yashikka eng ko’pi bilan qancha og’irlik joylanadi?
++60
+-70
+-50
+-80
+
+?Har bir kalit almashinish radiusi tartibida qanday ifodalanadi
++ikkilik shaklda
+-kasr shaklida
+-modifikatorlar shaklida
+-ko’plik shaklida
+
+?Xasislik algoritmida 30,20,15 kg lik toshlar bo’lganda 35 kg yuk oladigan yashikka eng ko’pi bilan qancha og’irlik joylanadi?
++30
+-35
+-65
+-20
+
+?Tartibga solinmagan ma'lumotlar massividan to'plam yaratish qancha vaqt oladi?
++O (nlogn)
+-O(n)
+-O (n*n)
+-O(n+n)
+
+?Fibonachchi to'plami -
++daraxt to'plam
+-identifikatorlar massivi
+-kalit va ma'lumotlar konteyneri
+-bo’sh to’plam
+
+?Periferik qurilmalarda joylashgan va operativ xotiraga sig'maydigan ma'lumotlarni saralash ... deyiladi
++tashqi
+-modulli
+-ichki
+-razryadli
+
+?Butun sonni ustunlarda ko'paytirish algoritmining murakkabligi qanday?
++O (n ^ 2)
+-O (n)
+-O (n ^ 3)
+-O (n ^ log3)
+
+?Birlashtirish orqali tartiblash algoritmining ishlash vaqti -
++O (nlogn)
+-O (logn)
+-O(n)
+-O(1)
+
+?Birlashtirish bilan  tartibi  ...  bo'lishi mumkin
++tabiiy
+-modulli
+-konstruktiv
+-noodatiy
+
+?Dastlabki "qo'pol" o'tishlar bilan orniga qo'shish tartiblasi qanday ataladi?
++Shell saralashi
+-Eyler saralashi
+-saralash brendi
+
+?Grafning uchlari va qirralari toʻplami chekli boʻlsa, u qanday nomlanadi?
++chekli
+-cheksiz
+-oddiy
+-multigraf
+
+?G grafigining n(G) uchlari soni:
++qrafning tartibi
+-graf pariteti
+-uchlarning qo'shniligi
+-grafigining qirralarining koʻpligi
+
+?Grafning biror uchiga insident(tutashgan) qirralari son qanday ataladi?
++graf darajasi;
+-tepalikning mahalliy darajasi;
+-graf uchlari to'plami;
+-qo'shni qovurg'alar.
+
+?Agar ikkita uch insident(tutashgan) bo’lsa, ular ... deyiladi:
++qo'shni
+-bu uchning so'nggi uchlari
+-bir-biriga sodir bo'lgan voqea
+-qo'shni bo'lmagan
+
+?Uchlari va qirralari to'plami bo'sh bo'lgan graf qanday nomlanadi:
++bo'sh
+-bo'sh bo'lmagan
+-null graf
+-ko'rinmas
+
+?Bir xil juft uchlarga insident(tutashga) qirralar nima deyiladi?
++qo'shni
+-bir nechta
+-halqa
+-bir-biriga tasodifiy
+
+?Har qanday uchni o'zi bilan bog'laydigan qirra nima deyiladi?
++halqa
+-o'z-o'zidan tasodifiy
+-Gamiltonian
+-qo'shni uch
+
+?Ko'p qirrali graf ... deyiladi:
++psevdograf
+-multigraf
+-null graf
+-oddiy
+
+?Juft  qirralari va halqasibo'lmagan chekli yo'naltirilmagan graf qanday nomlanadi?
++multigraf
+-psevdograf
+-oddiy
+-null graf
+
+?Uchlari juftliklari tartiblangan graf qanday nomlanadi?
++orggraf
+-psevdograf
+-multigraf
+-null graf
+
+?Yo'naltirilgan grafning qirralari qanday nomlanadi?
++yoylar
+-halqalar
+-chiziqlar
+-nuqtalar
+
+?Qirrasi va yoylari bo'lgan graf qanday nomlanadi?
++aralash
+-digraf
+-multigraf
+-oddiy
+
+?Agar grafning qirra va uch to'plamlari chekli bo'lsa, graf quyidagicha qanday nomlanadi?
++cheklangan
+-cheksiz
+-vaznli
+-aralashgan
+
+?Grafning tartibi ... ga teng?
++uchlari soni
+-qovurg'alar soni
+-ko'p qovurg'alar
+-ko'p uchlar
+
+?G grafigining v uchining darajasi ...
++v uchsiga tushgan qirralarning soni;;
+-G grafdagi uchlari soni;
+-v uchsiga tushadigan qirralarning og'irligi;
+-uchiga tushadigan qirralarning ko'pligi v.
+
+?Qirralari va halgalari bo'lmagan chekli yo'naltirilmagan graf -
++oddiy graf
+-sugraf
+-vaznli graf
+-null graf
+
+?Marshrutni tashkil etadigan qirralar soni uning .... deyiladi:
++uzunligi
+-buyurtma
+-zichlik
+-o'lcham
+
+?Marshrut zanjir deb ataladi, agar unda har bir uch ... qatnashsa.
++faqat bir marta
+-bir martadan ko'p
+-ikki martadan ko'p bo'lmagan
+-kamida ikki marta
+
+?Agar marshrutning birinchi uchi oxirgisi bilan bir xil bo'lsa, u holda marshrut ... deyiladi:
++yopiq
+-ochiq
+-oddiy
+-qiyin
+
+?Agar zanjir yopiq bo'lsa, u ... deyiladi:
++sikl
+-oddiy tsikl
+-daraxt
+-oddiy daraxt
+
+?Har bir uch marshrutda ko'pi bilan bir marta qatnashsa .... deyiladi:
++zanjir
+-oddiy tsikl
+-tsikl
+-oddiy zanjir
+
+?Yo'naltirilgan grafdagi marshrut ... deyiladi:
++yo’l
+-sikl
+-chetlab o'tish
+-zanjir
+
+?Oddiy grafda marshrutni uning ... ketma-ketligi bilan ko'rsatish mumkin.
++uchlar
+-halqalar
+-zanjirlar
+-sikllar
+
+?Graflar nazariyasining asoschisi kim?
++Eyler
+-Hamilton
+-Kantor
+-bu odam fanga ma'lum emas
+
+?Eyler qanday masalani hal qildi?
++Kenigsberg ko'priklari masalasini
+-graf chizish masalasini
+-A nuqtadan B nuqtaga yo'l masalasini
+-eng qisqa yo'l masalasini
+
+?Marshrutda bir xil uch necha marta qatnashishi mumkin7
++Bir marta
+-hech qachon
+-ikki marta
+-xohlaganingizcha
+
+?Algoritmlar nazariyasining asosiy natijalaridan biri … ecimining mavjudligini isbotlashdir?
++ba'zi yechib bo'lmaydigan masalalar
+-har qanday masalani yechish
+-hal qilinishi kerak bo'lgan ba'zi masalalar
+-Har qanday masalani yechish uchun Markov algoritmi
+
+?Quyidagi masalardan qaysi biri NP to’liqlik masalalaga kiradi?
++Grafni bo’yash  masalalari
+-OYD ni yechish masalalari
+-Basic tilida arifmetik amallar masalalari
+-to’g’ri javob yo’q
+
+?Algoritmning polinom murakkabligi - vaqt va xotira  imkoniyatlari hajmiga bog'liqligi … shakliga ega bo'lgan algoritmning murakkabligi.
++darajali ko'phad
+-Eksponensial
+-Logarifm
+-birinchi darajali polinom
+
+?Polinomial vaqtda ishlaydigan algoritmlar qachon tuzish mumkin&
++barcha haqiqiy ma'lumotlar variantlarini sanab o'tirmasdan yechim topish mumkin bo’lganda
+-barcha joriy ma'lumotlar variantlarini takrorlamasdan yechim topa olmaydi
+-barcha joriy ma'lumotlar variantlarini qidirish bilan yechim topish mumkin
+-barcha joriy ma'lumotlar variantlarining yarmini yoki undan ko'pini sanab o'tadigan yechimni topish mumkin
+
+?Polinom algoritmi - vaqt murakkabligi T(n) nimaga teng (n - masalaning o'lchami, p(n) n ning ko‘phadi)?.
++T(n)=O(p(n)) 
+-T(n)=O(p(n)) 
+-T(n)<O(p(n)) 
+-T(n)>O(p(n))
+
+?P = NP masalasi bu:
++agar ba'zi bir savolga musbat javobni polinom vaqtida tekshirish mumkin bo'lsa, u holda bu savolga javobni ko'phad vaqtda topish mumkin.
+-agar savolga manfiy javobni polinom vaqtida tekshirish mumkin bo'lsa, u holda bu savolga javobni ko'p nomli vaqtda topish mumkin
+-agar biron bir savolga musbat javobni eksponensial vaqt ichida tekshirish mumkin bo'lsa, u holda bu savolga javobni polinom vaqtida topish mumkin.
+-agar ba'zi bir savolga musbat javobni polinom vaqtida tekshirish mumkin bo'lsa, u holda bu savolga javobni eksponensial vaqt ichida topish mumkin.
+
+?Tyuring mashinasining o'z-o'zidan qo'llanilishini tan olish masalasi qanday talqin qilinadi?
++algoritm bo'yicha qaror qabul qilib bo'lmaydi
+-algoritmik jihatdan hal qilinishi mumkin
+-masalalarning P sinfiga kiradi
+-NP masalalari sinfiga kiradi
+
+?Tyuring mashinasining o'z-o'zidan qo'llanilishi masalasi qanday tuzilgan?
++Turing mashinasi o'z kodiga ega
+-Tyuring mashinasi tashqi alifbodagi har qanday so'z uchun qo'llaniladi
+-Turing mashinasi ichki alifbodagi har qanday so'z uchun qo'llaniladi
+-Turing mashinasi tashqi alifbodagi so'zlarning sanab o'tiladigan to'plamiga nisbatan qo'llaniladi
+
+?Masalaning hajmibi belgilovchi xususiyat nima?
++dastlabki ma'lumotlarning qiymati yoki ularning soni
+-algoritmni amalga oshiradigan dastur uzunligi
+-algoritmni amalga oshiradigan dasturning ishlash vaqti
+-algoritmni amalga oshiradigan dasturdagi davrlar soni
+
+?Algoritmning hisoblash qobiliyati nimani bildiradi?
++algoritmda ko'rsatilgan ko'rsatmalarni bajarishga qodir hisoblovchi bo'lishi kerak
+-algoritm cheklangan miqdordagi ko'rsatmalarni o'z ichiga oladi
+-algoritmning barcha ko'rsatmalari diskret tarzda bajariladi, ya'ni. uzluksiz analog qurilmalardan foydalanmasdan
+-bir xil ma'lumotlarda algoritm har doim bir xil tarzda ishlaydi
+
+?Algoritmning diskretlik xossasi nimani bildiradi?
++algoritmning barcha ko'rsatmalari diskret tarzda bajariladi, ya'ni. uzluksiz analog qurilmalardan foydalanmasdan.
+-algoritmning individual ko'rsatmalari uzluksiz analog qurilmalar yordamida bajariladi.
+-algoritmning individual ko'rsatmalari uzluksiz bajariladi
+-algoritm cheklangan miqdordagi ko'rsatmalarni o'z ichiga oladi
+
+?Algoritmning cheklilik xususiyati nimani bildiradi?
++har qanday algoritm chekli o'lchamli ko'rsatmalar ketma-ketligi bilan beriladi
+-har qanday algoritm cheksiz o'lchamdagi buyruqlar ketma-ketligi bilan beriladi
+-har qanday algoritm tugatilishi kerak
+-algoritm dasturi loop bo'lmasligi kerak
+
+?Algoritmning samaradorlik xossasi nimani bildiradi?
++algoritm samarali bo'lishi kerak, ya'ni. cheklangan miqdordagi qadamlardan keyin qandaydir natija bilan tugaydi
+-algoritm amalga oshiriladigan bo'lishi kerak
+-algoritm cheklangan miqdordagi ko'rsatmalarni o'z ichiga olishi kerak
+-algoritm dasturida tsikllar bo'lmasligi kerak
+
+?Qaysi sinfdagi masalalarni yechish qiyinroq?
++NP\P
+-NPC
+-NPÈP
+-NP
+
+?Qisman rekursiya - yordami bilan eng oddiylaridan tuzilgan funksiyaning xususiyatlari qanday bo’ladi?
++superpozitsiya, primitiv rekursiya va minimallashtirish operatorlarining chekli soni
+-superpozitsiya va minimallashtirish operatorlarining chekli soni
+-ibtidoiy rekursiya va minimallashtirish operatorlarining chekli soni
+-superpozitsiya, primitiv rekursiya va minimallashtirish operatorlarining cheksiz soni
+
+?Qisman rekursiv funksiyalar algoritm modelidir, agar ...
++algoritm tushunchasini algoritm bilan hisoblash mumkin bo'lgan narsalar nuqtai nazaridan ko'rib chiqsa
+-berilgan funksiya doirasini belgilasa
+-ushbu funktsiya doirasini belgilasa
+-funksiyaning nollarini aniqlasa
+
+?Ikki o’lchovli massivlarni qayta ishlash bilan bog’liq muammolarda kirish hajmi ... hisoblanadi.
++Massivdagi elementlar soni
+-Grafning uchlari va qirralarining soni
+-Grafning uchlari soni
+-Kompyuter xotirasida ma’lumotlarni aks yettirish uchun zarur bo’lgan bitlarning umumiy soni
+
+?Ikki o'zgaruvchining qiymatlarini almashish algoritmi - a va b - necha bosqichda amalga oshiriladi?
++3
+-2
+-Bitta
+-4
+++++
+
+?n o'quvchidan iborat sinfdagi birinchi parta uchun qo'shnilar juftini necha usul bilan mustaqil tanlash mumkin?  
++n(n-1) usul
+-n(n+1) usul
+-n usul
+-n * n yo'llari
+
+?Raqamlarni "burchak" bo'lishning ma'lum algoritmi qanday xususiyatga ega?
++Korrekt bo’lmagan
+-Korrekt
+-Samarali
+-qulay
+
+?n*n matritsalarni ko‘paytirish algoritmining murakkabligi qanday?
++n*n*n
+-n*n
+-N
+-n*(n+1)
+
+?Taqribiy  hisoblashda integralning qiymati qanday baholanadi?
++Hisoblash xatosini baholash
+-Natija xatosini baholash
+-Qiyinlikni baholash
+-To'g'rilikni baholash
+
+?[a,b] kesmalarga ajratish nima deb ataladi? Bunda tenglamaning bitta va faqat bitta ildizi bor
++Ildizni ajratish
+-Chegaralarning ta'rifi
+-Ildizlarning ta'rifi
+-Qiyinchilik ta'rifi
+
+?Hajmi V=300 bo’lgan to’g’ri burchakli parallellopipedni qurish uchun kamroq material sarflaganda matematik modelning maqsad funktsiyasini aniqlang.
++F=2(ab+(a+b)h)-min
+-F=2(ab+(a+b)h)-max
+-F=2ab+(a+b)h-min
+-F=ab+(a+b)h)-max
+
+?Hajmi V=300 bo’lgan to’g’ri burchakli parallellopipedni qurish uchun kamroq material sarflaganda matematik modelning shartlarini aniqlang.
++abh=300
+-abc=200
+-abh<200
+-abc>200
+
+?Chiziqli dasturlash (CHD) masalalarini yechishning graf usulining birinchi bosqichi qanday nomlanadi?
++CHD masalasiga ruxsat etilgan echimlar to'plamini qurish
+-CHD masalasini yechishning zaruriy to'plamini qurish
+-barcha ruxsat etilganlar orasida optimal echimni topish
+-barcha ruxsat etilganlar orasida aniq yechim topish
+
+?Chiziqli dasturlash (CHD) masalalarini yechishning graf usulining ikkinchi bosqichi qanday nomlanadi?
++barcha ruxsat etilganlar orasida optimal echimni topish
+-CHD masalasiga ruxsat etilgan echimlar to'plamini qurish
+-CHD masalasini yechishning zaruriy to'plamini qurish
+-barcha ruxsat etilganlar orasida aniq yechim topish
+
+?Chiziqli dasturlash masalasining olingan optimal yechimiga o‘zgaruvchan model parametrlarining ta’sirini o‘rganish qanday nomlanadi?
++sezgirlik tahlili
+-murakkablik tahlili
+-to'g'riligini tahlil qilish
+-konvergentsiya tahlili
+
+?Simpleks usulining oxirgi baholash satrida manfiy belgilar mavjud bo'lsa, nima qilish kerak?
++simpleks usulining keyingi bosqichiga o'tishingiz kerak
+-simpleks usulining oldingi bosqichiga o'tishingiz kerak
+-simpleks jadvalining oldingi ustuniga o'tishingiz kerak
+-simpleks jadvalining keyingi qatoriga o'ting
+
+?Simpleks jadvalining oxirgi qatorida manfiy belgilar bo'lmasa, u holda .....
++optimal reja topildi
+-optimal reja topilmadi
+-optimal reja mavjud emas
+-optimal rejani topib bo'lmaydi
+
+?y=x*x funktsiyasi juft bo'lganligi sababli, uning Furye qatorining kengayishi ... o'z ichiga oladi.
++faqat kosinuslarni
+-faqat sinuslarni
+-faqat tangenslarni
+-faqat elementar funktsiyalar
+
+?Karatsuba algoritmining murakkabligi qanday?
++0(nlog3)
+-0(nlog2)
+-0(nlog)
+-0(n2)
+
+?Prim algoritmi tomonlar soni graf uchlarining kvadratiga to'g'ri keladigan ....da qo'llaniladi.
++to'yingan graflar
+-to'yinmagan graflar
+-yo'naltirilgan graflar
+-oddiy graflar
+
+?Prim algoritmining mohiyati shundan iboratki...
++xasislik qidiruv
+-to'liq qidiruv
+-dinamik dasturlash
+-qisman ro'yxatga olish
+
+?To'plamni bir-biriga mos kelmaydigan kichik to'plamlarga bo'lishda siz ... kiritishingiz kerak.
++Asosiy vektor
+-har qanday vektor
+-skaler vektor
+-parallel vektor
+
+?Qanday usulda xalta masalasini yechish mumkin emas?
++Simpleks usuli
+-qo'pol kuch
+-Xasislik algoritm
+-Dinamik dasturlash
+
+?Grafning uchlarini qoplash (Vertex Cover) masalalarida faqat ... ko'rib chiqiladi.
++yo'naltirilmagan graflar
+-yo'naltirilgan graflar
+-yoyilgan daraxt
+-ikki tomonlama graflar
+
+?Qisman rekursiv funksiyalar algoritmi shunday  modeliki,ular ...
++algoritm tushunchasini algoritm bilan hisoblash mumkin bo'lgan narsalar nuqtai nazaridan ko'rib chiqsa
+-berilgan funksiya doirasini belgilasa
+-ushbu funktsiya doirasini belgilasa
+-funksiyaning nollarini aniqlasa 
+
+?Algoritmning cheklilik xususiyati nimani bildiradi?
++har qanday algoritm chekli o'lchamli ko'rsatmalar ketma-ketligi bilan beriladi
+-har qanday algoritm cheksiz o'lchamdagi buyruqlar ketma-ketligi bilan beriladi
+-har qanday algoritm tugatilishi kerak
+-algoritm dasturi loop bo'lmasligi kerak
+
+?Tyuring mashinasining o'z-o'zidan qo'llanilishi masalasi qanday tuzilgan?
++Turing mashinasi o'z kodiga egaligidan
+-Tyuring mashinasi tashqi alifbodagi har qanday so'z uchun qo'llaniladi
+-Turing mashinasi ichki alifbodagi har qanday so'z uchun qo'llaniladi
+-Turing mashinasi tashqi alifbodagi so'zlarning sanab o'tiladigan to'plamiga nisbatan qo'llaniladi
+
+?Algoritmlar nazariyasining asosiy natijalaridan biri …ni echib berganligida.
++ba'zi yechib bo'lmaydigan masalalar
+-har qanday masalani yechish
+-hal qilinishi kerak bo'lgan ba'zi masalalar
+-Har qanday masalani yechish uchun Markov algoritmi
